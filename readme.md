@@ -57,7 +57,7 @@ external force and motivation. This problem exists in both the spoken as well as
 population, it may also expand to rural areas as the reach of English schools
 and the internet widens. 
 
-	*This project currently is for working on the above problem only.*
+*This project currently is for working on the above problem only.*
 
 2. **Typing/writing Marathi using the Latin alphabet instead of Devanagari.** 
 
@@ -65,8 +65,7 @@ and the internet widens.
    - Not OK - **"me tujhya sobat marathi bolat ahe."**
    - OK - **"मी तुझ्या सोबत मराठीत बोलत आहे."**
    
-    This problem is something 
-that I feel should not exist in today's date, as we now have good keyboards for 
-typing in Marathi using Devanagari on all platforms be it mobile or computers. 
-However it continues to exist, as people find it easier to type using Latin 
-alphabet on the qwerty keyboard.
+This problem is something that I feel should not exist in today's date, as we 
+now have good keyboards for typing in Marathi using Devanagari on all platforms 
+be it mobile or computers.  However it continues to exist, as people find it 
+easier to type using Latin alphabet on the qwerty keyboard.
