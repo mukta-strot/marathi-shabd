@@ -58,10 +58,10 @@ Some places to do contributions
 - **Static website creation** - Basically parsing the database and creating an 
 output markdown file with all the content. This file will be used on the 
 github.io static website page. 
-**note** - I would particularly like help in this area as it is new to me as
+  - **note** - I would particularly like help in this area as it is new to me as
 well.
-- **Adding content in Marathi language** to this project's documentation 
-(readme, website pages etc.)
+- **Adding/correcting content in Marathi language** to this project's 
+documentation (readme, website pages etc.)
 
 *(This is the current plan and can be improvised.)*
 
@@ -70,31 +70,32 @@ I also have in mind quite a few other ideas related to creating resources in
 Marathi language, which I plan to start once I have this project's website first
  ready at some usable level.
 
-## What is there to save in the Marathi language?
+## What is the need to do this?
 
 As I see it, there 2 main problems which are explained below -
 
 1. **Excessive use of English words in Marathi sentences.**
 
-	Simply stated this 
-is using a lot of English words in our sentences where we could easily use 
-Marathi words. Example - 
+Simply stated this is using a lot of English words in our sentences where 
+we could easily use Marathi words. Example - 
+
   - Not OK - **"फार bore झालंय. चला एखादा picture बघूया."** 
   - OK - **"फार कंटाळा आलाय. चला एखादा चित्रपट बघूया. "**
 
  The direct consequence of this is that we are loosing our grip on the Marathi
 vocabulary. And this problem is ever growing like a snowball, which needs
-external force and motivation. This problem exists in both the spoken as well as
- the written form. Also while this is particularly serious in the urban 
-population, it may also expand to rural areas as the reach of English schools
-and the internet widens. 
+external force and motivation to fix it. This problem exists in both the spoken
+as well as the written form. Also while this is particularly serious in the 
+urban population, it may also expand to rural areas as the reach of English 
+schools and the internet widens. 
 
 *This project currently is for working on the above problem only.*
 
 2. **Typing/writing Marathi using the Latin alphabet instead of Devanagari.** 
 
- This is basically typing Marathi like this 
-   - Not OK - **"me tujhya sobat marathi bolat ahe."**
+This is basically typing Marathi like this 
+
+   - Not OK - **"me tujhya sobat marathit bolat ahe."**
    - OK - **"मी तुझ्या सोबत मराठीत बोलत आहे."**
    
 This problem is something that I feel should not exist in today's date, as we 
