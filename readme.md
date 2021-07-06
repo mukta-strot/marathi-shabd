@@ -1,4 +1,34 @@
-# मराठी शब्द (Marathi shabd)
+*For English, scroll down*
+
+# मराठी शब्द
+
+मराठी भाषा वाचवण्यासाठी मी हा ओपन सोर्स प्रोजेक्ट सुरू केला आहे. 
+
+माझ्या मते, आपली भाषा हळूहळू आणि कोणाचाही लक्षात न येता एका मृत भाषेच्या दिशेने वाटचाल करत आहे. 
+या उपक्रमात सगळ्यांचे स्वागत आहे, ज्यांना कोणाला हा एक गंभीर विषय वाटतो व त्यात काही सुधारणा करण्याची गरज आहे असे वाटते. 
+
+अगदी सोप्या रीतीने सांगायचं झाला तर खालील उदाहरण पहा - 
+
+१. मराठी वाक्यांमधील इंग्रजी शब्दांचा जास्त आणि अनावश्यक वापर.
+
+  - **अयोग्य** - "फार bore झालंय. चला एखादा picture बघूया."
+  - **योग्य** - "फार कंटाळा आलाय. चला एखादा चित्रपट बघूया. "
+
+२. देवनगरीऐवजी लॅटिन अक्षरे वापरुन मराठी टायपिंग / लिहिणे
+
+  - **अयोग्य** - "me tujhya sobat marathi bolat ahe."
+  - **योग्य** - "मी तुझ्या सोबत मराठीत बोलत आहे."
+
+अधिक माहितीसाठी खालील इंग्रजी मजकूर वाचा.
+**आपण सॉफ्टवेअर अभियंते जरी नसाल तरीही आपण योगदान करू शकता.**
+
+योगदान करण्यासाठी 
+
+१. "Github" वर आपले खाते बनवा 
+
+२. "Issues" मध्ये आपले नोंद करा. 
+
+# Marathi shabd
 
 ## About
 
@@ -28,6 +58,8 @@ Some places to do contributions
 - **Static website creation** - Basically parsing the database and creating an 
 output markdown file with all the content. This file will be used on the 
 github.io static website page. 
+**note** - I would particularly like help in this area as it is new to me as
+well.
 - **Adding content in Marathi language** to this project's documentation 
 (readme, website pages etc.)
 
