@@ -16,4 +16,5 @@ example
 | --- | --- |
 | English word | The English word to be replaced |
 | Marathi word | The Marathi word which is used as a replacement |
-| tags | topic(s) under which the word can be categorised |
+| tags | topic(s) under which the word can be categorised. Tags should be in
+English |
