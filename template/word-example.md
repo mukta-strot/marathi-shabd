@@ -27,3 +27,12 @@ I have **experience** in this.
 |अनुभव|मला यात **अनुभव** आहे|
 
 ---
+<option 04>
+
+## experience = अनुभव
+
+|I have experience in this.|
+|---|
+|मला यात अनुभव आहे|
+
+---
