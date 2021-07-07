@@ -32,8 +32,30 @@
 
 ## About
 
-This project is being developed with a **motive to help save the Marathi 
+This project is being developed as a part of an effort **to help save the Marathi 
 language** from its gradual and unnoticeable decline into a dying language.
+
+
+### Goal
+---
+
+This is the goal of the **overall idea** and not just this project.
+
+**Revive the usage of Marathi language in its original/unadulterated
+form in day-to-day life in both spoken and written medium.**
+
+How to do it?
+
+1. Make people realise that [these problems](#problems) exist
+2. Motivate them to work towards fixing it
+3. Provide them with resources (this project basically is a part of this step)
+4. Ask them to do actually implement this in their daily life
+
+This will be done with a combination of videos, blogs and software tools
+such as this.
+(*Contributions in all these are welcome.*)
+
+## Overview of this project
 
 The idea is to have a static website (ad free, bloat free and fast) where 
 people, looking to improve their Marathi vocabulary, can search for an English 
@@ -72,7 +94,7 @@ I also have in mind quite a few other ideas related to creating resources in
 Marathi language, which I plan to start once I have this project's website first
  ready at some usable level.
 
-## What is the need to do this?
+## What is the need to do this?<a name="problems"></a>
 
 As I see it, there 2 main problems which are explained below -
 
