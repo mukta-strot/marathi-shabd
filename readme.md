@@ -39,12 +39,15 @@ language** from its gradual and unnoticeable decline into a dying language.
 ### Goal
 ---
 
-This is the goal of the **overall idea** and not just this project.
+(This is the goal of the **overall idea** and not just this project.)
 
 **Revive the usage of Marathi language in its original/unadulterated
 form in day-to-day life in both spoken and written medium.**
 
-How to do it?
+
+### How to do it?
+
+---
 
 1. Make people realise that [these problems](#problems) exist
 2. Motivate them to work towards fixing it
