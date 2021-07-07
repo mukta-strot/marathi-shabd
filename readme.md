@@ -26,7 +26,7 @@
 
 १. "Github" वर आपले खाते बनवा 
 
-२. "Issues" मध्ये आपले नोंद करा. 
+२. "[Discussions](https://github.com/mukta-strot/marathi-shabd/discussions)" पृष्ठावरील आपल्या कल्पना, टिप्पण्या इ. वर चर्चा करा.
 
 # Marathi shabd
 
@@ -65,6 +65,8 @@ documentation (readme, website pages etc.)
 
 *(This is the current plan and can be improvised.)*
 
+**[Please suggest your ideas, comments etc. in the "Discussions"
+page.](https://github.com/mukta-strot/marathi-shabd/discussions)**
 
 I also have in mind quite a few other ideas related to creating resources in 
 Marathi language, which I plan to start once I have this project's website first
