@@ -6,18 +6,23 @@
     <meta charset="UTF-8">
     <title>Marathi Shabd</title>
     <link rel="stylesheet" href="./style.css" type="text/css" media="all">
+    <!-- defer is used so the page wil load first and script will execute after -->
+    <script src="./script.js" charset="utf-8" defer></script>
   </head>
   <body>
     <div class="app">
       <div class="search-box">
         <h1>Marathi Shabd</h1>
         <p>Enter english word to Translate</p>
-        <input type="text" name="en-query" id="enq"/>
-        <input type="button" name="en-search" id="en-search" value="Search">
+        <input type="text" name="en-query" id="query_english"/>
+        <input type="button" name="en-search" id="en-search" value="Search" onclick="searchHandler()">
       </div>
       <div class="results-box">
         Results:
-        <div class="results-data">
+        <div class="results-data" id="results-data">
+          <table id="results-table">
+
+          </table>
         </div>
       </div>
     </div>
