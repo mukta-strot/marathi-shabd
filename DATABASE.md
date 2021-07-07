@@ -10,7 +10,7 @@ csv elements
 
 example
 
-`energy,ऊर्जा,science`
+`energy,ऊर्जा,science,The sun is a source of energy.,सूर्य हा ऊर्जेचा स्रोत आहे.`
 
 ## description of elements
 
