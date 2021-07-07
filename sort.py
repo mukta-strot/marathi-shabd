@@ -34,10 +34,10 @@ def sort(file):
         print(f'Processed {line_count} lines.')
 
         with open('sorteddb.csv', 'w') as f: # creating new file called sorteddb.csv
-            f.write('en,mr,tags,\n')
+            f.write('en,mr,tags,en-ex,mr-ex\n')
             for i in range(0, len(english_list)):
                 f.write(english_list[i] + ',' + marathi_list[i] + ',' + tag_list[i] + ',' + english_ex[i] + ',' + marathi_ex[i] + ',\n')
 
-
+        return [english_list, marathi_list, tag_list, english_ex, marathi_ex]
 
 
