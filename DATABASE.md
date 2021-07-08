@@ -5,12 +5,20 @@ csv elements
 - English word
 - Marathi word
 - tags (semicolon separated in case of multiple tags)
-- English usage example
-- Marathi usage example
+- English sentence usage example
+- Marathi sentence usage example
 
-example
+---
 
-`energy,ऊर्जा,science,The sun is a source of energy.,सूर्य हा ऊर्जेचा स्रोत आहे.`
+**examples** -
+
+without sentence usage
+
+`energy,ऊर्जा,science,,`
+
+with sentence usage
+
+`experience,अनुभव,daily,I have experience in this.,मला यात अनुभव आहे`
 
 ## description of elements
 
