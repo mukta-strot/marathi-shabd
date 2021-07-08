@@ -1,18 +1,25 @@
-from sort import Sort
-
-s = Sort()
-
-element_list = s.sort("db.csv")
-
-with open("markdown.md", "w", encoding="utf-8") as f:
-    for i in range(0, len(element_list[0])):
-        if element_list[1][i] == "":
-            f.write("## " + element_list[0][i] + " = mr\n\n")
-        else:
-            f.write("## " + element_list[0][i] + " = " + element_list[1][i] + "\n\n")
-        f.write("|" + element_list[3][i] + "|\n")
-        f.write("|---|\n")
-        f.write("|" + element_list[4][i] + "|\n\n")
-        f.write("---\n")
 
 
+def generate_block(row):  # generates a singular block for the markdown. row is a string parameter.
+    word_block = ""
+    element_list = row.split(",")
+    if element_list[1] == "":
+        word_block += "## " + element_list[0] + " = NULL\n\n"
+    else:
+        word_block += "## " + element_list[0] + " = " + element_list[1] + "\n\n"
+
+    if element_list[3] == "":
+        word_block += "|NULL|\n"
+    else:
+        word_block += "|" + element_list[3] + "|\n"
+    word_block += "|---|\n"
+    if element_list[4] == "":
+        word_block += "|NULL|\n\n"
+    else:
+        word_block += "|" + element_list[4] + "|\n\n"
+    word_block += "---\n"
+
+    return word_block
+
+# use below line to test this function
+# print(generate_block("experience,अनुभव,daily,I have experience in this.,मला यात अनुभव आहे."))
