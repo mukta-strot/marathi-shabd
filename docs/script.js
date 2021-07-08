@@ -48,7 +48,7 @@ async function fetchDataCSV() {
         csvData.push({
           en: values[0],
           mr: values[1],
-          tags: values[2]
+          tags: values[2],
         })
       }
 
