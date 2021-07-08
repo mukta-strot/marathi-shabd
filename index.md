@@ -34,7 +34,7 @@ each page will contain word-blocks of that specific alphabet -->
 [w](alpha/w.md) |
 [x](alpha/x.md) |
 [y](alpha/y.md) |
-[z](alpha/z.md) |
+[z](alpha/z.md)
 
 - [entire library](library.md)
 
