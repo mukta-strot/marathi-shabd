@@ -8,6 +8,12 @@ const resultsTable = document.querySelector('#results-table')
 // Handler function for search button
 function searchHandler() {
   let searchKeyword = document.querySelector('#query_english').value
+
+  // Convert to lower so as to match lower case word in db.csv
+  searchKeyword = searchKeyword.toLowerCase()
+
+  // Remove leading and trailing whitespaces 
+  searchKeyword = searchKeyword.trim()
   
   // Search for the keyword from the array
   let matchedResults = csvData.filter(row => {
@@ -24,13 +30,16 @@ function searchHandler() {
   for (let matchedRow of matchedResults) {
     results.innerHTML +=  matchedRow.en + " : "
     results.innerHTML +=  matchedRow.mr + "<br>"
-    if(!matchedRow.en_ex) {
-      results.innerHTML += "English example: " + matchedRow.en_ex + "<br>"
+    if(matchedRow.en_ex) {
+      results.innerHTML += "English example: " + matchedRow.en_ex 
     } else {
       results.innerHTML += "English example currently not available for this word"
     }
-    if(!matchedRow.mr_ex) {
-      results.innerHTML += "Marathi example: " + matchedRow.mr_ex + "<br>"
+
+    results.innerHTML += "<br>"
+
+    if(matchedRow.mr_ex) {
+      results.innerHTML += "Marathi example: " + matchedRow.mr_ex
     } else {
       results.innerHTML += "Marathi example currently not available for this word"
     }
