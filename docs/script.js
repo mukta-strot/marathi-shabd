@@ -44,7 +44,7 @@ function searchHandler() {
 async function fetchDataCSV() {
   
   // fetch db.csv 
-  fetch('../db.csv', {mode: 'no-cors'})
+  fetch('../database/db.csv', {mode: 'no-cors'})
     .then(resp => resp.text())
     .then(data => {
 
