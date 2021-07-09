@@ -8,6 +8,12 @@ const resultsTable = document.querySelector('#results-table')
 // Handler function for search button
 function searchHandler() {
   let searchKeyword = document.querySelector('#query_english').value
+
+  // Convert to lower so as to match lower case word in db.csv
+  searchKeyword = searchKeyword.toLowerCase()
+
+  // Remove leading and trailing whitespaces 
+  searchKeyword = searchKeyword.trim()
   
   // Search for the keyword from the array
   let matchedResults = csvData.filter(row => {
