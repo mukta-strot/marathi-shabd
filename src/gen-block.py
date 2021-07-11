@@ -21,6 +21,5 @@ def generate_block(row):  # generates a singular block for the markdown. row is 
 
     return word_block
 
-
-print(generate_block("experience,अनुभव,daily,I have experience in this.,मला यात अनुभव आहे."))
-
+# use below line to test this function
+# print(generate_block("experience,अनुभव,daily,I have experience in this.,मला यात अनुभव आहे."))

@@ -52,11 +52,9 @@ own topics pages, which in turn contain word-blocks for all words in that topic.
 
 <!-- link to a page where all FUW word-blocks are present -->
 
-## Search by word (TBD)
+## [Search](docs/index.html)
 
-(add a text box to take in user input and navigate the user
-to the word present in the library md file. If text box not possible on this
-page, then make a separate page for this.)
+
 
 <!--add an input text box here where user can input an english word and click a
 button to search its Marathi word-->
