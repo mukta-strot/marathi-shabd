@@ -6,40 +6,28 @@ class Sort:
     def sort(self, file):
         with open(file, encoding="utf-8") as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
-            line_count = 1
-            english_list = [] # initializing lists for each column
-            marathi_list = []
-            tag_list = []
-            english_ex = []
-            marathi_ex = []
+
+            list_of_lists = []
 
             for row in csv_reader:
-                english_list.append(row[0])
-                marathi_list.append(row[1])
-                tag_list.append(row[2])
-                english_ex.append(row[3])
-                marathi_ex.append(row[4])
+                list1 = row
+                list1.pop(len(list1)-1)
+                list_of_lists.append(list1)
 
+            for i in range(1, len(list_of_lists) - 1):
+                for j in range(i + 1, len(list_of_lists)):
+                    if list_of_lists[i][0] > list_of_lists[j][0]:
+                        for k in range(0, len(list_of_lists[0])):
+                            list_of_lists[i][k], list_of_lists[j][k] = list_of_lists[j][k], list_of_lists[i][k]
 
-            for i in range(0, len(english_list)-1):
-                for j in range(i+1, len(english_list)):
-                    if english_list[i] > english_list[j]:
-                        english_list[i], english_list[j] = english_list[j], english_list[i] # editing every list while sorting
-                        marathi_list[i], marathi_list[j] = marathi_list[j], marathi_list[i]
-                        tag_list[i], tag_list[j] = tag_list[j], tag_list[i]
-                        english_ex[i], english_ex[j] = english_ex[j], english_ex[i]
-                        marathi_ex[i], marathi_ex[j] = marathi_ex[j], marathi_ex[i]
+            with open('sorteddb.csv', 'w', encoding="utf-8") as f:  # creating new file called sorteddb.csv
+                for l in list_of_lists:
+                    for i in range(0, len(l)):
+                        f.write(l[i] + ",")
+                    f.write("\n")
 
-            # print(english_list)
+            return list_of_lists
 
-            # print(tag_list)
-            print(f'Processed {line_count} lines.')
+#s = Sort()
 
-            with open('sorteddb.csv', 'w', encoding="utf-8") as f: # creating new file called sorteddb.csv
-                f.write('en,mr,tags,en-ex,mr-ex\n')
-                for i in range(0, len(english_list)):
-                    f.write(english_list[i] + ',' + marathi_list[i] + ',' + tag_list[i] + ',' + english_ex[i] + ',' + marathi_ex[i] + ',\n')
-
-            return [english_list, marathi_list, tag_list, english_ex, marathi_ex]
-
-
+#s.sort("db.csv")  # test code
