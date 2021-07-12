@@ -62,4 +62,5 @@ class Filter:
 #test code below
 #obj = Filter()
 
-#obj.filter_by_invalid_data("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv")
+#obj.filter_by_invalid_data("database\\db.csv")
+\
