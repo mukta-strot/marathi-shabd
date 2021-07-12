@@ -3,13 +3,13 @@
 
 # input arguments -
 # database (csv) data
-# output file name
+# output file name (the file name itself can contain the path of the file)
 # filter type
 
 # usage example --
-# for all words         - gen-out(dbHandler,"all.md","all")
-# for specific topic    - gen-out(dbHandler,"science.md","science")
-# for s initialed words - gen-out(dbHandler,"s.md","alpha","s")
+# for all words         - gen-out(dbHandler,"PATH/TO/FOLDER/all.md","all")
+# for specific topic    - gen-out(dbHandler,"PATH/TO/FOLDER/science.md","science")
+# for s initialed words - gen-out(dbHandler,"PATH/TO/FOLDER/s.md","alpha","s")
 
 
 
