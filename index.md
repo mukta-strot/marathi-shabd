@@ -1,6 +1,4 @@
-**+++++++ This page is a work-in-progress +++++++**
-
-**++++++ Please visit us back in a few days ++++++**
+**+++++++ This page is under development. All links may not work ++++++**
 
 # मराठी शब्द
 
@@ -63,6 +61,8 @@ button to search its Marathi word-->
 
 This is a simple tool to help you find a Marathi word for an English word.
 
+Basically it is an English to Marathi thesaurus without ads and tracking and is fast.
+
 ## our motivation
 
 When speaking or writing in Marathi we often, unknowingly and unnecessarily
@@ -84,7 +84,7 @@ Marathi vocabulary, but instead replacing existing words.
 
 ---
 
-If you wish to support this cause, please read more [here](add link) and share this to your
-friends.
+<!-- If you wish to support this cause, please read more [here](add link) and share this to your
+friends. -->
 
-**+++++++ This page is a work-in-progress +++++++**
+If you wish to support this project, please read more on the [github repo](https://github.com/mukta-strot/marathi-shabd) and join [the discussion here](https://github.com/mukta-strot/marathi-shabd/discussions).
