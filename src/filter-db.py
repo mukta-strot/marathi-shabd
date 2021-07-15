@@ -71,5 +71,5 @@ class Filter:
 
 
 #  test code below
-obj = Filter()
-obj.filter_db("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", "topic", "science")
+#obj = Filter()
+#obj.filter_db("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", "topic", "science")
