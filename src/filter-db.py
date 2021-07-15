@@ -44,16 +44,11 @@ class Filter:
 
     def gen_row_list(self, file_name):
         row_list = []
-        if type(file_name) is str:
-            with open(file_name, encoding="utf-8") as csv_file:
-                csv_reader = csv.reader(csv_file, delimiter=",")
-                for row in csv_reader:
-                    row_list.append(row)
-        '''else:
-            with open(file_name, encoding="utf-8") as csv_file:
-                csv_reader = csv.reader(csv_file, delimiter=",")
-                for row in csv_reader:
-                    row_list.append(row)'''
+
+        with open(file_name, encoding="utf-8") as csv_file:
+            csv_reader = csv.reader(csv_file, delimiter=",")
+            for row in csv_reader:
+                row_list.append(row)
 
         return row_list
 
