@@ -1,31 +1,19 @@
-## format of the db file
+## database elements
 
-csv elements
+Each item in the database will have data as per below table.
 
-- English word
-- Marathi word
-- tags (semicolon separated in case of multiple tags)
-- English sentence usage example
-- Marathi sentence usage example
+|#| Element | Mandatory | Description |
+|---|---| --- | --- |
+|1| English word | o | The English word to be replaced |
+|2| Marathi word | o | The Marathi word which is used as a replacement |
+|3| Tag | o | Topic(s) under which the word can be categorised. Tags should be in English. Multiple topics must be separated by a semicolon |
+|4| Context | x | Context of the English word, if necessary |
+|5| Marathi sentence example | x | Short sentence(s) showing the usage of the word in Marathi. Multiple sentences must be separated by a semicolon |
+|6| Comment | x | Any additional information, remark or comment, if necessary |
 
----
+**Key**
 
-**examples** -
+o = Mandatory elements (must have relevant data)
 
-without sentence usage
+x = Optional elements (can be left empty if no data)
 
-`energy,ऊर्जा,science,,`
-
-with sentence usage
-
-`experience,अनुभव,daily,I have experience in this.,मला यात अनुभव आहे`
-
-## description of elements
-
-| Element | Description |
-| --- | --- |
-| English word | The English word to be replaced |
-| Marathi word | The Marathi word which is used as a replacement |
-| tags | topic(s) under which the word can be categorised. Tags should be in English |
-| English usage example | A short sentence showing the usage of the word in English |
-| Marathi usage example | A short sentence showing the usage of the word in Marathi |
