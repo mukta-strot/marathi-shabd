@@ -71,5 +71,12 @@ class Filter:
 
 
 #  test code below
-#obj = Filter()
-#obj.filter_db("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", "topic", "science")
+obj = Filter()
+
+# obj.filter_by_alphabet("../database/db.csv", "e")
+# obj.filter_by_topic("../database/db.csv", "science")
+# obj.filter_by_alphabet("../database/db.csv", "f")
+# obj.filter_db("../database/db.csv", "topic","science")
+# obj.filter_db("../database/db.csv", "alphabet","s")
+obj.filter_db("../database/db.csv", "alphabet","","s")
+

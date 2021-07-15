@@ -1,0 +1,5 @@
+# libre office lock file
+.~lock*
+
+# backup file
+*.backup
