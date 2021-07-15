@@ -1,5 +1,5 @@
 import csv
-
+import pandas as pd
 
 class Filter:
 
@@ -42,12 +42,28 @@ class Filter:
 
         return self.write_from_row_list(row_list)
 
+    def gen_row_list(self, file_name):
+        row_list = []
+        if type(file_name) is str:
+            with open(file_name, encoding="utf-8") as csv_file:
+                csv_reader = csv.reader(csv_file, delimiter=",")
+                for row in csv_reader:
+                    row_list.append(row)
+        '''else:
+            with open(file_name, encoding="utf-8") as csv_file:
+                csv_reader = csv.reader(csv_file, delimiter=",")
+                for row in csv_reader:
+                    row_list.append(row)'''
+
+        return row_list
+
     def filter_db(self, csv, filter_type, sub_filter=None):
-        with open(csv, encoding="utf-8") as csv_file:
-            csv_reader = csv.reader(csv_file, delimiter=",")
-            row_list = []
-            for row in csv_reader:
-                row_list.append(row)
+
+        row_list = self.gen_row_list(csv)
+
+        self.filter_by_invalid_data(row_list)
+
+        row_list = self.gen_row_list("filtered.csv")
 
         if filter_type == "invalid_data":
             return self.filter_by_invalid_data(row_list)
@@ -58,7 +74,7 @@ class Filter:
         elif filter_type == "alphabet":
             return self.filter_by_alphabet(sub_filter, row_list)
 
-#  test code below
-#  obj = Filter()
 
-#  obj.filter_by_alphabet("database\\db.csv", "e")
+#  test code below
+obj = Filter()
+obj.filter_db("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", "topic", "science")
