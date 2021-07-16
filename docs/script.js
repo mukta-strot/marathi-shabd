@@ -3,11 +3,10 @@ const csvData = []
 // Fetching the HTML DOM elements
 const results = document.querySelector('#results-data')
 const wordInput = document.querySelector('#query_english')
-const resultsTable = document.querySelector('#results-table')
 
 // Handler function for search button
 function searchHandler() {
-  let searchKeyword = document.querySelector('#query_english').value
+  let searchKeyword = wordInput.value
 
   // Convert to lower so as to match lower case word in db.csv
   searchKeyword = searchKeyword.toLowerCase()
@@ -28,20 +27,20 @@ function searchHandler() {
   // Display the result in result section
   results.innerHTML = "<span>"
   for (let matchedRow of matchedResults) {
-    results.innerHTML +=  matchedRow.en + " : "
+    results.innerHTML +=  "<b>" + matchedRow.en.toUpperCase() + "</b> : "
     results.innerHTML +=  matchedRow.mr + "<br>"
     if(matchedRow.en_ex) {
-      results.innerHTML += "English example: " + matchedRow.en_ex 
+      results.innerHTML += "<b>English example: </b>" + matchedRow.en_ex 
     } else {
-      results.innerHTML += "English example currently not available for this word"
+      results.innerHTML += "<b>English example currently not available for this word</b>"
     }
 
     results.innerHTML += "<br>"
 
     if(matchedRow.mr_ex) {
-      results.innerHTML += "Marathi example: " + matchedRow.mr_ex
+      results.innerHTML += "<b>Marathi example: </b>" + matchedRow.mr_ex
     } else {
-      results.innerHTML += "Marathi example currently not available for this word"
+      results.innerHTML += "<b>Marathi example currently not available for this word</b>"
     }
 
   }
