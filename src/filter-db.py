@@ -1,9 +1,10 @@
 import csv
-
+import pandas as pd
 
 class Filter:
 
-    def write_from_rowlist(self, row_list):
+    @staticmethod
+    def write_from_row_list(row_list):
         with open("filtered.csv", mode="w", encoding="utf-8") as return_file:
             for row in row_list:
                 for i in row:
@@ -11,65 +12,63 @@ class Filter:
                 return_file.write("\n")
         return return_file
 
-    def filter_by_invalid_data(self, c):
-        with open(c, encoding="utf-8") as csv_file:
+    def filter_by_invalid_data(self, row_list):
+        i = 1
+        while i < len(row_list):
+            if row_list[i][0] == '' or row_list[i][1] == '':
+                row_list.pop(i)
+                i -= 1
+            i += 1
+
+        return self.write_from_row_list(row_list)
+
+    def filter_by_topic(self, topic, row_list):
+        i = 1
+        while i < len(row_list):
+            if row_list[i][2] != topic:
+                row_list.pop(i)
+                i -= 1
+            i += 1
+
+        return self.write_from_row_list(row_list)
+
+    def filter_by_alphabet(self, alphabet, row_list):
+        i = 1
+        while i < len(row_list):
+            if row_list[i][0][0] != alphabet:
+                row_list.pop(i)
+                i -= 1
+            i += 1
+
+        return self.write_from_row_list(row_list)
+
+    def gen_row_list(self, file_name):
+        row_list = []
+
+        with open(file_name, encoding="utf-8") as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=",")
-            row_list = []
             for row in csv_reader:
                 row_list.append(row)
 
-            print(row_list)
-            i = 1
-            while i < len(row_list):
-                print(i)
-                if row_list[i][0] == '' or row_list[i][1] == '':
-                    row_list.pop(i)
-                    i -= 1
-                i += 1
+        return row_list
 
-        return self.write_from_rowlist(row_list)
+    def filter_db(self, csv, filter_type, sub_filter=None):
 
-    def filter_by_topic(self, c, topic):
-        with open(c, encoding="utf-8") as csv_file:
-            csv_reader = csv.reader(csv_file, delimiter=",")
-            row_list = []
-            for row in csv_reader:
-                row_list.append(row)
-            i = 1
-            while i < len(row_list):
-                print(i)
-                if row_list[i][2] != topic:
-                    row_list.pop(i)
-                    i -= 1
-                i += 1
+        row_list = self.gen_row_list(csv)
 
-        return self.write_from_rowlist(row_list)
+        self.filter_by_invalid_data(row_list)
 
-    def filter_by_alphabet(self, c, alphabet):
-        with open(c, encoding="utf-8") as csv_file:
-            csv_reader = csv.reader(csv_file, delimiter=",")
-            row_list = []
-            for row in csv_reader:
-                row_list.append(row)
-            i = 1
-            while i < len(row_list):
-                print(i)
-                if row_list[i][0][0] != alphabet:
-                    row_list.pop(i)
-                    i -= 1
-                i += 1
+        row_list = self.gen_row_list("filtered.csv")
 
-        return self.write_from_rowlist(row_list)
-
-    def filter_db(self, csv, filter_type, topic=None, alphabet=None):
         if filter_type == "invalid_data":
-            return self.filter_by_invalid_data(csv)
+            return self.filter_by_invalid_data(row_list)
         elif filter_type == "all_words":
-            return self.filter_by_invalid_data()
+            return self.filter_by_invalid_data(row_list)
         elif filter_type == "topic":
-            return self.filter_by_topic(csv, topic)
+            return self.filter_by_topic(sub_filter, row_list)
         elif filter_type == "alphabet":
-            return self.filter_by_alphabet(csv, alphabet)
+            return self.filter_by_alphabet(sub_filter, row_list)
+
 
 #  test code below
 obj = Filter()
