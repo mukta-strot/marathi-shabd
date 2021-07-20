@@ -1,24 +1,17 @@
-# purpose - to generate a markdown formatted file of the database as per the
-# passed filter type
-
-# input arguments -
-# database (csv) data
-# output file name (the file name itself can contain the path of the file)
-# filter type
-
-# usage example --
-# for all words         - gen-out(dbHandler,"PATH/TO/FOLDER/all.md","all")
-# for specific topic    - gen-out(dbHandler,"PATH/TO/FOLDER/science.md","science")
-# for s initialed words - gen-out(dbHandler,"PATH/TO/FOLDER/s.md","alpha","s")
+from filterdb import Filter
+from genblock import GenBlock
 
 
+def gen_out(csv, filter, sub_filter=None):
+    f = Filter()  # filter class object
+    g = GenBlock()  # block class object
+    with open("out.md", "w", encoding="UTF-8") as md_file:
+        f.filter_db(csv, filter, sub_filter)
+        row_list = f.gen_row_list("filtered.csv")
+        for row in row_list:
+            md_block = g.generate_block(row)
+            md_file.write(md_block)
 
-# steps
-# 1. read csv file in a local handler and create a blank output md file
-# 2. filter rows from the csv as per the filter argument (call filter function)
-# 3. extract a single row of the csv
-# 4. call the gen-block function to generate a md block
-# 5. append the output md file with the above returned block
-# 6. repeat 3-5 till entire csv is parsed
-# 7. save the resultant md file (in its correct path) with the name passed in 
-#    the argument initially
+# test code below
+# gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv",
+# filter="alphabet", sub_filter="s")
