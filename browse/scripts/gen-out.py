@@ -17,6 +17,6 @@ def gen_out(csv, filter, sub_filter=None):
 # filter="alphabet", sub_filter="s")
 
 # tested ok (basic)
-# gen_out("../database/db.csv", filter="alphabet", sub_filter="a")
-# gen_out("../database/db.csv", filter="topic", sub_filter="places")
-# gen_out("../database/db.csv", filter="all_words", sub_filter="science")
+# gen_out("../../database/db.csv", filter="alphabet", sub_filter="a")
+gen_out("../../database/db.csv", filter="topic", sub_filter="places")
+# gen_out("../../database/db.csv", filter="all_words", sub_filter="science")
