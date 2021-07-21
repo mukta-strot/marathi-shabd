@@ -1,5 +1,4 @@
 import csv
-import pandas as pd
 
 class Filter:
 
@@ -71,12 +70,12 @@ class Filter:
 
 
 #  test code below
-obj = Filter()
+#obj = Filter()
 
 # obj.filter_by_alphabet("../database/db.csv", "e")
 # obj.filter_by_topic("../database/db.csv", "science")
 # obj.filter_by_alphabet("../database/db.csv", "f")
 # obj.filter_db("../database/db.csv", "topic","science")
 # obj.filter_db("../database/db.csv", "alphabet","s")
-obj.filter_db("../database/db.csv", "alphabet","","s")
+#obj.filter_db("../database/db.csv", "alphabet","","s")
 
