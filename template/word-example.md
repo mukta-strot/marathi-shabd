@@ -1,38 +1,21 @@
-<option 01>
+`example with all data. all rows are printed.`
 
-## experience 
-# अनुभव
+## experience *(sample context)*	= अनुभव	
+
+### मला यात अनुभव  आहे
+
+**Comment**: sample comment
+
+###### Tags: daily, work
 
 
-I have **experience** in this.
+`example with some data. rows with no data are not printed.`
 
-मला यात **अनुभव** आहे
+## experience *(sample context)*	= अनुभव	
 
----
-<option 02>
+###### Tags: daily, work
 
-## experience = अनुभव
 
-|I have **experience** in this.|
-|---|
-|मला यात **अनुभव** आहे|
-
----
-<option 03>
-
-## experience
-
-|experience|I have **experience** in this.|
-|---|---|
-|अनुभव|मला यात **अनुभव** आहे|
-
----
-<option 04>
+`example with minimum data. rows with no data are not printed.`
 
 ## experience = अनुभव
-
-|I have experience in this.|
-|---|
-|मला यात अनुभव आहे|
-
----
