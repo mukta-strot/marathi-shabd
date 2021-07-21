@@ -7,18 +7,20 @@ from genblock import GenBlock
 # outFile - output markdown file (will full path)
 # filter - main filter
 # sub_filter - sub filter
-def gen_out(csv, outFile, filter, sub_filter=None):
-    f = Filter()  # filter class object
-    g = GenBlock()  # block class object
 
-    # open output file
-    with open(outFile, "w", encoding="UTF-8") as md_file:
-        # run filter
-        f.filter_db(csv, filter, sub_filter)
-        row_list = f.gen_row_list("filtered.csv")
-        for row in row_list:
-            md_block = g.generate_block(row)
-            md_file.write(md_block)
+class GenFiles:
+    def gen_out(self, csv, outFile, filter, sub_filter=None):
+        f = Filter()  # filter class object
+        g = GenBlock()  # block class object
+
+        # open output file
+        with open(outFile, "w", encoding="UTF-8") as md_file:
+            # run filter
+            f.filter_db(csv, filter, sub_filter)
+            row_list = f.gen_row_list("filtered.csv")
+            for row in row_list:
+                md_block = g.generate_block(row)
+                md_file.write(md_block)
 
 # test code below
 # gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv",
