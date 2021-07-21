@@ -77,6 +77,8 @@ It is currently in its very initial stage where I am conceptualising it and
 looking for contributors (developers as well as people well versed in the
 Marathi language).
 
+**Note- The development is being done on the `develop` branch.**
+
 Some places to do contributions
 
 - **Database update** - adding English words with Marathi equivalents
