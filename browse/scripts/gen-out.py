@@ -2,10 +2,18 @@ from filterdb import Filter
 from genblock import GenBlock
 
 
-def gen_out(csv, filter, sub_filter=None):
+# params
+# csv - database file
+# outFile - output markdown file (will full path)
+# filter - main filter
+# sub_filter - sub filter
+def gen_out(csv, outFile, filter, sub_filter=None):
     f = Filter()  # filter class object
     g = GenBlock()  # block class object
-    with open("out.md", "w", encoding="UTF-8") as md_file:
+
+    # open output file
+    with open(outFile, "w", encoding="UTF-8") as md_file:
+        # run filter
         f.filter_db(csv, filter, sub_filter)
         row_list = f.gen_row_list("filtered.csv")
         for row in row_list:
@@ -17,6 +25,6 @@ def gen_out(csv, filter, sub_filter=None):
 # filter="alphabet", sub_filter="s")
 
 # tested ok (basic)
-# gen_out("../../database/db.csv", filter="alphabet", sub_filter="a")
-gen_out("../../database/db.csv", filter="topic", sub_filter="places")
-# gen_out("../../database/db.csv", filter="all_words", sub_filter="science")
+# gen_out("../../database/db.csv", "../alpha/a.md", filter="alphabet", sub_filter="a")
+# gen_out("../../database/db.csv", "../topics/places.md", filter="topic", sub_filter="places")
+# gen_out("../../database/db.csv", "../all.md", filter="all_words")
