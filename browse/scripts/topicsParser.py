@@ -10,7 +10,7 @@ class TopicsParser:
             for row in csv_reader:
                 split_topics = row[tags_column_index].split(';')
                 for temp_topic in split_topics:
-                    if (temp_topic == ''):
+                    if (temp_topic == '' or temp_topic == 'tags'):
                         pass
                     else:
                         topics.add(temp_topic)
