@@ -30,3 +30,4 @@ class GenFiles:
 # gen_out("../../database/db.csv", "../alpha/a.md", filter="alphabet", sub_filter="a")
 # gen_out("../../database/db.csv", "../topics/places.md", filter="topic", sub_filter="places")
 # gen_out("../../database/db.csv", "../all.md", filter="all_words")
+
