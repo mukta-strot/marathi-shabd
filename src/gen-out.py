@@ -13,4 +13,4 @@ def gen_out(csv, filter=None, sub_filter=None):
             md_file.write(md_block)
 
 # test code below
-gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv")
+
