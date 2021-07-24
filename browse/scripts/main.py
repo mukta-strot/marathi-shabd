@@ -42,3 +42,16 @@ f.gen_out("../../database/db.csv", "../topics/daily.md", "topic", "daily")
 f.gen_out("../../database/db.csv", "../topics/home.md", "topic", "home")
 f.gen_out("../../database/db.csv", "../topics/furniture.md", "topic", "furniture")
 f.gen_out("../../database/db.csv", "../topics/technology.md", "topic", "technology")
+
+# TODO (topics markdown generator)
+# the topics section above can be improved by using the topicsparser.py script,
+# wherein the code can be something like below -
+# ----
+# topicslist = output from topicsparser.py
+# for currentTopic from topicslist 
+#   f.gen_out("../../database/db.csv", "../topics/<currentTopic>.md", "topic", "<currentTopic>")
+# end for
+# ----
+# basically instead of hardcoded topics used to generate the markdown files, use
+# the parser to get a list of avaialble topics and generate all markdown files as
+# per that list.
