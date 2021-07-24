@@ -2,7 +2,7 @@ from filterdb import Filter
 from genblock import GenBlock
 
 
-def gen_out(csv, filter, sub_filter=None):
+def gen_out(csv, filter=None, sub_filter=None):
     f = Filter()  # filter class object
     g = GenBlock()  # block class object
     with open("out.md", "w", encoding="UTF-8") as md_file:
@@ -13,5 +13,4 @@ def gen_out(csv, filter, sub_filter=None):
             md_file.write(md_block)
 
 # test code below
-# gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv",
-# filter="alphabet", sub_filter="s")
+gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv")
