@@ -5,7 +5,6 @@ class TopicsParser:
     def gen_topics(self, file):
         with open(file, encoding="utf-8") as csv_file:
             topics = set()
-            tags_column_index = 0
             csv_reader = list(csv.reader(csv_file, delimiter=','))
             tags_column_index = self.find_tags_column_index(csv_reader)
             for row in csv_reader:
