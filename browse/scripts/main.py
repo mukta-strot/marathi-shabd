@@ -40,7 +40,7 @@ f.gen_out("../../database/db.csv", "../alpha/z.md", "alphabet", "z")
 tp = TopicsParser()
 topics = tp.gen_topics("../../database/db.csv")
 for topic in topics:
-    f.gen_out("../../database/db.csv", '../topics/{}.md'.format(topic), "topic", "places")
+    f.gen_out("../../database/db.csv", '../topics/{}.md'.format(topic), "topic", "{}".format(topic))
 
 # TODO (topics markdown generator)
 # the topics section above can be improved by using the topicsparser.py script,
