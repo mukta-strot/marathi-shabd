@@ -22,8 +22,8 @@ class GenFiles:
                 md_file.write(md_block)
 
 # test code below
-obj = GenFiles()
-obj.gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", "out.md", filter="topic", sub_filter="science")
+# obj = GenFiles()
+# obj.gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", "out.md", filter="topic", sub_filter="science")
 # gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv",
 # filter="alphabet", sub_filter="s")
 
