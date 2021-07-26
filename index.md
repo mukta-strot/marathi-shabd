@@ -7,41 +7,41 @@
 <!-- list a-z alphabets and link them to their individual md pages.
 each page will contain word-blocks of that specific alphabet -->
 
-- [a](out/alpha/a.md) |
-[b](out/alpha/b.md) |
-[c](out/alpha/c.md) |
-[d](out/alpha/d.md) |
-[e](out/alpha/e.md) |
-[f](out/alpha/f.md) |
-[g](out/alpha/g.md) |
-[h](out/alpha/h.md) |
-[i](out/alpha/i.md) |
-[j](out/alpha/j.md) |
-[k](out/alpha/k.md) |
-[l](out/alpha/l.md) |
-[m](out/alpha/m.md) |
-[n](out/alpha/n.md) |
-[o](out/alpha/o.md) |
-[p](out/alpha/p.md) |
-[q](out/alpha/q.md) |
-[r](out/alpha/r.md) |
-[s](out/alpha/s.md) |
-[t](out/alpha/t.md) |
-[u](out/alpha/u.md) |
-[v](out/alpha/v.md) |
-[w](out/alpha/w.md) |
-[x](out/alpha/x.md) |
-[y](out/alpha/y.md) |
-[z](out/alpha/z.md)
+- [a](browse/alpha/a.md) |
+[b](browse/alpha/b.md) |
+[c](browse/alpha/c.md) |
+[d](browse/alpha/d.md) |
+[e](browse/alpha/e.md) |
+[f](browse/alpha/f.md) |
+[g](browse/alpha/g.md) |
+[h](browse/alpha/h.md) |
+[i](browse/alpha/i.md) |
+[j](browse/alpha/j.md) |
+[k](browse/alpha/k.md) |
+[l](browse/alpha/l.md) |
+[m](browse/alpha/m.md) |
+[n](browse/alpha/n.md) |
+[o](browse/alpha/o.md) |
+[p](browse/alpha/p.md) |
+[q](browse/alpha/q.md) |
+[r](browse/alpha/r.md) |
+[s](browse/alpha/s.md) |
+[t](browse/alpha/t.md) |
+[u](browse/alpha/u.md) |
+[v](browse/alpha/v.md) |
+[w](browse/alpha/w.md) |
+[x](browse/alpha/x.md) |
+[y](browse/alpha/y.md) |
+[z](browse/alpha/z.md)
 
-- [entire library](out/all.md)
+- [entire library](browse/all.md)
 
 - [word-wise](wordwise.md)
 
 <!-- link to a page where all words are present and have their individual links to
 own word-blocks.-->
 
-- [topics](out/topics/topics-list.md)
+- [topics](browse/topics/topics-list.md)
 
 <!-- link to a page where all topics are present and have their individual links to
 own topics pages, which in turn contain word-blocks for all words in that topic.-->
