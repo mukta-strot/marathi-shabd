@@ -1,45 +1,44 @@
 import csv
 
+
 class Filter:
 
-    @staticmethod
-    def write_from_row_list(row_list):
-        with open("filtered.csv", mode="w", encoding="utf-8") as return_file:
-            for row in row_list:
-                for i in row:
-                    return_file.write(i + ",")
-                return_file.write("\n")
-        return return_file
-
     def filter_by_invalid_data(self, row_list):
-        i = 1
+        i = 0
         while i < len(row_list):
             if row_list[i][0] == '' or row_list[i][1] == '':
                 row_list.pop(i)
                 i -= 1
             i += 1
 
-        return self.write_from_row_list(row_list)
+        return row_list
 
     def filter_by_topic(self, topic, row_list):
-        i = 1
+        i = 0
         while i < len(row_list):
-            if row_list[i][2] != topic:
+            tag_list = row_list[i][2].split(";")
+            tag_is = False
+            for tag in tag_list:
+                if tag == topic:
+                    tag_is = True
+                    break
+
+            if not tag_is:
                 row_list.pop(i)
                 i -= 1
             i += 1
 
-        return self.write_from_row_list(row_list)
+        return row_list
 
     def filter_by_alphabet(self, alphabet, row_list):
-        i = 1
+        i = 0
         while i < len(row_list):
             if row_list[i][0][0] != alphabet:
                 row_list.pop(i)
                 i -= 1
             i += 1
 
-        return self.write_from_row_list(row_list)
+        return row_list
 
     def gen_row_list(self, file_name):
         row_list = []
@@ -57,9 +56,7 @@ class Filter:
 
         row_list = self.gen_row_list(csv)
 
-        self.filter_by_invalid_data(row_list)
-
-        row_list = self.gen_row_list("filtered.csv")
+        row_list = self.filter_by_invalid_data(row_list)
 
         if filter_type == "invalid_data":
             return self.filter_by_invalid_data(row_list)
@@ -73,11 +70,12 @@ class Filter:
 
 #  test code below
 #obj = Filter()
+#print(obj.filter_db("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", filter_type="topic", sub_filter="engineering"))
 
 # obj.filter_by_alphabet("../database/db.csv", "e")
 # obj.filter_by_topic("../database/db.csv", "science")
 # obj.filter_by_alphabet("../database/db.csv", "f")
 # obj.filter_db("../database/db.csv", "topic","science")
 # obj.filter_db("../database/db.csv", "alphabet","s")
-#obj.filter_db("../database/db.csv", "alphabet","","s")
+# obj.filter_db("../database/db.csv", "alphabet","","s")
 
