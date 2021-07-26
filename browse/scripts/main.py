@@ -1,4 +1,5 @@
 from genOut import GenFiles
+from topicsParser import TopicsParser
 
 f = GenFiles() # GenFiles object
 
@@ -36,12 +37,10 @@ f.gen_out("../../database/db.csv", "../alpha/y.md", "alphabet", "y")
 f.gen_out("../../database/db.csv", "../alpha/z.md", "alphabet", "z")
 
 # topics
-f.gen_out("../../database/db.csv", "../topics/places.md", "topic", "places")
-f.gen_out("../../database/db.csv", "../topics/science.md", "topic", "science")
-f.gen_out("../../database/db.csv", "../topics/daily.md", "topic", "daily")
-f.gen_out("../../database/db.csv", "../topics/home.md", "topic", "home")
-f.gen_out("../../database/db.csv", "../topics/furniture.md", "topic", "furniture")
-f.gen_out("../../database/db.csv", "../topics/technology.md", "topic", "technology")
+tp = TopicsParser()
+topics = tp.gen_topics("../../database/db.csv")
+for topic in topics:
+    f.gen_out("../../database/db.csv", '../topics/{}.md'.format(topic), "topic", "{}".format(topic))
 
 # TODO (topics markdown generator)
 # the topics section above can be improved by using the topicsparser.py script,
