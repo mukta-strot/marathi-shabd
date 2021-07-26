@@ -1,3 +1,8 @@
+## efficiency = कार्यक्षमता
+
+###### Tags: science;engineering
+
+---
 ## efficient = कार्यक्षम
 
 ###### Tags: science;engineering

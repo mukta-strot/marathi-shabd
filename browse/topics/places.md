@@ -13,9 +13,19 @@
 ###### Tags: places
 
 ---
+## India = भारत
+
+###### Tags: daily;places
+
+---
 ## parking lot = वाहनतळ
 
 ###### Tags: places
+
+---
+## hospital = रुग्णालय
+
+###### Tags: places;medical
 
 ---
 ## hall *(for a gathering or event)* = सभागृह
@@ -36,5 +46,12 @@
 ## school = शाळा
 
 ###### Tags: places
+
+---
+## pharmacy *(where you get medicine)* = दवाखाना
+
+**Comment**: a.k.a. dispensary
+
+###### Tags: places;medical
 
 ---
