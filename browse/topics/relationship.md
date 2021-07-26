@@ -1,0 +1,5 @@
+## parent = पालक
+
+###### Tags: relationship
+
+---

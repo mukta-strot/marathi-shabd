@@ -36,17 +36,17 @@ each page will contain word-blocks of that specific alphabet -->
 
 - [entire library](browse/all.md)
 
-- [word-wise](wordwise.md)
+- [word-wise](wordwise.md) (WIP)
 
 <!-- link to a page where all words are present and have their individual links to
 own word-blocks.-->
 
-- [topics](browse/topics/topics-list.md)
+- [topics](browse/topics/00-topics-list.md)
 
 <!-- link to a page where all topics are present and have their individual links to
 own topics pages, which in turn contain word-blocks for all words in that topic.-->
 
-- [frequently used words](FUW.md)
+- [frequently used words](FUW.md) (WIP)
 
 <!-- link to a page where all FUW word-blocks are present -->
 
