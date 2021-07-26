@@ -46,6 +46,8 @@ class Filter:
 
         with open(file_name, encoding="utf-8") as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=",")
+            # skip the first row (i.e. the header row) when scanning csv
+            next(csv_reader)
             for row in csv_reader:
                 row_list.append(row)
 
