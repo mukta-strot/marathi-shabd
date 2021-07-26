@@ -4,7 +4,7 @@ import csv
 class Filter:
 
     def filter_by_invalid_data(self, row_list):
-        i = 1
+        i = 0
         while i < len(row_list):
             if row_list[i][0] == '' or row_list[i][1] == '':
                 row_list.pop(i)
@@ -14,7 +14,7 @@ class Filter:
         return row_list
 
     def filter_by_topic(self, topic, row_list):
-        i = 1
+        i = 0
         while i < len(row_list):
             tag_list = row_list[i][2].split(";")
             tag_is = False
@@ -31,7 +31,7 @@ class Filter:
         return row_list
 
     def filter_by_alphabet(self, alphabet, row_list):
-        i = 1
+        i = 0
         while i < len(row_list):
             if row_list[i][0][0] != alphabet:
                 row_list.pop(i)
@@ -69,7 +69,7 @@ class Filter:
 
 
 #  test code below
-# obj = Filter()
+#obj = Filter()
 #print(obj.filter_db("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", filter_type="topic", sub_filter="engineering"))
 
 # obj.filter_by_alphabet("../database/db.csv", "e")
