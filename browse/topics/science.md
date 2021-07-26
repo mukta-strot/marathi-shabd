@@ -1,3 +1,18 @@
+## efficiency = कार्यक्षमता
+
+###### Tags: science;engineering
+
+---
+## efficient = कार्यक्षम
+
+###### Tags: science;engineering
+
+---
+## pressure = दाब
+
+###### Tags: science;engineering
+
+---
 ## complex = जटिल
 
 ###### Tags: science
@@ -30,6 +45,11 @@
 ###### Tags: science
 
 ---
+## friction = घर्षण
+
+###### Tags: science;engineering
+
+---
 ## atom = अणू
 
 ###### Tags: science
@@ -45,6 +65,21 @@
 ###### Tags: science
 
 ---
+## heat = उष्णता
+
+###### Tags: science;physics
+
+---
+## cold = थंड
+
+###### Tags: science;physics
+
+---
+## gravity = गुरुत्व
+
+###### Tags: science;physics
+
+---
 ## astronomy = खगोलशास्त्र
 
 ###### Tags: science
@@ -53,5 +88,10 @@
 ## astrology = ज्योतिष
 
 ###### Tags: science
+
+---
+## magnet = चुंबक
+
+###### Tags: science;physics
 
 ---
