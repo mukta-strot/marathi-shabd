@@ -3,3 +3,7 @@
 
 # backup file
 *.backup
+
+# temp files and folders to be removed later
+filtered.csv
+__pycache__/
