@@ -4,7 +4,7 @@ from genblock import GenBlock
 
 # params
 # csv - database file
-# outFile - output markdown file (will full path)
+# outFile - output markdown file (with full path)
 # filter - main filter
 # sub_filter - sub filter
 
