@@ -1,5 +1,2 @@
 ## community = समुदाय
 
-###### Tags: social
-
----
