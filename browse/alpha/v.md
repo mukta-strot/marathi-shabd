@@ -1,5 +1,2 @@
 ## village = गाव
 
-###### Tags: places
-
----

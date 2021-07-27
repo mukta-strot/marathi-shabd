@@ -1,5 +1,2 @@
 ## computer = संगणक
 
-###### Tags: technology
-
----
