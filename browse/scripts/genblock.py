@@ -11,12 +11,15 @@ class GenBlock:
             word_block += "### " + row[4] + "\n\n"
 
         if row[5] != "":
-            word_block += "**Comment**: " + row[5] + "\n\n"
+            word_block += "#### **Comment**: " + row[5] + "\n\n"
 
-        if row[2] != "":
-            word_block += "###### Tags: " + row[2] + "\n\n"
+#       Temporarily disabled as displaying the tags doesn't give any information.
+#       Can be enabled in future if the tags (topics) can be linked to their 
+#       individual files
+        # if row[2] != "":
+        #     word_block += "###### Tags: " + row[2] + "\n\n"
 
-        word_block += "---\n"
+        # word_block += "---\n"
 
         return word_block
 
