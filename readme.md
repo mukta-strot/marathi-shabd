@@ -77,7 +77,8 @@ It is currently in its very initial stage where I am conceptualising it and
 looking for contributors (developers as well as people well versed in the
 Marathi language).
 
-**Note- The development is being done on the `develop` branch.**
+See [CONTRIBUTING](CONTRIBUTING.md) for details about the **project structure and
+general contribution guidelines.**
 
 Some places to do contributions
 
