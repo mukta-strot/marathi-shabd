@@ -51,7 +51,7 @@ class Filter:
                 row_list.append(row)
 
         return row_list
-    
+
     def sort(self, row_list):
         for i in range(0, len(row_list) - 1):
             for j in range(i + 1, len(row_list)):
@@ -60,7 +60,7 @@ class Filter:
                         row_list[i][k], row_list[j][k] = row_list[j][k], row_list[i][k]
 
         return row_list
-                        
+
     def filter_db(self, csv, filter_type=None, sub_filter=None):
 
         row_list = self.gen_row_list(csv)
