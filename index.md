@@ -1,5 +1,3 @@
-**+++++++ This page is under development. All links may not work ++++++**
-
 # मराठी शब्द
 
 ## Browse
@@ -34,21 +32,18 @@ each page will contain word-blocks of that specific alphabet -->
 [y](browse/alpha/y.md) |
 [z](browse/alpha/z.md)
 
-- [entire library](browse/all.md)
-
-- [word-wise](wordwise.md) (WIP)
-
-<!-- link to a page where all words are present and have their individual links to
-own word-blocks.-->
-
-- [topics](browse/topics/00-topics-list.md)
+- [all words](browse/all.md)
 
 <!-- link to a page where all topics are present and have their individual links to
 own topics pages, which in turn contain word-blocks for all words in that topic.-->
 
-- [frequently used words](FUW.md) (WIP)
+- [topics](browse/topics/00-topics-list.md)
 
 <!-- link to a page where all FUW word-blocks are present -->
+<!-- currently disabled as there is no conten -->
+
+<!-- - [frequently used words](FUW.md) (WIP) -->
+
 
 ## [Search](docs/index.html)
 
