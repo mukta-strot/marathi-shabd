@@ -4,7 +4,11 @@
 
 ## efforts = परिश्रम
 
+## emotional = भावनिक
+
 ## energy = ऊर्जा
+
+## entry = प्रवेश
 
 ## exchange = विनिमय
 
@@ -14,13 +18,9 @@
 
 #### **Comment**: sample comment
 
-## extreme = अत्यंत
-
-## entry = प्रवेश
-
-## emotional = भावनिक
-
 ## expression = अभिव्यक्ती
 
 ## expression *(on a person’s face)* = भाव
+
+## extreme = अत्यंत
 

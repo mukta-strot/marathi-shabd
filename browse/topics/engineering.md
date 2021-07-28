@@ -1,30 +1,30 @@
+## analysis = विश्लेषण
+
+## automatic = स्वयंचलित
+
+## concept = संकल्पना
+
+## connect *(a cable to a port)* = जोड
+
 ## efficiency = कार्यक्षमता
 
 ## efficient = कार्यक्षम
 
-## pressure = दाब
-
-## sequence = क्रम
+## friction = घर्षण
 
 ## latest = नवीनतम
 
-## proportion = प्रमाण
+## operation *(of a thing)* = चालणे
 
-## survey = सर्वेक्षण
-
-## friction = घर्षण
+## pressure = दाब
 
 ## problem = समस्या
 
-## automatic = स्वयंचलित
+## proportion = प्रमाण
 
-## operation *(of a thing)* = चालणे
-
-## connect *(a cable to a port)* = जोड
-
-## concept = संकल्पना
+## sequence = क्रम
 
 ## solution = उपाय
 
-## analysis = विश्लेषण
+## survey = सर्वेक्षण
 

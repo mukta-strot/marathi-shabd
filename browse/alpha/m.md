@@ -1,20 +1,20 @@
+## magnet = चुंबक
+
 ## main = मुख्य
+
+## marks *(on a body)* = वण
+
+## marks *(in an exam)* = गुण
 
 ## mat = चटई
 
-## multiply = गुणाकार
+## meeting = बैठक
+
+## midpoint = मध्यबिंदू
 
 ## moon = चंद्र
 
 ## moonlight = चांदणे
 
-## midpoint = मध्यबिंदू
-
-## marks *(in an exam)* = गुण
-
-## marks *(on a body)* = वण
-
-## meeting = बैठक
-
-## magnet = चुंबक
+## multiply = गुणाकार
 

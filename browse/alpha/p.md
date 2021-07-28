@@ -1,32 +1,32 @@
-## pressure = दाब
+## parent = पालक
 
-## prominent = ठळक
-
-## positive = सकारात्मक
-
-## personal = वैयक्‍तिक
-
-## proportion = प्रमाण
+## parenting = पालकत्व
 
 ## parking lot = वाहनतळ
 
-## problem = समस्या
+## patience = संयम
+
+## patient = रुग्ण
+
+## perimeter = परिमिती
+
+## personal = वैयक्‍तिक
+
+## pharmacy *(where you get medicine)* = दवाखाना
+
+#### **Comment**: a.k.a. dispensary
 
 ## planet = ग्रह
 
 ## point = बिंदू
 
-## perimeter = परिमिती
+## positive = सकारात्मक
 
-## parent = पालक
+## pressure = दाब
 
-## parenting = पालकत्व
+## problem = समस्या
 
-## patient = रुग्ण
+## prominent = ठळक
 
-## patience = संयम
-
-## pharmacy *(where you get medicine)* = दवाखाना
-
-#### **Comment**: a.k.a. dispensary
+## proportion = प्रमाण
 

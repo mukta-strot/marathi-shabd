@@ -1,62 +1,124 @@
+## actor = अभिनेता
+
+## actress = अभिनेत्री
+
+## actually = प्रत्यक्षात
+
+## add = जोडा
+
+## airplane = विमान
+
+## analysis = विश्लेषण
+
+## area *(like a place)* = क्षेत्र
+
+## area *(of a closed surface)* = क्षेत्रफळ
+
+## assurance = खात्री
+
+## astrology = ज्योतिष
+
+## astronomy = खगोलशास्त्र
+
+## atom = अणू
+
+## attitude = वृत्ती
+
+## automatic = स्वयंचलित
+
+## basic = मूलभूत
+
+## bed = पलंग
+
+## board = फळा
+
+## boat = नाव;होडी
+
+## book = पुस्तक
+
+## boundary = सीमा
+
+## box = पेटी
+
+## building = इमारत
+
+## butter = लोणी
+
+## cage = पिंजरा
+
+## calculator = गणकयंत्र
+
+## center = केंद्र
+
+## certainty = निश्चितता
+
+## chair = खुर्ची
+
+## chance = संधी
+
+## check = पडताळा;तपासणी
+
+## checkup = तपासणी
+
+## chill = थंडगार
+
+## circle = वर्तुळ
+
+## city = शहर
+
+## clinic = चिकित्सालय
+
+## cold = थंड
+
+## colour = रंग
+
+## comfortable = आरामदायक
+
+## community = समुदाय
+
+## complex = जटिल
+
+## computer = संगणक
+
+## concept = संकल्पना
+
+## condition *(as in terms and conditions)* = अट
+
+## conference = परिषद
+
+## confirm = पुष्टी
+
+## connect *(a cable to a port)* = जोड
+
+## contact = संपर्क
+
+### तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
+
+## credible = विश्वसनीय
+
+## criteria = निकष
+
+## critical = गंभीर
+
+## decision = निर्णय
+
+## decisive = निर्णायक
+
+## dilema = कोंडी
+
 ## efficiency = कार्यक्षमता
 
 ## efficient = कार्यक्षम
 
-## pressure = दाब
-
-## prominent = ठळक
-
-## sequence = क्रम
-
-## quality = गुणवत्ता
-
-## quantity = मात्रा
-
-## reply = उत्तर
-
-## feedback = अभिप्राय
-
-## complex = जटिल
-
-## credible = विश्वसनीय
-
-## main = मुख्य
-
 ## efforts = परिश्रम
+
+## emotional = भावनिक
 
 ## energy = ऊर्जा
 
-## positive = सकारात्मक
-
-## negative = नकारात्मक
-
-## feeling = भावना
+## entry = प्रवेश
 
 ## exchange = विनिमय
-
-## interest = रस
-
-## check = पडताळा;तपासणी
-
-## confirm = पुष्टी
-
-## attitude = वृत्ती
-
-## natural = नैसर्गिक
-
-## living room = दिवाणखाना
-
-## bed = पलंग
-
-## latest = नवीनतम
-
-## symptom *(of a disease)* = लक्षण
-
-### मला कोरोनाचे लक्षण दिसत आहेत.
-
-## computer = संगणक
-
-## personal = वैयक्‍तिक
 
 ## experience *(sample context)* = अनुभव
 
@@ -64,293 +126,231 @@
 
 #### **Comment**: sample comment
 
-## impossible = अशक्य
+## expression = अभिव्यक्ती
 
-## proportion = प्रमाण
+## expression *(on a person’s face)* = भाव
 
-## sensitive = संवेदनशील
-
-## road = रस्ता
-
-## city = शहर
-
-## village = गाव
-
-## actor = अभिनेता
-
-## actress = अभिनेत्री
-
-## colour = रंग
+## extreme = अत्यंत
 
 ## fan = पंखा
 
-## light = दिवा
+## feedback = अभिप्राय
 
-### स्वयंपाकघर ला दिवा बंद कर.
+## feeling = भावना
 
-## contact = संपर्क
-
-### तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
-
-## number = संख्या;क्रमांक
-
-## temperature = तापमान
-
-## weather = हवामान
-
-## chair = खुर्ची
-
-## airplane = विमान
-
-## ship = जहाज
-
-## boat = नाव;होडी
-
-## board = फळा
+## flight = उड्डाण
 
 ## floor = मजला
 
-## India = भारत
-
-## box = पेटी
-
-## mat = चटई
-
-## cage = पिंजरा
-
-## building = इमारत
-
-## tower = मनोरा
-
-## steps = पायर्‍या
-
-## actually = प्रत्यक्षात
-
-## survey = सर्वेक्षण
-
-## literally = अक्षरशः
-
-## parking lot = वाहनतळ
-
-## assurance = खात्री
-
-## insurance = विमा
+## formal = औपचारिक
 
 ## friction = घर्षण
 
-## add = जोडा
+## goat = शेळी
 
-## subtract = वजाबाकी
-
-## multiply = गुणाकार
-
-## problem = समस्या
-
-## calculator = गणकयंत्र
-
-## automatic = स्वयंचलित
-
-## hospital = रुग्णालय
+## gravity = गुरुत्व
 
 ## hall *(inside a house)* = दिवाणखाना
 
 ## hall *(for a gathering or event)* = सभागृह
 
-## time = वेळ
+## heat = उष्णता
 
-## opportunity = संधी
+## hospital = रुग्णालय
 
-## chance = संधी
+## ignore = दुर्लक्ष
 
-## basic = मूलभूत
+## impossible = अशक्य
 
-## critical = गंभीर
+## India = भारत
 
-## surgery = शस्त्रक्रिया
+## informal = अनौपचारिक
 
-#### **Comment**: Colloquially also called as “operation”
+## insurance = विमा
 
-## operation *(of a thing)* = चालणे
-
-## atom = अणू
-
-## telescope = दुर्बीण
-
-## star = तारा
-
-## moon = चंद्र
-
-## sun = सूर्य
-
-## sunlight = सूर्यप्रकाश
-
-## moonlight = चांदणे
-
-## planet = ग्रह
-
-## orbit = कक्षा
-
-## satellite = उपग्रह
-
-## circle = वर्तुळ
-
-## square = चौकोन
-
-## rectangle = आयत
-
-## triangle = त्रिकोण
-
-## line = ओळ
-
-## point = बिंदू
-
-## center = केंद्र
-
-## midpoint = मध्यबिंदू
-
-## perimeter = परिमिती
-
-## area *(of a closed surface)* = क्षेत्रफळ
-
-## area *(like a place)* = क्षेत्र
-
-## decisive = निर्णायक
-
-## worrisome = चिंताजनक
-
-## marks *(in an exam)* = गुण
-
-## marks *(on a body)* = वण
-
-## ticket = तिकीट
-
-## meeting = बैठक
-
-## conference = परिषद
-
-## community = समुदाय
-
-## reverse = उलट
-
-## reversible = उलट करता येण्यासारखा
+## interest = रस
 
 ## irreversible = अपरिवर्तनीय
 
-## connect *(a cable to a port)* = जोड
+## job = नोकरी
 
-## concept = संकल्पना
+## latest = नवीनतम
 
-## solution = उपाय
+## light = दिवा
 
-## goat = शेळी
+### स्वयंपाकघर ला दिवा बंद कर.
 
-## sheep = मेंढी
+## line = ओळ
 
-## book = पुस्तक
+## literally = अक्षरशः
 
-## textbook = पाठ्यपुस्तक
+## living room = दिवाणखाना
+
+## magnet = चुंबक
+
+## main = मुख्य
+
+## marks *(on a body)* = वण
+
+## marks *(in an exam)* = गुण
+
+## mat = चटई
+
+## meeting = बैठक
+
+## midpoint = मध्यबिंदू
+
+## moon = चंद्र
+
+## moonlight = चांदणे
+
+## multiply = गुणाकार
+
+## natural = नैसर्गिक
+
+## negative = नकारात्मक
 
 ## notebook = वही
+
+## number = संख्या;क्रमांक
+
+## official = अधिकृत
+
+## operation *(of a thing)* = चालणे
+
+## opportunity = संधी
+
+## option = पर्याय
+
+## orbit = कक्षा
 
 ## parent = पालक
 
 ## parenting = पालकत्व
 
+## parking lot = वाहनतळ
+
+## patience = संयम
+
+## patient = रुग्ण
+
+## perimeter = परिमिती
+
+## personal = वैयक्‍तिक
+
+## pharmacy *(where you get medicine)* = दवाखाना
+
+#### **Comment**: a.k.a. dispensary
+
+## planet = ग्रह
+
+## point = बिंदू
+
+## positive = सकारात्मक
+
+## pressure = दाब
+
+## problem = समस्या
+
+## prominent = ठळक
+
+## proportion = प्रमाण
+
+## quality = गुणवत्ता
+
+## quantity = मात्रा
+
+## reaction = प्रतिक्रिया
+
+## rectangle = आयत
+
+## reply = उत्तर
+
+## reverse = उलट
+
+## reversible = उलट करता येण्यासारखा
+
+## road = रस्ता
+
+## satellite = उपग्रह
+
+## school = शाळा
+
+## sensitive = संवेदनशील
+
+## sequence = क्रम
+
+## sheep = मेंढी
+
+## ship = जहाज
+
 ## situation = परिस्थिती
 
-## certainty = निश्चितता
-
-## uncertainty = अनिश्चितता
-
-## unavoidable = अटळ
-
-## ignore = दुर्लक्ष
-
-## dilema = कोंडी
-
-## condition *(as in terms and conditions)* = अट
-
-## criteria = निकष
-
-## heat = उष्णता
-
-## cold = थंड
-
-## chill = थंडगार
-
-## extreme = अत्यंत
-
-## boundary = सीमा
+## solution = उपाय
 
 ## spontaneous = उत्स्फूर्त
 
-## decision = निर्णय
+## square = चौकोन
 
-## tension *(in a wire)* = ताण
+## star = तारा
+
+## steps = पायर्‍या
 
 ## stress *(of the mind)* = ताण
 
 #### **Comment**: Colloquially also called as “tension”
 
-## gravity = गुरुत्व
+## subtract = वजाबाकी
 
-## formal = औपचारिक
+## sun = सूर्य
 
-## official = अधिकृत
+## sunlight = सूर्यप्रकाश
 
-## unofficial = अनधिकृत
+## surgery = शस्त्रक्रिया
 
-## informal = अनौपचारिक
+#### **Comment**: Colloquially also called as “operation”
 
-## astronomy = खगोलशास्त्र
+## survey = सर्वेक्षण
 
-## astrology = ज्योतिष
+## symptom *(of a disease)* = लक्षण
 
-## job = नोकरी
+### मला कोरोनाचे लक्षण दिसत आहेत.
 
-## option = पर्याय
+## telescope = दुर्बीण
 
-## comfortable = आरामदायक
+## temperature = तापमान
 
-## uncomfortable = अस्वस्थ
+## tension *(in a wire)* = ताण
 
-## entry = प्रवेश
-
-## travel = प्रवास
-
-## flight = उड्डाण
-
-## reaction = प्रतिक्रिया
-
-## emotional = भावनिक
-
-## butter = लोणी
-
-## magnet = चुंबक
-
-## checkup = तपासणी
-
-## analysis = विश्लेषण
+## test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
 
 ## test *(a small/minor examination)* = चाचणी
 
 ## test *(of someone’s strength)* = परीक्षा
 
-## test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
+## textbook = पाठ्यपुस्तक
 
-## patient = रुग्ण
+## ticket = तिकीट
 
-## patience = संयम
+## time = वेळ
 
-## expression = अभिव्यक्ती
+## tower = मनोरा
 
-## expression *(on a person’s face)* = भाव
+## travel = प्रवास
 
-## clinic = चिकित्सालय
+## triangle = त्रिकोण
 
-## school = शाळा
+## unavoidable = अटळ
 
-## pharmacy *(where you get medicine)* = दवाखाना
+## uncertainty = अनिश्चितता
 
-#### **Comment**: a.k.a. dispensary
+## uncomfortable = अस्वस्थ
+
+## unofficial = अनधिकृत
+
+## village = गाव
+
+## weather = हवामान
+
+## worrisome = चिंताजनक
 

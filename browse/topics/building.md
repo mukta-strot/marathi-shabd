@@ -1,8 +1,8 @@
-## floor = मजला
-
 ## building = इमारत
 
-## tower = मनोरा
+## floor = मजला
 
 ## steps = पायर्‍या
+
+## tower = मनोरा
 

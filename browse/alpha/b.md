@@ -1,18 +1,18 @@
-## bed = पलंग
+## basic = मूलभूत
 
-## boat = नाव;होडी
+## bed = पलंग
 
 ## board = फळा
 
-## box = पेटी
-
-## building = इमारत
-
-## basic = मूलभूत
+## boat = नाव;होडी
 
 ## book = पुस्तक
 
 ## boundary = सीमा
+
+## box = पेटी
+
+## building = इमारत
 
 ## butter = लोणी
 

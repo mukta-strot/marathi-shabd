@@ -1,10 +1,10 @@
-## opportunity = संधी
+## official = अधिकृत
 
 ## operation *(of a thing)* = चालणे
 
-## orbit = कक्षा
-
-## official = अधिकृत
+## opportunity = संधी
 
 ## option = पर्याय
+
+## orbit = कक्षा
 

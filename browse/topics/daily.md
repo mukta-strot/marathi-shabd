@@ -1,24 +1,34 @@
-## sequence = क्रम
+## actually = प्रत्यक्षात
 
-## quality = गुणवत्ता
+## analysis = विश्लेषण
 
-## quantity = मात्रा
+## assurance = खात्री
 
-## credible = विश्वसनीय
+## basic = मूलभूत
 
-## main = मुख्य
+## box = पेटी
 
-## interest = रस
+## chance = संधी
 
 ## check = पडताळा;तपासणी
 
+## colour = रंग
+
 ## confirm = पुष्टी
 
-## natural = नैसर्गिक
+## connect *(a cable to a port)* = जोड
 
-## latest = नवीनतम
+## contact = संपर्क
 
-## personal = वैयक्‍तिक
+### तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
+
+## credible = विश्वसनीय
+
+## critical = गंभीर
+
+## decision = निर्णय
+
+## decisive = निर्णायक
 
 ## experience *(sample context)* = अनुभव
 
@@ -26,71 +36,61 @@
 
 #### **Comment**: sample comment
 
-## impossible = अशक्य
-
-## proportion = प्रमाण
-
-## colour = रंग
+## expression *(on a person’s face)* = भाव
 
 ## fan = पंखा
+
+## ignore = दुर्लक्ष
+
+## impossible = अशक्य
+
+## India = भारत
+
+## insurance = विमा
+
+## interest = रस
+
+## latest = नवीनतम
 
 ## light = दिवा
 
 ### स्वयंपाकघर ला दिवा बंद कर.
 
-## contact = संपर्क
-
-### तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
-
-## number = संख्या;क्रमांक
-
-## temperature = तापमान
-
-## weather = हवामान
-
-## India = भारत
-
-## box = पेटी
+## main = मुख्य
 
 ## mat = चटई
 
-## actually = प्रत्यक्षात
+## natural = नैसर्गिक
 
-## assurance = खात्री
-
-## insurance = विमा
-
-## problem = समस्या
-
-## time = वेळ
-
-## opportunity = संधी
-
-## chance = संधी
-
-## basic = मूलभूत
-
-## critical = गंभीर
+## number = संख्या;क्रमांक
 
 ## operation *(of a thing)* = चालणे
 
-## decisive = निर्णायक
-
-## worrisome = चिंताजनक
-
-## connect *(a cable to a port)* = जोड
-
-## solution = उपाय
-
-## situation = परिस्थिती
-
-## ignore = दुर्लक्ष
-
-## decision = निर्णय
+## opportunity = संधी
 
 ## option = पर्याय
 
-## analysis = विश्लेषण
+## personal = वैयक्‍तिक
 
-## expression *(on a person’s face)* = भाव
+## problem = समस्या
+
+## proportion = प्रमाण
+
+## quality = गुणवत्ता
+
+## quantity = मात्रा
+
+## sequence = क्रम
+
+## situation = परिस्थिती
+
+## solution = उपाय
+
+## temperature = तापमान
+
+## time = वेळ
+
+## weather = हवामान
+
+## worrisome = चिंताजनक
 

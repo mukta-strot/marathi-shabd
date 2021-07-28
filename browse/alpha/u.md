@@ -1,8 +1,8 @@
-## uncertainty = अनिश्चितता
-
 ## unavoidable = अटळ
 
-## unofficial = अनधिकृत
+## uncertainty = अनिश्चितता
 
 ## uncomfortable = अस्वस्थ
+
+## unofficial = अनधिकृत
 
