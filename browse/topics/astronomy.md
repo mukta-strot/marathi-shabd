@@ -1,14 +1,14 @@
-## telescope = दुर्बीण
-
-## star = तारा
-
 ## moon = चंद्र
-
-## sun = सूर्य
-
-## planet = ग्रह
 
 ## orbit = कक्षा
 
+## planet = ग्रह
+
 ## satellite = उपग्रह
+
+## star = तारा
+
+## sun = सूर्य
+
+## telescope = दुर्बीण
 

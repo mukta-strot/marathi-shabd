@@ -1,6 +1,10 @@
+## attitude = वृत्ती
+
+## emotional = भावनिक
+
 ## feeling = भावना
 
-## attitude = वृत्ती
+## patience = संयम
 
 ## sensitive = संवेदनशील
 
@@ -8,9 +12,5 @@
 
 #### **Comment**: Colloquially also called as “tension”
 
-## emotional = भावनिक
-
 ## test *(of someone’s strength)* = परीक्षा
-
-## patience = संयम
 

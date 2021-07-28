@@ -1,14 +1,14 @@
+## fan = पंखा
+
 ## feedback = अभिप्राय
 
 ## feeling = भावना
 
-## fan = पंखा
+## flight = उड्डाण
 
 ## floor = मजला
 
-## friction = घर्षण
-
 ## formal = औपचारिक
 
-## flight = उड्डाण
+## friction = घर्षण
 

@@ -1,56 +1,56 @@
-## complex = जटिल
+## cage = पिंजरा
 
-## credible = विश्वसनीय
+## calculator = गणकयंत्र
+
+## center = केंद्र
+
+## certainty = निश्चितता
+
+## chair = खुर्ची
+
+## chance = संधी
 
 ## check = पडताळा;तपासणी
 
-## confirm = पुष्टी
+## checkup = तपासणी
 
-## computer = संगणक
+## chill = थंडगार
+
+## circle = वर्तुळ
 
 ## city = शहर
 
+## clinic = चिकित्सालय
+
+## cold = थंड
+
 ## colour = रंग
+
+## comfortable = आरामदायक
+
+## community = समुदाय
+
+## complex = जटिल
+
+## computer = संगणक
+
+## concept = संकल्पना
+
+## condition *(as in terms and conditions)* = अट
+
+## conference = परिषद
+
+## confirm = पुष्टी
+
+## connect *(a cable to a port)* = जोड
 
 ## contact = संपर्क
 
 ### तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
 
-## chair = खुर्ची
-
-## cage = पिंजरा
-
-## calculator = गणकयंत्र
-
-## chance = संधी
-
-## critical = गंभीर
-
-## circle = वर्तुळ
-
-## center = केंद्र
-
-## conference = परिषद
-
-## community = समुदाय
-
-## connect *(a cable to a port)* = जोड
-
-## concept = संकल्पना
-
-## certainty = निश्चितता
-
-## condition *(as in terms and conditions)* = अट
+## credible = विश्वसनीय
 
 ## criteria = निकष
 
-## cold = थंड
-
-## chill = थंडगार
-
-## comfortable = आरामदायक
-
-## checkup = तपासणी
-
-## clinic = चिकित्सालय
+## critical = गंभीर
 

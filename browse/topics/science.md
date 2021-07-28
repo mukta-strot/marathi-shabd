@@ -1,40 +1,40 @@
+## astrology = ज्योतिष
+
+## astronomy = खगोलशास्त्र
+
+## atom = अणू
+
+## cold = थंड
+
+## complex = जटिल
+
 ## efficiency = कार्यक्षमता
 
 ## efficient = कार्यक्षम
-
-## pressure = दाब
-
-## complex = जटिल
 
 ## efforts = परिश्रम
 
 ## energy = ऊर्जा
 
-## positive = सकारात्मक
+## friction = घर्षण
+
+## gravity = गुरुत्व
+
+## heat = उष्णता
+
+## magnet = चुंबक
+
+## moonlight = चांदणे
 
 ## negative = नकारात्मक
+
+## positive = सकारात्मक
+
+## pressure = दाब
+
+## sunlight = सूर्यप्रकाश
 
 ## symptom *(of a disease)* = लक्षण
 
 ### मला कोरोनाचे लक्षण दिसत आहेत.
-
-## friction = घर्षण
-
-## atom = अणू
-
-## sunlight = सूर्यप्रकाश
-
-## moonlight = चांदणे
-
-## heat = उष्णता
-
-## cold = थंड
-
-## gravity = गुरुत्व
-
-## astronomy = खगोलशास्त्र
-
-## astrology = ज्योतिष
-
-## magnet = चुंबक
 

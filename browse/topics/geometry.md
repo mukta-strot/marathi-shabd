@@ -1,20 +1,20 @@
-## circle = वर्तुळ
-
-## square = चौकोन
-
-## rectangle = आयत
-
-## triangle = त्रिकोण
-
-## line = ओळ
-
-## point = बिंदू
+## area *(of a closed surface)* = क्षेत्रफळ
 
 ## center = केंद्र
+
+## circle = वर्तुळ
+
+## line = ओळ
 
 ## midpoint = मध्यबिंदू
 
 ## perimeter = परिमिती
 
-## area *(of a closed surface)* = क्षेत्रफळ
+## point = बिंदू
+
+## rectangle = आयत
+
+## square = चौकोन
+
+## triangle = त्रिकोण
 

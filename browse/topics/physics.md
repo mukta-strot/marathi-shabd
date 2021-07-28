@@ -1,10 +1,10 @@
-## heat = उष्णता
-
 ## cold = थंड
-
-## tension *(in a wire)* = ताण
 
 ## gravity = गुरुत्व
 
+## heat = उष्णता
+
 ## magnet = चुंबक
+
+## tension *(in a wire)* = ताण
 

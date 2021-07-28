@@ -1,28 +1,28 @@
-## attitude = वृत्ती
-
 ## actor = अभिनेता
 
 ## actress = अभिनेत्री
 
-## airplane = विमान
-
 ## actually = प्रत्यक्षात
-
-## assurance = खात्री
 
 ## add = जोडा
 
-## automatic = स्वयंचलित
+## airplane = विमान
 
-## atom = अणू
-
-## area *(of a closed surface)* = क्षेत्रफळ
+## analysis = विश्लेषण
 
 ## area *(like a place)* = क्षेत्र
 
-## astronomy = खगोलशास्त्र
+## area *(of a closed surface)* = क्षेत्रफळ
+
+## assurance = खात्री
 
 ## astrology = ज्योतिष
 
-## analysis = विश्लेषण
+## astronomy = खगोलशास्त्र
+
+## atom = अणू
+
+## attitude = वृत्ती
+
+## automatic = स्वयंचलित
 

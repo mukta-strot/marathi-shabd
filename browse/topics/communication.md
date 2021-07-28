@@ -1,20 +1,20 @@
-## reply = उत्तर
-
-## feedback = अभिप्राय
+## confirm = पुष्टी
 
 ## credible = विश्वसनीय
 
-## confirm = पुष्टी
-
-## literally = अक्षरशः
-
-## spontaneous = उत्स्फूर्त
+## feedback = अभिप्राय
 
 ## formal = औपचारिक
 
+## informal = अनौपचारिक
+
+## literally = अक्षरशः
+
 ## official = अधिकृत
 
-## unofficial = अनधिकृत
+## reply = उत्तर
 
-## informal = अनौपचारिक
+## spontaneous = उत्स्फूर्त
+
+## unofficial = अनधिकृत
 

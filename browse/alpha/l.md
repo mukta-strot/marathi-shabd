@@ -1,12 +1,12 @@
-## living room = दिवाणखाना
-
 ## latest = नवीनतम
 
 ## light = दिवा
 
 ### स्वयंपाकघर ला दिवा बंद कर.
 
+## line = ओळ
+
 ## literally = अक्षरशः
 
-## line = ओळ
+## living room = दिवाणखाना
 
