@@ -37,10 +37,9 @@ f.gen_out("../../database/db.csv", "../alpha/y.md", "alphabet", "y")
 f.gen_out("../../database/db.csv", "../alpha/z.md", "alphabet", "z")
 
 # topics
-# use the topics parser to get a list of available topics and generate all 
-# markdown files as per that list.
-
 tp = TopicsParser()
 topics = tp.gen_topics("../../database/db.csv")
+topics_file = open("../topics/01-topics-list.md", "w", encoding="UTF-8")
 for topic in topics:
     f.gen_out("../../database/db.csv", '../topics/{}.md'.format(topic), "topic", "{}".format(topic))
+    topics_file.write("[" + topic + "]" + "(" + "../topics/{}.md".format(topic) + ")" + "\n")
