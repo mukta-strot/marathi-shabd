@@ -18,6 +18,14 @@
         <h2>Enter english word to Translate</h2>
         <input type="text" name="en-query" id="query_english"/>
         <input type="button" name="en-search" id="en-search" value="Search" onclick="searchHandler()">
+        <script>
+        var input = document.getElementById("query_english");
+        input.addEventListener("keydown", function(event) {
+            if (event.code === "Enter") {
+                searchHandler();
+            }
+        });
+        </script>
       </div>
       <hr>
       <div class="results-box">
