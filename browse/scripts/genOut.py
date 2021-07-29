@@ -17,13 +17,16 @@ class GenFiles:
         with open(outFile, "w", encoding="UTF-8") as md_file:
             # run filter
             row_list =  f.filter_db(csv, filter, sub_filter)
+            if filter == "topic":
+                topic = sub_filter
+            md_file.write("# " + topic + "\n\n")
             for row in row_list:
                 md_block = g.generate_block(row)
                 md_file.write(md_block)
 
 # test code below
 # obj = GenFiles()
-# obj.gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", "out.md", filter="topic", sub_filter="science")
+# obj.gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv", "out.md", filter="topic", sub_filter="engineering")
 # gen_out("C:\\Users\\aaroh\\OneDrive\\Documents\\GitHub\\marathi-shabd\\database\\db.csv",
 # filter="alphabet", sub_filter="s")
 
