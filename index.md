@@ -54,9 +54,10 @@ button to search its Marathi word-->
 
 ## about
 
-This is a simple tool to help you find a Marathi word for an English word.
+This is a simple tool to help you find a Marathi word for an English word, like
+a thesaurus.
 
-Basically it is an English to Marathi thesaurus without ads and tracking and is fast.
+There are no ads, no tracking and it is fast.
 
 ## our motivation
 
@@ -64,14 +65,10 @@ When speaking or writing in Marathi we often, unknowingly and unnecessarily
  use a lot of English words.
 Though this is a natural way for a language to evolve (by using loanwords), in
 this case it is detrimental to the Marathi language.
-Reason being - *(add 3-4 most impactful reasons here)*
+Reason being -
 
 - the loanwords are not adding to any missing gaps in the
 Marathi vocabulary, but instead replacing existing words.
-- many of the words being replaced are in fact far more efficient and easy to
-  pronounce instead of their English counterparts. example -
-  - चर्चा vs discussion
-  - add couple of more examples here
 - with every next generation of Maharashtrians, the knowledge of Marathi
   vocabulary is reducing and it has reduced drastically in the past few decades.
 - as the reach of English medium schools and the internet widens, this phenomena
