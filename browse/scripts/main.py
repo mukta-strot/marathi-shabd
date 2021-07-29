@@ -39,7 +39,11 @@ f.gen_out("../../database/db.csv", "../alpha/z.md", "alphabet", "z")
 # topics
 tp = TopicsParser()
 topics = tp.gen_topics("../../database/db.csv")
-topics_file = open("../topics/01-topics-list.md", "w", encoding="UTF-8")
+topics_file = open("../topics/00-topics-list.md", "w", encoding="UTF-8")
+# topics list file - add heading
+topics_file.write("Click on the topic to see words under it. \n \n")
 for topic in topics:
+    # generate individual topic files as per the topics-list
     f.gen_out("../../database/db.csv", '../topics/{}.md'.format(topic), "topic", "{}".format(topic))
-    topics_file.write("[" + topic + "]" + "(" + "../topics/{}.md".format(topic) + ")" + "\n")
+    # add a bulleted list of topics linking to the topic files
+    topics_file.write("- [" + topic + "]" + "(" + "{}.md".format(topic) + ")" + "\n")
