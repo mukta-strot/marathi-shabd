@@ -1,7 +1,0 @@
-## en = mr
-
-|context|
-|---|
-|example|
-
----
