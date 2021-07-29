@@ -39,47 +39,66 @@ own topics pages, which in turn contain word-blocks for all words in that topic.
 
 - [topics](browse/topics/00-topics-list.md)
 
-<!-- link to a page where all FUW word-blocks are present -->
-<!-- currently disabled as there is no conten -->
+<!-- TODO -->
+<!-- currently disabled as there is no content. planned for future. -->
 
 <!-- - [frequently used words](FUW.md) (WIP) -->
+<!-- - [childrens' words](childrens-words.md) (WIP) -->
 
 
 ## [Search](docs/index.html)
-
-
 
 <!--add an input text box here where user can input an english word and click a
 button to search its Marathi word-->
 
 ## about
 
-This is a simple tool to help you find a Marathi word for an English word.
+This is a simple English to Marathi thesaurus.
+There are no ads, no tracking and it is fast.
 
-Basically it is an English to Marathi thesaurus without ads and tracking and is fast.
+Use the **Browse** pages to scroll through all the available words in one page,
+alphabetically or topic-wise. Or directly enter the word you want to find in the
+**Search** section.
 
-## our motivation
+## motivation
 
-When speaking or writing in Marathi we often, unknowingly and unnecessarily
- use a lot of English words.
-Though this is a natural way for a language to evolve (by using loanwords), in
-this case it is detrimental to the Marathi language.
-Reason being - *(add 3-4 most impactful reasons here)*
+When speaking or writing in Marathi we often, **unknowingly** and
+**unnecessarily** use a **lot of English words**.
+Though this is a natural way for a language to evolve (by using loanwords), the 
+way in which it is currently happening is severly impacting the Marathi language.
+Some of the reasons, in my opinion, being -
 
-- the loanwords are not adding to any missing gaps in the
-Marathi vocabulary, but instead replacing existing words.
-- many of the words being replaced are in fact far more efficient and easy to
-  pronounce instead of their English counterparts. example -
-  - चर्चा vs discussion
-  - add couple of more examples here
+- most of the English words are not adding to any missing gaps in the Marathi 
+vocabulary, but instead replacing existing words. 
+The Marathi language (like all other Indian languages) already has an extremely
+vast, diverse and beautiful vocabulary.
 - with every next generation of Maharashtrians, the knowledge of Marathi
-  vocabulary is reducing and it has reduced drastically in the past few decades.
+  vocabulary is reducing and it may have reduced drastically in the past few decades.
 - as the reach of English medium schools and the internet widens, this phenomena
-  will continue to grow even to rural areas
+  will continue to grow even to rural areas. Even today's TV serials, web
+series, Youtube channels etc. have an extremely Englishised version of Marathi.
+- and last, but not the least, we all don't even realise that this is happening.
+  Which means that no one is taking any corrective action on it, and this
+problem continues to grow like an avalanche.
+
+Here is an excellent example from [this speech](https://youtu.be/Jg7UUU8R_Dc).
+
+**Fresh vegetable आणून त्यांना boil करा, मग त्यांना mash करून त्याचं dough बनवा. मग त्याला cut करून deep fry करा.**
+
+8 out of the 20 words (40%) are in English! And most of us urban folk speak like
+this, without even realising it.
+
+## request
+
+1. From now on whenever you speak (or write) in Marathi, try to observe the amount of English
+you use in it (like in the example above).
+2. Then try to correct youself. Use this website (or any other you like) to help
+   you with the correction.
+3. Ask your family, friends, relatives to do the same.
+4. Lastly, if you want to support this cause, do share this page with others.
 
 ---
 
-<!-- If you wish to support this cause, please read more [here](add link) and share this to your
-friends. -->
+[Contribute to this project](https://github.com/mukta-strot/marathi-shabd).
 
-If you wish to support this project, please read more on the [github repo](https://github.com/mukta-strot/marathi-shabd) and join [the discussion here](https://github.com/mukta-strot/marathi-shabd/discussions).
+[Know more about **मुक्त स्त्रोत**](https://mukta-strot.github.io/).
