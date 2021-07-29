@@ -42,6 +42,6 @@ topics = tp.gen_topics("../../database/db.csv")
 topics_file = open("../topics/topics-list.md", "w", encoding="UTF-8")
 for topic in topics:
     f.gen_out("../../database/db.csv", '../topics/{}.md'.format(topic), "topic", "{}".format(topic))
-    topics_file.write("[" + topic + "]" + "(" + "../topics/{}.md".format(topic) + ")" + "\n")
+    topics_file.write("[" + topic + "]" + "(" + "../topics/{}.md".format(topic) + ")" + "<br>")
 
 
