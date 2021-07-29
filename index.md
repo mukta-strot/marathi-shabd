@@ -51,16 +51,18 @@ own topics pages, which in turn contain word-blocks for all words in that topic.
 <!--add an input text box here where user can input an english word and click a
 button to search its Marathi word-->
 
-## about
+## About
 
-This is a simple English to Marathi thesaurus.
-There are no ads, no tracking and it is fast.
+This is a simple **English to Marathi thesaurus**.
+No ads. No tracking. Super fast and easy.
 
 Use the **Browse** pages to scroll through all the available words in one page,
-alphabetically or topic-wise. Or directly enter the word you want to find in the
-**Search** section.
+alphabetically or topic-wise. 
 
-## motivation
+Use the **Search** section to directly enter the word you want to find.
+
+
+## Motivation
 
 When speaking or writing in Marathi we often, **unknowingly** and
 **unnecessarily** use a **lot of English words**.
@@ -88,14 +90,14 @@ Here is an excellent example from [this speech](https://youtu.be/Jg7UUU8R_Dc).
 8 out of the 20 words (40%) are in English! And most of us urban folk speak like
 this, without even realising it.
 
-## request
+## Request
 
 1. From now on whenever you speak (or write) in Marathi, try to observe the amount of English
 you use in it (like in the example above).
-2. Then try to correct youself. Use this website (or any other you like) to help
-   you with the correction.
+2. Then try to correct youself. Use this website (or any website/source you like) to help
+   you find the right Marathi words.
 3. Ask your family, friends, relatives to do the same.
-4. Lastly, if you want to support this cause, do share this page with others.
+4. Lastly, do share this page with others on social media and messaging apps.
 
 ---
 
