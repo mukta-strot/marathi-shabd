@@ -13,6 +13,7 @@ class TopicsParser:
                     if (temp_topic == ''):
                         pass
                     else:
+                        temp_topic = temp_topic.replace(' ', '-')
                         topics.add(temp_topic)
             return sorted(list(topics))
 

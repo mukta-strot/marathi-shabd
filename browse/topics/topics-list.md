@@ -11,7 +11,7 @@
 [furniture](../topics/furniture.md)
 [geometry](../topics/geometry.md)
 [home](../topics/home.md)
-[human body](../topics/human body.md)
+[human-body](../topics/human-body.md)
 [maths](../topics/maths.md)
 [medical](../topics/medical.md)
 [mental](../topics/mental.md)
