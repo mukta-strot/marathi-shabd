@@ -39,18 +39,9 @@ f.gen_out("../../database/db.csv", "../alpha/z.md", "alphabet", "z")
 # topics
 tp = TopicsParser()
 topics = tp.gen_topics("../../database/db.csv")
+topics_file = open("../topics/topics-list.md", "w", encoding="UTF-8")
 for topic in topics:
     f.gen_out("../../database/db.csv", '../topics/{}.md'.format(topic), "topic", "{}".format(topic))
+    topics_file.write("[" + topic + "]" + "(" + "../topics/{}.md".format(topic) + ")" + "\n")
 
-# TODO (topics markdown generator)
-# the topics section above can be improved by using the topicsparser.py script,
-# wherein the code can be something like below -
-# ----
-# topicslist = output from topicsparser.py
-# for currentTopic from topicslist 
-#   f.gen_out("../../database/db.csv", "../topics/<currentTopic>.md", "topic", "<currentTopic>")
-# end for
-# ----
-# basically instead of hardcoded topics used to generate the markdown files, use
-# the parser to get a list of avaialble topics and generate all markdown files as
-# per that list.
+
