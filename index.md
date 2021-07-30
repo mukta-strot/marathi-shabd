@@ -102,5 +102,6 @@ you use in it (like in the example above).
 ---
 
 [Contribute to this project](https://github.com/mukta-strot/marathi-shabd).
+*You need not be a software person to contribute. There are many ways to contribute.*
 
-[Know more about **मुक्त स्त्रोत**](https://mukta-strot.github.io/).
+[**मुक्त स्त्रोत** Home page](https://mukta-strot.github.io/).
