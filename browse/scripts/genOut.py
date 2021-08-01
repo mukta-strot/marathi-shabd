@@ -15,9 +15,11 @@ class GenFiles:
 
         # open output file
         with open(outFile, "w", encoding="UTF-8") as md_file:
-            if filter == "topic":
+            if filter != None and filter != "all_words":
                 topic = sub_filter
-            md_file.write("# " + topic + "\n\n")
+                md_file.write("# " + topic + "\n\n")
+            else:
+                md_file.write("# All\n\n")
 
             # run filter
             row_list =  f.filter_db(csv, filter, sub_filter)
