@@ -1,3 +1,5 @@
+## paper *(the material used to make pages)* = कागद
+
 ## parent = पालक
 
 ## parenting = पालकत्व

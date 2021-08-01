@@ -6,9 +6,17 @@
 
 ## add = जोडा
 
+## admission *(in a school)* = प्रवेश
+
+## admit *(something that was kept hidden)* = कबूल करणे
+
+## agile = चपळ
+
 ## airplane = विमान
 
 ## analysis = विश्लेषण
+
+## angle = कोन
 
 ## area *(like a place)* = क्षेत्र
 

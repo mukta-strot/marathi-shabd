@@ -10,6 +10,8 @@
 
 ## chance = संधी
 
+## channel *(like a channel on TV/radio/YouTube etc.)* = वाहिनी
+
 ## check = पडताळा;तपासणी
 
 ## checkup = तपासणी

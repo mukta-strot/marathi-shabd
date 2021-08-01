@@ -14,5 +14,7 @@
 
 ## building = इमारत
 
+## bus stop = बस स्थानक
+
 ## butter = लोणी
 

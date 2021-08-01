@@ -1,5 +1,7 @@
 ## area *(like a place)* = क्षेत्र
 
+## bus stop = बस स्थानक
+
 ## city = शहर
 
 ## clinic = चिकित्सालय
