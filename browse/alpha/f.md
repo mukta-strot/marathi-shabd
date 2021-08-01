@@ -4,6 +4,8 @@
 
 ## feeling = भावना
 
+## firm *(as in rigid or sturdy)* = टणक;भक्कम
+
 ## flight = उड्डाण
 
 ## floor = मजला

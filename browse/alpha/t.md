@@ -14,6 +14,8 @@
 
 ## ticket = तिकीट
 
+## tiger = वाघ
+
 ## time = वेळ
 
 ## tower = मनोरा

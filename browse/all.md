@@ -6,9 +6,17 @@
 
 ## add = जोडा
 
+## admission *(in a school)* = प्रवेश
+
+## admit *(something that was kept hidden)* = कबूल करणे
+
+## agile = चपळ
+
 ## airplane = विमान
 
 ## analysis = विश्लेषण
+
+## angle = कोन
 
 ## area *(like a place)* = क्षेत्र
 
@@ -42,6 +50,8 @@
 
 ## building = इमारत
 
+## bus stop = बस स्थानक
+
 ## butter = लोणी
 
 ## cage = पिंजरा
@@ -55,6 +65,8 @@
 ## chair = खुर्ची
 
 ## chance = संधी
+
+## channel *(like a channel on TV/radio/YouTube etc.)* = वाहिनी
 
 ## check = पडताळा;तपासणी
 
@@ -104,6 +116,8 @@
 
 ## decisive = निर्णायक
 
+## dialect = बोलीभाषा
+
 ## dilema = कोंडी
 
 ## efficiency = कार्यक्षमता
@@ -126,9 +140,9 @@
 
 #### **Comment**: sample comment
 
-## expression = अभिव्यक्ती
-
 ## expression *(on a person’s face)* = भाव
+
+## expression = अभिव्यक्ती
 
 ## extreme = अत्यंत
 
@@ -138,6 +152,8 @@
 
 ## feeling = भावना
 
+## firm *(as in rigid or sturdy)* = टणक;भक्कम
+
 ## flight = उड्डाण
 
 ## floor = मजला
@@ -146,13 +162,15 @@
 
 ## friction = घर्षण
 
+## geometry = भूमिती
+
 ## goat = शेळी
 
 ## gravity = गुरुत्व
 
-## hall *(inside a house)* = दिवाणखाना
-
 ## hall *(for a gathering or event)* = सभागृह
+
+## hall *(inside a house)* = दिवाणखाना
 
 ## heat = उष्णता
 
@@ -174,13 +192,23 @@
 
 ## job = नोकरी
 
+## job = नोकरी
+
+## language = भाषा
+
 ## latest = नवीनतम
+
+## law = कायदा
+
+## leopard = बिबट्या
 
 ## light = दिवा
 
 ### स्वयंपाकघर ला दिवा बंद कर.
 
 ## line = ओळ
+
+## lion = सिंह
 
 ## literally = अक्षरशः
 
@@ -190,9 +218,11 @@
 
 ## main = मुख्य
 
-## marks *(on a body)* = वण
+## manpower = मनुष्यबळ
 
 ## marks *(in an exam)* = गुण
+
+## marks *(on a body)* = वण
 
 ## mat = चटई
 
@@ -210,6 +240,14 @@
 
 ## negative = नकारात्मक
 
+## news = बातमी;वृत्त;समाचार
+
+## news channel = वृत्तवाहिनी
+
+## news paper = वृत्तपत्र
+
+#### **Comment**: Colloquially also called as just “paper”
+
 ## notebook = वही
 
 ## number = संख्या;क्रमांक
@@ -223,6 +261,8 @@
 ## option = पर्याय
 
 ## orbit = कक्षा
+
+## paper *(the material used to make pages)* = कागद
 
 ## parent = पालक
 
@@ -264,7 +304,13 @@
 
 ## rectangle = आयत
 
+## register *(as in to make a note/comment)* = नोंदणी करा
+
 ## reply = उत्तर
+
+## research = संशोधन
+
+## resignation = राजीनामा
 
 ## reverse = उलट
 
@@ -280,11 +326,15 @@
 
 ## sequence = क्रम
 
+## shape = आकार
+
 ## sheep = मेंढी
 
 ## ship = जहाज
 
 ## situation = परिस्थिती
+
+## size = माप
 
 ## solution = उपाय
 
@@ -300,6 +350,8 @@
 
 #### **Comment**: Colloquially also called as “tension”
 
+## study = अभ्यास
+
 ## subtract = वजाबाकी
 
 ## sun = सूर्य
@@ -311,6 +363,8 @@
 #### **Comment**: Colloquially also called as “operation”
 
 ## survey = सर्वेक्षण
+
+## swiftly = पटकन
 
 ## symptom *(of a disease)* = लक्षण
 
@@ -332,6 +386,8 @@
 
 ## ticket = तिकीट
 
+## tiger = वाघ
+
 ## time = वेळ
 
 ## tower = मनोरा
@@ -350,7 +406,11 @@
 
 ## village = गाव
 
+## volume *(of a 3 dimensional object)* = घनफळ
+
 ## weather = हवामान
+
+## weight = वजन
 
 ## worrisome = चिंताजनक
 

@@ -2,9 +2,11 @@
 
 ## main = मुख्य
 
-## marks *(on a body)* = वण
+## manpower = मनुष्यबळ
 
 ## marks *(in an exam)* = गुण
+
+## marks *(on a body)* = वण
 
 ## mat = चटई
 

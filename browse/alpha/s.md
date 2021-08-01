@@ -6,11 +6,15 @@
 
 ## sequence = क्रम
 
+## shape = आकार
+
 ## sheep = मेंढी
 
 ## ship = जहाज
 
 ## situation = परिस्थिती
+
+## size = माप
 
 ## solution = उपाय
 
@@ -26,6 +30,8 @@
 
 #### **Comment**: Colloquially also called as “tension”
 
+## study = अभ्यास
+
 ## subtract = वजाबाकी
 
 ## sun = सूर्य
@@ -37,6 +43,8 @@
 #### **Comment**: Colloquially also called as “operation”
 
 ## survey = सर्वेक्षण
+
+## swiftly = पटकन
 
 ## symptom *(of a disease)* = लक्षण
 

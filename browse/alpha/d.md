@@ -2,5 +2,7 @@
 
 ## decisive = निर्णायक
 
+## dialect = बोलीभाषा
+
 ## dilema = कोंडी
 

@@ -2,7 +2,13 @@
 
 ## rectangle = आयत
 
+## register *(as in to make a note/comment)* = नोंदणी करा
+
 ## reply = उत्तर
+
+## research = संशोधन
+
+## resignation = राजीनामा
 
 ## reverse = उलट
 
