@@ -1,3 +1,5 @@
+# medical
+
 ## checkup = तपासणी
 
 ## hospital = रुग्णालय

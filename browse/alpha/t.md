@@ -1,3 +1,5 @@
+# t
+
 ## telescope = दुर्बीण
 
 ## temperature = तापमान

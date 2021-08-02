@@ -1,3 +1,5 @@
+# daily
+
 ## actually = प्रत्यक्षात
 
 ## analysis = विश्लेषण

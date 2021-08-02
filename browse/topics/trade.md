@@ -1,3 +1,5 @@
+# trade
+
 ## exchange = विनिमय
 
 ## quality = गुणवत्ता
