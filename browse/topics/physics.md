@@ -1,3 +1,5 @@
+# physics
+
 ## cold = थंड
 
 ## firm *(as in rigid or sturdy)* = टणक;भक्कम

@@ -1,3 +1,5 @@
+# building
+
 ## building = इमारत
 
 ## floor = मजला

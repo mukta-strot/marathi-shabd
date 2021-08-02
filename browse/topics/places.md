@@ -1,3 +1,5 @@
+# places
+
 ## area *(like a place)* = क्षेत्र
 
 ## bus stop = बस स्थानक

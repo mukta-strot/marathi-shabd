@@ -1,3 +1,5 @@
+# mental
+
 ## attitude = वृत्ती
 
 ## emotional = भावनिक
