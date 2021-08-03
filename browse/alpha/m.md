@@ -1,24 +1,24 @@
 # m
 
-## magnet = चुंबक
+### magnet = चुंबक
 
-## main = मुख्य
+### main = मुख्य
 
-## manpower = मनुष्यबळ
+### manpower = मनुष्यबळ
 
-## marks *(in an exam)* = गुण
+### marks *(in an exam)* = गुण
 
-## marks *(on a body)* = वण
+### marks *(on a body)* = वण
 
-## mat = चटई
+### mat = चटई
 
-## meeting = बैठक
+### meeting = बैठक
 
-## midpoint = मध्यबिंदू
+### midpoint = मध्यबिंदू
 
-## moon = चंद्र
+### moon = चंद्र
 
-## moonlight = चांदणे
+### moonlight = चांदणे
 
-## multiply = गुणाकार
+### multiply = गुणाकार
 

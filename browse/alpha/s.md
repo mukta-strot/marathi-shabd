@@ -1,54 +1,57 @@
 # s
 
-## satellite = उपग्रह
+### satellite = उपग्रह
 
-## school = शाळा
+### school = शाळा
 
-## sensitive = संवेदनशील
+### sensitive = संवेदनशील
 
-## sequence = क्रम
+### sequence = क्रम
 
-## shape = आकार
+### shape = आकार
 
-## sheep = मेंढी
+### sheep = मेंढी
 
-## ship = जहाज
+### ship = जहाज
 
-## situation = परिस्थिती
+### situation = परिस्थिती
 
-## size = माप
+### size = माप
 
-## solution = उपाय
+### solution = उपाय
 
-## spontaneous = उत्स्फूर्त
+### spontaneous = उत्स्फूर्त
 
-## square = चौकोन
+### square = चौकोन
 
-## star = तारा
+### star = तारा
 
-## steps = पायर्‍या
+### steps = पायर्‍या
 
-## stress *(of the mind)* = ताण
+### stress *(of the mind)* = ताण
 
-#### **Comment**: Colloquially also called as “tension”
+**Comment**: Colloquially also called as “tension”
 
-## study = अभ्यास
+---
+### study = अभ्यास
 
-## subtract = वजाबाकी
+### subtract = वजाबाकी
 
-## sun = सूर्य
+### sun = सूर्य
 
-## sunlight = सूर्यप्रकाश
+### sunlight = सूर्यप्रकाश
 
-## surgery = शस्त्रक्रिया
+### surgery = शस्त्रक्रिया
 
-#### **Comment**: Colloquially also called as “operation”
+**Comment**: Colloquially also called as “operation”
 
-## survey = सर्वेक्षण
+---
+### survey = सर्वेक्षण
 
-## swiftly = पटकन
+### swiftly = पटकन
 
-## symptom *(of a disease)* = लक्षण
+### symptom *(of a disease)* = लक्षण
 
-### मला कोरोनाचे लक्षण दिसत आहेत.
+**Sentence**: मला कोरोनाचे लक्षण दिसत आहेत.
 
+---

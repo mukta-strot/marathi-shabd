@@ -1,60 +1,61 @@
 # c
 
-## cage = पिंजरा
+### cage = पिंजरा
 
-## calculator = गणकयंत्र
+### calculator = गणकयंत्र
 
-## center = केंद्र
+### center = केंद्र
 
-## certainty = निश्चितता
+### certainty = निश्चितता
 
-## chair = खुर्ची
+### chair = खुर्ची
 
-## chance = संधी
+### chance = संधी
 
-## channel *(like a channel on TV/radio/YouTube etc.)* = वाहिनी
+### channel *(like a channel on TV/radio/YouTube etc.)* = वाहिनी
 
-## check = पडताळा;तपासणी
+### check = पडताळा;तपासणी
 
-## checkup = तपासणी
+### checkup = तपासणी
 
-## chill = थंडगार
+### chill = थंडगार
 
-## circle = वर्तुळ
+### circle = वर्तुळ
 
-## city = शहर
+### city = शहर
 
-## clinic = चिकित्सालय
+### clinic = चिकित्सालय
 
-## cold = थंड
+### cold = थंड
 
-## colour = रंग
+### colour = रंग
 
-## comfortable = आरामदायक
+### comfortable = आरामदायक
 
-## community = समुदाय
+### community = समुदाय
 
-## complex = जटिल
+### complex = जटिल
 
-## computer = संगणक
+### computer = संगणक
 
-## concept = संकल्पना
+### concept = संकल्पना
 
-## condition *(as in terms and conditions)* = अट
+### condition *(as in terms and conditions)* = अट
 
-## conference = परिषद
+### conference = परिषद
 
-## confirm = पुष्टी
+### confirm = पुष्टी
 
-## connect *(a cable to a port)* = जोड
+### connect *(a cable to a port)* = जोड
 
-## contact = संपर्क
+### contact = संपर्क
 
-### तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
+**Sentence**: तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
 
-## credible = विश्वसनीय
+---
+### credible = विश्वसनीय
 
-## criteria = निकष
+### criteria = निकष
 
-## critical = गंभीर
+### critical = गंभीर
 

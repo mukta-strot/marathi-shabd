@@ -1,18 +1,18 @@
 # f
 
-## fan = पंखा
+### fan = पंखा
 
-## feedback = अभिप्राय
+### feedback = अभिप्राय
 
-## feeling = भावना
+### feeling = भावना
 
-## firm *(as in rigid or sturdy)* = टणक;भक्कम
+### firm *(as in rigid or sturdy)* = टणक;भक्कम
 
-## flight = उड्डाण
+### flight = उड्डाण
 
-## floor = मजला
+### floor = मजला
 
-## formal = औपचारिक
+### formal = औपचारिक
 
-## friction = घर्षण
+### friction = घर्षण
 

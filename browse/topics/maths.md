@@ -1,10 +1,10 @@
 # maths
 
-## add = जोडा
+### add = जोडा
 
-## multiply = गुणाकार
+### multiply = गुणाकार
 
-## number = संख्या;क्रमांक
+### number = संख्या;क्रमांक
 
-## subtract = वजाबाकी
+### subtract = वजाबाकी
 

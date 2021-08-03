@@ -1,8 +1,8 @@
 # vehicles
 
-## airplane = विमान
+### airplane = विमान
 
-## boat = नाव;होडी
+### boat = नाव;होडी
 
-## ship = जहाज
+### ship = जहाज
 

@@ -1,36 +1,37 @@
 # p
 
-## paper *(the material used to make pages)* = कागद
+### paper *(the material used to make pages)* = कागद
 
-## parent = पालक
+### parent = पालक
 
-## parenting = पालकत्व
+### parenting = पालकत्व
 
-## parking lot = वाहनतळ
+### parking lot = वाहनतळ
 
-## patience = संयम
+### patience = संयम
 
-## patient = रुग्ण
+### patient = रुग्ण
 
-## perimeter = परिमिती
+### perimeter = परिमिती
 
-## personal = वैयक्‍तिक
+### personal = वैयक्‍तिक
 
-## pharmacy *(where you get medicine)* = दवाखाना
+### pharmacy *(where you get medicine)* = दवाखाना
 
-#### **Comment**: a.k.a. dispensary
+**Comment**: a.k.a. dispensary
 
-## planet = ग्रह
+---
+### planet = ग्रह
 
-## point = बिंदू
+### point = बिंदू
 
-## positive = सकारात्मक
+### positive = सकारात्मक
 
-## pressure = दाब
+### pressure = दाब
 
-## problem = समस्या
+### problem = समस्या
 
-## prominent = ठळक
+### prominent = ठळक
 
-## proportion = प्रमाण
+### proportion = प्रमाण
 

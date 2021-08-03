@@ -1,4 +1,4 @@
 # social
 
-## community = समुदाय
+### community = समुदाय
 

@@ -1,18 +1,19 @@
 # mental
 
-## attitude = वृत्ती
+### attitude = वृत्ती
 
-## emotional = भावनिक
+### emotional = भावनिक
 
-## feeling = भावना
+### feeling = भावना
 
-## patience = संयम
+### patience = संयम
 
-## sensitive = संवेदनशील
+### sensitive = संवेदनशील
 
-## stress *(of the mind)* = ताण
+### stress *(of the mind)* = ताण
 
-#### **Comment**: Colloquially also called as “tension”
+**Comment**: Colloquially also called as “tension”
 
-## test *(of someone’s strength)* = परीक्षा
+---
+### test *(of someone’s strength)* = परीक्षा
 

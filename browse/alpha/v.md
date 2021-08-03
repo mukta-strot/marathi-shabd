@@ -1,6 +1,6 @@
 # v
 
-## village = गाव
+### village = गाव
 
-## volume *(of a 3 dimensional object)* = घनफळ
+### volume *(of a 3 dimensional object)* = घनफळ
 

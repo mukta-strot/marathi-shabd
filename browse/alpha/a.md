@@ -1,38 +1,38 @@
 # a
 
-## actor = अभिनेता
+### actor = अभिनेता
 
-## actress = अभिनेत्री
+### actress = अभिनेत्री
 
-## actually = प्रत्यक्षात
+### actually = प्रत्यक्षात
 
-## add = जोडा
+### add = जोडा
 
-## admission *(in a school)* = प्रवेश
+### admission *(in a school)* = प्रवेश
 
-## admit *(something that was kept hidden)* = कबूल करणे
+### admit *(something that was kept hidden)* = कबूल करणे
 
-## agile = चपळ
+### agile = चपळ
 
-## airplane = विमान
+### airplane = विमान
 
-## analysis = विश्लेषण
+### analysis = विश्लेषण
 
-## angle = कोन
+### angle = कोन
 
-## area *(like a place)* = क्षेत्र
+### area *(like a place)* = क्षेत्र
 
-## area *(of a closed surface)* = क्षेत्रफळ
+### area *(of a closed surface)* = क्षेत्रफळ
 
-## assurance = खात्री
+### assurance = खात्री
 
-## astrology = ज्योतिष
+### astrology = ज्योतिष
 
-## astronomy = खगोलशास्त्र
+### astronomy = खगोलशास्त्र
 
-## atom = अणू
+### atom = अणू
 
-## attitude = वृत्ती
+### attitude = वृत्ती
 
-## automatic = स्वयंचलित
+### automatic = स्वयंचलित
 

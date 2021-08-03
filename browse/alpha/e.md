@@ -1,28 +1,29 @@
 # e
 
-## efficiency = कार्यक्षमता
+### efficiency = कार्यक्षमता
 
-## efficient = कार्यक्षम
+### efficient = कार्यक्षम
 
-## efforts = परिश्रम
+### efforts = परिश्रम
 
-## emotional = भावनिक
+### emotional = भावनिक
 
-## energy = ऊर्जा
+### energy = ऊर्जा
 
-## entry = प्रवेश
+### entry = प्रवेश
 
-## exchange = विनिमय
+### exchange = विनिमय
 
-## experience *(sample context)* = अनुभव
+### experience *(sample context)* = अनुभव
 
-### मला यात अनुभव  आहे
+**Sentence**: मला यात अनुभव  आहे
 
-#### **Comment**: sample comment
+**Comment**: sample comment
 
-## expression *(on a person’s face)* = भाव
+---
+### expression *(on a person’s face)* = भाव
 
-## expression = अभिव्यक्ती
+### expression = अभिव्यक्ती
 
-## extreme = अत्यंत
+### extreme = अत्यंत
 

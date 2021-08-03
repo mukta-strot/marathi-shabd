@@ -1,36 +1,37 @@
 # communication
 
-## channel *(like a channel on TV/radio/YouTube etc.)* = वाहिनी
+### channel *(like a channel on TV/radio/YouTube etc.)* = वाहिनी
 
-## confirm = पुष्टी
+### confirm = पुष्टी
 
-## credible = विश्वसनीय
+### credible = विश्वसनीय
 
-## dialect = बोलीभाषा
+### dialect = बोलीभाषा
 
-## feedback = अभिप्राय
+### feedback = अभिप्राय
 
-## formal = औपचारिक
+### formal = औपचारिक
 
-## informal = अनौपचारिक
+### informal = अनौपचारिक
 
-## language = भाषा
+### language = भाषा
 
-## literally = अक्षरशः
+### literally = अक्षरशः
 
-## news = बातमी;वृत्त;समाचार
+### news = बातमी;वृत्त;समाचार
 
-## news channel = वृत्तवाहिनी
+### news channel = वृत्तवाहिनी
 
-## news paper = वृत्तपत्र
+### news paper = वृत्तपत्र
 
-#### **Comment**: Colloquially also called as just “paper”
+**Comment**: Colloquially also called as just “paper”
 
-## official = अधिकृत
+---
+### official = अधिकृत
 
-## reply = उत्तर
+### reply = उत्तर
 
-## spontaneous = उत्स्फूर्त
+### spontaneous = उत्स्फूर्त
 
-## unofficial = अनधिकृत
+### unofficial = अनधिकृत
 

@@ -1,8 +1,8 @@
 # animal
 
-## cage = पिंजरा
+### cage = पिंजरा
 
-## goat = शेळी
+### goat = शेळी
 
-## sheep = मेंढी
+### sheep = मेंढी
 

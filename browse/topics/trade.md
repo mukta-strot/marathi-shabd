@@ -1,10 +1,10 @@
 # trade
 
-## exchange = विनिमय
+### exchange = विनिमय
 
-## quality = गुणवत्ता
+### quality = गुणवत्ता
 
-## quantity = मात्रा
+### quantity = मात्रा
 
-## ticket = तिकीट
+### ticket = तिकीट
 

@@ -1,10 +1,10 @@
 # d
 
-## decision = निर्णय
+### decision = निर्णय
 
-## decisive = निर्णायक
+### decisive = निर्णायक
 
-## dialect = बोलीभाषा
+### dialect = बोलीभाषा
 
-## dilema = कोंडी
+### dilema = कोंडी
 

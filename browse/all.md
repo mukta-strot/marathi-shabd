@@ -1,418 +1,426 @@
 # All
 
-## actor = अभिनेता
+### actor = अभिनेता
 
-## actress = अभिनेत्री
+### actress = अभिनेत्री
 
-## actually = प्रत्यक्षात
+### actually = प्रत्यक्षात
 
-## add = जोडा
+### add = जोडा
 
-## admission *(in a school)* = प्रवेश
+### admission *(in a school)* = प्रवेश
 
-## admit *(something that was kept hidden)* = कबूल करणे
+### admit *(something that was kept hidden)* = कबूल करणे
 
-## agile = चपळ
+### agile = चपळ
 
-## airplane = विमान
+### airplane = विमान
 
-## analysis = विश्लेषण
+### analysis = विश्लेषण
 
-## angle = कोन
+### angle = कोन
 
-## area *(like a place)* = क्षेत्र
+### area *(like a place)* = क्षेत्र
 
-## area *(of a closed surface)* = क्षेत्रफळ
+### area *(of a closed surface)* = क्षेत्रफळ
 
-## assurance = खात्री
+### assurance = खात्री
 
-## astrology = ज्योतिष
+### astrology = ज्योतिष
 
-## astronomy = खगोलशास्त्र
+### astronomy = खगोलशास्त्र
 
-## atom = अणू
+### atom = अणू
 
-## attitude = वृत्ती
+### attitude = वृत्ती
 
-## automatic = स्वयंचलित
+### automatic = स्वयंचलित
 
-## basic = मूलभूत
+### basic = मूलभूत
 
-## bed = पलंग
+### bed = पलंग
 
-## board = फळा
+### board = फळा
 
-## boat = नाव;होडी
+### boat = नाव;होडी
 
-## book = पुस्तक
+### book = पुस्तक
 
-## boundary = सीमा
+### boundary = सीमा
 
-## box = पेटी
+### box = पेटी
 
-## building = इमारत
+### building = इमारत
 
-## bus stop = बस स्थानक
+### bus stop = बस स्थानक
 
-## butter = लोणी
+### butter = लोणी
 
-## cage = पिंजरा
+### cage = पिंजरा
 
-## calculator = गणकयंत्र
+### calculator = गणकयंत्र
 
-## center = केंद्र
+### center = केंद्र
 
-## certainty = निश्चितता
+### certainty = निश्चितता
 
-## chair = खुर्ची
+### chair = खुर्ची
 
-## chance = संधी
+### chance = संधी
 
-## channel *(like a channel on TV/radio/YouTube etc.)* = वाहिनी
+### channel *(like a channel on TV/radio/YouTube etc.)* = वाहिनी
 
-## check = पडताळा;तपासणी
+### check = पडताळा;तपासणी
 
-## checkup = तपासणी
+### checkup = तपासणी
 
-## chill = थंडगार
+### chill = थंडगार
 
-## circle = वर्तुळ
+### circle = वर्तुळ
 
-## city = शहर
+### city = शहर
 
-## clinic = चिकित्सालय
+### clinic = चिकित्सालय
 
-## cold = थंड
+### cold = थंड
 
-## colour = रंग
+### colour = रंग
 
-## comfortable = आरामदायक
+### comfortable = आरामदायक
 
-## community = समुदाय
+### community = समुदाय
 
-## complex = जटिल
+### complex = जटिल
 
-## computer = संगणक
+### computer = संगणक
 
-## concept = संकल्पना
+### concept = संकल्पना
 
-## condition *(as in terms and conditions)* = अट
+### condition *(as in terms and conditions)* = अट
 
-## conference = परिषद
+### conference = परिषद
 
-## confirm = पुष्टी
+### confirm = पुष्टी
 
-## connect *(a cable to a port)* = जोड
+### connect *(a cable to a port)* = जोड
 
-## contact = संपर्क
+### contact = संपर्क
 
-### तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
+**Sentence**: तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
 
-## credible = विश्वसनीय
+---
+### credible = विश्वसनीय
 
-## criteria = निकष
+### criteria = निकष
 
-## critical = गंभीर
+### critical = गंभीर
 
-## decision = निर्णय
+### decision = निर्णय
 
-## decisive = निर्णायक
+### decisive = निर्णायक
 
-## dialect = बोलीभाषा
+### dialect = बोलीभाषा
 
-## dilema = कोंडी
+### dilema = कोंडी
 
-## efficiency = कार्यक्षमता
+### efficiency = कार्यक्षमता
 
-## efficient = कार्यक्षम
+### efficient = कार्यक्षम
 
-## efforts = परिश्रम
+### efforts = परिश्रम
 
-## emotional = भावनिक
+### emotional = भावनिक
 
-## energy = ऊर्जा
+### energy = ऊर्जा
 
-## entry = प्रवेश
+### entry = प्रवेश
 
-## exchange = विनिमय
+### exchange = विनिमय
 
-## experience *(sample context)* = अनुभव
+### experience *(sample context)* = अनुभव
 
-### मला यात अनुभव  आहे
+**Sentence**: मला यात अनुभव  आहे
 
-#### **Comment**: sample comment
+**Comment**: sample comment
 
-## expression *(on a person’s face)* = भाव
+---
+### expression *(on a person’s face)* = भाव
 
-## expression = अभिव्यक्ती
+### expression = अभिव्यक्ती
 
-## extreme = अत्यंत
+### extreme = अत्यंत
 
-## fan = पंखा
+### fan = पंखा
 
-## feedback = अभिप्राय
+### feedback = अभिप्राय
 
-## feeling = भावना
+### feeling = भावना
 
-## firm *(as in rigid or sturdy)* = टणक;भक्कम
+### firm *(as in rigid or sturdy)* = टणक;भक्कम
 
-## flight = उड्डाण
+### flight = उड्डाण
 
-## floor = मजला
+### floor = मजला
 
-## formal = औपचारिक
+### formal = औपचारिक
 
-## friction = घर्षण
+### friction = घर्षण
 
-## geometry = भूमिती
+### geometry = भूमिती
 
-## goat = शेळी
+### goat = शेळी
 
-## gravity = गुरुत्व
+### gravity = गुरुत्व
 
-## hall *(for a gathering or event)* = सभागृह
+### hall *(for a gathering or event)* = सभागृह
 
-## hall *(inside a house)* = दिवाणखाना
+### hall *(inside a house)* = दिवाणखाना
 
-## heat = उष्णता
+### heat = उष्णता
 
-## hospital = रुग्णालय
+### hospital = रुग्णालय
 
-## ignore = दुर्लक्ष
+### ignore = दुर्लक्ष
 
-## impossible = अशक्य
+### impossible = अशक्य
 
-## India = भारत
+### India = भारत
 
-## informal = अनौपचारिक
+### informal = अनौपचारिक
 
-## insurance = विमा
+### insurance = विमा
 
-## interest = रस
+### interest = रस
 
-## irreversible = अपरिवर्तनीय
+### irreversible = अपरिवर्तनीय
 
-## job = नोकरी
+### job = नोकरी
 
-## job = नोकरी
+### job = नोकरी
 
-## language = भाषा
+### language = भाषा
 
-## latest = नवीनतम
+### latest = नवीनतम
 
-## law = कायदा
+### law = कायदा
 
-## leopard = बिबट्या
+### leopard = बिबट्या
 
-## light = दिवा
+### light = दिवा
 
-### स्वयंपाकघर ला दिवा बंद कर.
+**Sentence**: स्वयंपाकघर ला दिवा बंद कर.
 
-## line = ओळ
+---
+### line = ओळ
 
-## lion = सिंह
+### lion = सिंह
 
-## literally = अक्षरशः
+### literally = अक्षरशः
 
-## living room = दिवाणखाना
+### living room = दिवाणखाना
 
-## magnet = चुंबक
+### magnet = चुंबक
 
-## main = मुख्य
+### main = मुख्य
 
-## manpower = मनुष्यबळ
+### manpower = मनुष्यबळ
 
-## marks *(in an exam)* = गुण
+### marks *(in an exam)* = गुण
 
-## marks *(on a body)* = वण
+### marks *(on a body)* = वण
 
-## mat = चटई
+### mat = चटई
 
-## meeting = बैठक
+### meeting = बैठक
 
-## midpoint = मध्यबिंदू
+### midpoint = मध्यबिंदू
 
-## moon = चंद्र
+### moon = चंद्र
 
-## moonlight = चांदणे
+### moonlight = चांदणे
 
-## multiply = गुणाकार
+### multiply = गुणाकार
 
-## natural = नैसर्गिक
+### natural = नैसर्गिक
 
-## negative = नकारात्मक
+### negative = नकारात्मक
 
-## news = बातमी;वृत्त;समाचार
+### news = बातमी;वृत्त;समाचार
 
-## news channel = वृत्तवाहिनी
+### news channel = वृत्तवाहिनी
 
-## news paper = वृत्तपत्र
+### news paper = वृत्तपत्र
 
-#### **Comment**: Colloquially also called as just “paper”
+**Comment**: Colloquially also called as just “paper”
 
-## notebook = वही
+---
+### notebook = वही
 
-## number = संख्या;क्रमांक
+### number = संख्या;क्रमांक
 
-## official = अधिकृत
+### official = अधिकृत
 
-## operation *(of a thing)* = चालणे
+### operation *(of a thing)* = चालणे
 
-## opportunity = संधी
+### opportunity = संधी
 
-## option = पर्याय
+### option = पर्याय
 
-## orbit = कक्षा
+### orbit = कक्षा
 
-## paper *(the material used to make pages)* = कागद
+### paper *(the material used to make pages)* = कागद
 
-## parent = पालक
+### parent = पालक
 
-## parenting = पालकत्व
+### parenting = पालकत्व
 
-## parking lot = वाहनतळ
+### parking lot = वाहनतळ
 
-## patience = संयम
+### patience = संयम
 
-## patient = रुग्ण
+### patient = रुग्ण
 
-## perimeter = परिमिती
+### perimeter = परिमिती
 
-## personal = वैयक्‍तिक
+### personal = वैयक्‍तिक
 
-## pharmacy *(where you get medicine)* = दवाखाना
+### pharmacy *(where you get medicine)* = दवाखाना
 
-#### **Comment**: a.k.a. dispensary
+**Comment**: a.k.a. dispensary
 
-## planet = ग्रह
+---
+### planet = ग्रह
 
-## point = बिंदू
+### point = बिंदू
 
-## positive = सकारात्मक
+### positive = सकारात्मक
 
-## pressure = दाब
+### pressure = दाब
 
-## problem = समस्या
+### problem = समस्या
 
-## prominent = ठळक
+### prominent = ठळक
 
-## proportion = प्रमाण
+### proportion = प्रमाण
 
-## quality = गुणवत्ता
+### quality = गुणवत्ता
 
-## quantity = मात्रा
+### quantity = मात्रा
 
-## reaction = प्रतिक्रिया
+### reaction = प्रतिक्रिया
 
-## rectangle = आयत
+### rectangle = आयत
 
-## register *(as in to make a note/comment)* = नोंदणी करा
+### register *(as in to make a note/comment)* = नोंदणी करा
 
-## reply = उत्तर
+### reply = उत्तर
 
-## research = संशोधन
+### research = संशोधन
 
-## resignation = राजीनामा
+### resignation = राजीनामा
 
-## reverse = उलट
+### reverse = उलट
 
-## reversible = उलट करता येण्यासारखा
+### reversible = उलट करता येण्यासारखा
 
-## road = रस्ता
+### road = रस्ता
 
-## satellite = उपग्रह
+### satellite = उपग्रह
 
-## school = शाळा
+### school = शाळा
 
-## sensitive = संवेदनशील
+### sensitive = संवेदनशील
 
-## sequence = क्रम
+### sequence = क्रम
 
-## shape = आकार
+### shape = आकार
 
-## sheep = मेंढी
+### sheep = मेंढी
 
-## ship = जहाज
+### ship = जहाज
 
-## situation = परिस्थिती
+### situation = परिस्थिती
 
-## size = माप
+### size = माप
 
-## solution = उपाय
+### solution = उपाय
 
-## spontaneous = उत्स्फूर्त
+### spontaneous = उत्स्फूर्त
 
-## square = चौकोन
+### square = चौकोन
 
-## star = तारा
+### star = तारा
 
-## steps = पायर्‍या
+### steps = पायर्‍या
 
-## stress *(of the mind)* = ताण
+### stress *(of the mind)* = ताण
 
-#### **Comment**: Colloquially also called as “tension”
+**Comment**: Colloquially also called as “tension”
 
-## study = अभ्यास
+---
+### study = अभ्यास
 
-## subtract = वजाबाकी
+### subtract = वजाबाकी
 
-## sun = सूर्य
+### sun = सूर्य
 
-## sunlight = सूर्यप्रकाश
+### sunlight = सूर्यप्रकाश
 
-## surgery = शस्त्रक्रिया
+### surgery = शस्त्रक्रिया
 
-#### **Comment**: Colloquially also called as “operation”
+**Comment**: Colloquially also called as “operation”
 
-## survey = सर्वेक्षण
+---
+### survey = सर्वेक्षण
 
-## swiftly = पटकन
+### swiftly = पटकन
 
-## symptom *(of a disease)* = लक्षण
+### symptom *(of a disease)* = लक्षण
 
-### मला कोरोनाचे लक्षण दिसत आहेत.
+**Sentence**: मला कोरोनाचे लक्षण दिसत आहेत.
 
-## telescope = दुर्बीण
+---
+### telescope = दुर्बीण
 
-## temperature = तापमान
+### temperature = तापमान
 
-## tension *(in a wire)* = ताण
+### tension *(in a wire)* = ताण
 
-## test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
+### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
 
-## test *(a small/minor examination)* = चाचणी
+### test *(a small/minor examination)* = चाचणी
 
-## test *(of someone’s strength)* = परीक्षा
+### test *(of someone’s strength)* = परीक्षा
 
-## textbook = पाठ्यपुस्तक
+### textbook = पाठ्यपुस्तक
 
-## ticket = तिकीट
+### ticket = तिकीट
 
-## tiger = वाघ
+### tiger = वाघ
 
-## time = वेळ
+### time = वेळ
 
-## tower = मनोरा
+### tower = मनोरा
 
-## travel = प्रवास
+### travel = प्रवास
 
-## triangle = त्रिकोण
+### triangle = त्रिकोण
 
-## unavoidable = अटळ
+### unavoidable = अटळ
 
-## uncertainty = अनिश्चितता
+### uncertainty = अनिश्चितता
 
-## uncomfortable = अस्वस्थ
+### uncomfortable = अस्वस्थ
 
-## unofficial = अनधिकृत
+### unofficial = अनधिकृत
 
-## village = गाव
+### village = गाव
 
-## volume *(of a 3 dimensional object)* = घनफळ
+### volume *(of a 3 dimensional object)* = घनफळ
 
-## weather = हवामान
+### weather = हवामान
 
-## weight = वजन
+### weight = वजन
 
-## worrisome = चिंताजनक
+### worrisome = चिंताजनक
 

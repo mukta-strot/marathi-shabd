@@ -1,28 +1,29 @@
 # places
 
-## area *(like a place)* = क्षेत्र
+### area *(like a place)* = क्षेत्र
 
-## bus stop = बस स्थानक
+### bus stop = बस स्थानक
 
-## city = शहर
+### city = शहर
 
-## clinic = चिकित्सालय
+### clinic = चिकित्सालय
 
-## hall *(for a gathering or event)* = सभागृह
+### hall *(for a gathering or event)* = सभागृह
 
-## hospital = रुग्णालय
+### hospital = रुग्णालय
 
-## India = भारत
+### India = भारत
 
-## parking lot = वाहनतळ
+### parking lot = वाहनतळ
 
-## pharmacy *(where you get medicine)* = दवाखाना
+### pharmacy *(where you get medicine)* = दवाखाना
 
-#### **Comment**: a.k.a. dispensary
+**Comment**: a.k.a. dispensary
 
-## road = रस्ता
+---
+### road = रस्ता
 
-## school = शाळा
+### school = शाळा
 
-## village = गाव
+### village = गाव
 

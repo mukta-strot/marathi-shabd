@@ -1,4 +1,4 @@
 # technology
 
-## computer = संगणक
+### computer = संगणक
 
