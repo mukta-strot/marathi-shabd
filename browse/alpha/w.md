@@ -1,8 +1,8 @@
 # w
 
-## weather = हवामान
+### weather = हवामान
 
-## weight = वजन
+### weight = वजन
 
-## worrisome = चिंताजनक
+### worrisome = चिंताजनक
 

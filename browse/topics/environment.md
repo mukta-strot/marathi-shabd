@@ -1,6 +1,6 @@
 # environment
 
-## temperature = तापमान
+### temperature = तापमान
 
-## weather = हवामान
+### weather = हवामान
 

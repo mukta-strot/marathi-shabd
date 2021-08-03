@@ -1,8 +1,8 @@
 # g
 
-## geometry = भूमिती
+### geometry = भूमिती
 
-## goat = शेळी
+### goat = शेळी
 
-## gravity = गुरुत्व
+### gravity = गुरुत्व
 

@@ -1,20 +1,20 @@
 # r
 
-## reaction = प्रतिक्रिया
+### reaction = प्रतिक्रिया
 
-## rectangle = आयत
+### rectangle = आयत
 
-## register *(as in to make a note/comment)* = नोंदणी करा
+### register *(as in to make a note/comment)* = नोंदणी करा
 
-## reply = उत्तर
+### reply = उत्तर
 
-## research = संशोधन
+### research = संशोधन
 
-## resignation = राजीनामा
+### resignation = राजीनामा
 
-## reverse = उलट
+### reverse = उलट
 
-## reversible = उलट करता येण्यासारखा
+### reversible = उलट करता येण्यासारखा
 
-## road = रस्ता
+### road = रस्ता
 

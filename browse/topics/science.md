@@ -1,42 +1,43 @@
 # science
 
-## astrology = ज्योतिष
+### astrology = ज्योतिष
 
-## astronomy = खगोलशास्त्र
+### astronomy = खगोलशास्त्र
 
-## atom = अणू
+### atom = अणू
 
-## cold = थंड
+### cold = थंड
 
-## complex = जटिल
+### complex = जटिल
 
-## efficiency = कार्यक्षमता
+### efficiency = कार्यक्षमता
 
-## efficient = कार्यक्षम
+### efficient = कार्यक्षम
 
-## efforts = परिश्रम
+### efforts = परिश्रम
 
-## energy = ऊर्जा
+### energy = ऊर्जा
 
-## friction = घर्षण
+### friction = घर्षण
 
-## gravity = गुरुत्व
+### gravity = गुरुत्व
 
-## heat = उष्णता
+### heat = उष्णता
 
-## magnet = चुंबक
+### magnet = चुंबक
 
-## moonlight = चांदणे
+### moonlight = चांदणे
 
-## negative = नकारात्मक
+### negative = नकारात्मक
 
-## positive = सकारात्मक
+### positive = सकारात्मक
 
-## pressure = दाब
+### pressure = दाब
 
-## sunlight = सूर्यप्रकाश
+### sunlight = सूर्यप्रकाश
 
-## symptom *(of a disease)* = लक्षण
+### symptom *(of a disease)* = लक्षण
 
-### मला कोरोनाचे लक्षण दिसत आहेत.
+**Sentence**: मला कोरोनाचे लक्षण दिसत आहेत.
 
+---

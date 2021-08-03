@@ -1,28 +1,28 @@
 # t
 
-## telescope = दुर्बीण
+### telescope = दुर्बीण
 
-## temperature = तापमान
+### temperature = तापमान
 
-## tension *(in a wire)* = ताण
+### tension *(in a wire)* = ताण
 
-## test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
+### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
 
-## test *(a small/minor examination)* = चाचणी
+### test *(a small/minor examination)* = चाचणी
 
-## test *(of someone’s strength)* = परीक्षा
+### test *(of someone’s strength)* = परीक्षा
 
-## textbook = पाठ्यपुस्तक
+### textbook = पाठ्यपुस्तक
 
-## ticket = तिकीट
+### ticket = तिकीट
 
-## tiger = वाघ
+### tiger = वाघ
 
-## time = वेळ
+### time = वेळ
 
-## tower = मनोरा
+### tower = मनोरा
 
-## travel = प्रवास
+### travel = प्रवास
 
-## triangle = त्रिकोण
+### triangle = त्रिकोण
 

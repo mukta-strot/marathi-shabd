@@ -1,42 +1,43 @@
 # work
 
-## assurance = खात्री
+### assurance = खात्री
 
-## basic = मूलभूत
+### basic = मूलभूत
 
-## chance = संधी
+### chance = संधी
 
-## conference = परिषद
+### conference = परिषद
 
-## decision = निर्णय
+### decision = निर्णय
 
-## decisive = निर्णायक
+### decisive = निर्णायक
 
-## experience *(sample context)* = अनुभव
+### experience *(sample context)* = अनुभव
 
-### मला यात अनुभव  आहे
+**Sentence**: मला यात अनुभव  आहे
 
-#### **Comment**: sample comment
+**Comment**: sample comment
 
-## formal = औपचारिक
+---
+### formal = औपचारिक
 
-## informal = अनौपचारिक
+### informal = अनौपचारिक
 
-## insurance = विमा
+### insurance = विमा
 
-## job = नोकरी
+### job = नोकरी
 
-## meeting = बैठक
+### meeting = बैठक
 
-## official = अधिकृत
+### official = अधिकृत
 
-## opportunity = संधी
+### opportunity = संधी
 
-## problem = समस्या
+### problem = समस्या
 
-## proportion = प्रमाण
+### proportion = प्रमाण
 
-## unofficial = अनधिकृत
+### unofficial = अनधिकृत
 
-## worrisome = चिंताजनक
+### worrisome = चिंताजनक
 

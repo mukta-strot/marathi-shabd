@@ -1,14 +1,14 @@
 # school
 
-## board = फळा
+### board = फळा
 
-## book = पुस्तक
+### book = पुस्तक
 
-## marks *(in an exam)* = गुण
+### marks *(in an exam)* = गुण
 
-## notebook = वही
+### notebook = वही
 
-## test *(a small/minor examination)* = चाचणी
+### test *(a small/minor examination)* = चाचणी
 
-## textbook = पाठ्यपुस्तक
+### textbook = पाठ्यपुस्तक
 

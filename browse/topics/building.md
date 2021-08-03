@@ -1,10 +1,10 @@
 # building
 
-## building = इमारत
+### building = इमारत
 
-## floor = मजला
+### floor = मजला
 
-## steps = पायर्‍या
+### steps = पायर्‍या
 
-## tower = मनोरा
+### tower = मनोरा
 

@@ -1,12 +1,12 @@
 # o
 
-## official = अधिकृत
+### official = अधिकृत
 
-## operation *(of a thing)* = चालणे
+### operation *(of a thing)* = चालणे
 
-## opportunity = संधी
+### opportunity = संधी
 
-## option = पर्याय
+### option = पर्याय
 
-## orbit = कक्षा
+### orbit = कक्षा
 

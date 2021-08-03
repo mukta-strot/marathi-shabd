@@ -1,6 +1,6 @@
 # furniture
 
-## bed = पलंग
+### bed = पलंग
 
-## chair = खुर्ची
+### chair = खुर्ची
 

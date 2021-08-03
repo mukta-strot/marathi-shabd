@@ -1,10 +1,10 @@
 # u
 
-## unavoidable = अटळ
+### unavoidable = अटळ
 
-## uncertainty = अनिश्चितता
+### uncertainty = अनिश्चितता
 
-## uncomfortable = अस्वस्थ
+### uncomfortable = अस्वस्थ
 
-## unofficial = अनधिकृत
+### unofficial = अनधिकृत
 

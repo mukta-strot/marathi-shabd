@@ -1,22 +1,23 @@
 # l
 
-## language = भाषा
+### language = भाषा
 
-## latest = नवीनतम
+### latest = नवीनतम
 
-## law = कायदा
+### law = कायदा
 
-## leopard = बिबट्या
+### leopard = बिबट्या
 
-## light = दिवा
+### light = दिवा
 
-### स्वयंपाकघर ला दिवा बंद कर.
+**Sentence**: स्वयंपाकघर ला दिवा बंद कर.
 
-## line = ओळ
+---
+### line = ओळ
 
-## lion = सिंह
+### lion = सिंह
 
-## literally = अक्षरशः
+### literally = अक्षरशः
 
-## living room = दिवाणखाना
+### living room = दिवाणखाना
 

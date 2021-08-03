@@ -1,14 +1,14 @@
 # i
 
-## ignore = दुर्लक्ष
+### ignore = दुर्लक्ष
 
-## impossible = अशक्य
+### impossible = अशक्य
 
-## informal = अनौपचारिक
+### informal = अनौपचारिक
 
-## insurance = विमा
+### insurance = विमा
 
-## interest = रस
+### interest = रस
 
-## irreversible = अपरिवर्तनीय
+### irreversible = अपरिवर्तनीय
 

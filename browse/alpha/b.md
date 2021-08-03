@@ -1,22 +1,22 @@
 # b
 
-## basic = मूलभूत
+### basic = मूलभूत
 
-## bed = पलंग
+### bed = पलंग
 
-## board = फळा
+### board = फळा
 
-## boat = नाव;होडी
+### boat = नाव;होडी
 
-## book = पुस्तक
+### book = पुस्तक
 
-## boundary = सीमा
+### boundary = सीमा
 
-## box = पेटी
+### box = पेटी
 
-## building = इमारत
+### building = इमारत
 
-## bus stop = बस स्थानक
+### bus stop = बस स्थानक
 
-## butter = लोणी
+### butter = लोणी
 

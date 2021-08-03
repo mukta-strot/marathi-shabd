@@ -1,32 +1,32 @@
 # geometry
 
-## angle = कोन
+### angle = कोन
 
-## area *(of a closed surface)* = क्षेत्रफळ
+### area *(of a closed surface)* = क्षेत्रफळ
 
-## center = केंद्र
+### center = केंद्र
 
-## circle = वर्तुळ
+### circle = वर्तुळ
 
-## geometry = भूमिती
+### geometry = भूमिती
 
-## line = ओळ
+### line = ओळ
 
-## midpoint = मध्यबिंदू
+### midpoint = मध्यबिंदू
 
-## perimeter = परिमिती
+### perimeter = परिमिती
 
-## point = बिंदू
+### point = बिंदू
 
-## rectangle = आयत
+### rectangle = आयत
 
-## shape = आकार
+### shape = आकार
 
-## size = माप
+### size = माप
 
-## square = चौकोन
+### square = चौकोन
 
-## triangle = त्रिकोण
+### triangle = त्रिकोण
 
-## volume *(of a 3 dimensional object)* = घनफळ
+### volume *(of a 3 dimensional object)* = घनफळ
 

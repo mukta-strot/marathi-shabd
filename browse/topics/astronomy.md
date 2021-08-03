@@ -1,16 +1,16 @@
 # astronomy
 
-## moon = चंद्र
+### moon = चंद्र
 
-## orbit = कक्षा
+### orbit = कक्षा
 
-## planet = ग्रह
+### planet = ग्रह
 
-## satellite = उपग्रह
+### satellite = उपग्रह
 
-## star = तारा
+### star = तारा
 
-## sun = सूर्य
+### sun = सूर्य
 
-## telescope = दुर्बीण
+### telescope = दुर्बीण
 
