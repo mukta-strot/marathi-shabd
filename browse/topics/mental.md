@@ -12,8 +12,7 @@
 
 ### stress *(of the mind)* = ताण
 
-**Comment**: Colloquially also called as “tension”
+- Comment - Colloquially also called as “tension”
 
----
 ### test *(of someone’s strength)* = परीक्षा
 

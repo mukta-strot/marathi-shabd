@@ -24,9 +24,8 @@
 
 ### news paper = वृत्तपत्र
 
-**Comment**: Colloquially also called as just “paper”
+- Comment - Colloquially also called as just “paper”
 
----
 ### official = अधिकृत
 
 ### reply = उत्तर

@@ -14,11 +14,10 @@
 
 ### experience *(sample context)* = अनुभव
 
-**Sentence**: मला यात अनुभव  आहे
+- Sentence - मला यात अनुभव  आहे
 
-**Comment**: sample comment
+- Comment - sample comment
 
----
 ### formal = औपचारिक
 
 ### informal = अनौपचारिक

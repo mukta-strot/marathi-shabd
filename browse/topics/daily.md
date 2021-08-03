@@ -22,9 +22,8 @@
 
 ### contact = संपर्क
 
-**Sentence**: तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
+- Sentence - तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
 
----
 ### credible = विश्वसनीय
 
 ### critical = गंभीर
@@ -35,11 +34,10 @@
 
 ### experience *(sample context)* = अनुभव
 
-**Sentence**: मला यात अनुभव  आहे
+- Sentence - मला यात अनुभव  आहे
 
-**Comment**: sample comment
+- Comment - sample comment
 
----
 ### expression *(on a person’s face)* = भाव
 
 ### fan = पंखा
@@ -58,9 +56,8 @@
 
 ### light = दिवा
 
-**Sentence**: स्वयंपाकघर ला दिवा बंद कर.
+- Sentence - स्वयंपाकघर ला दिवा बंद कर.
 
----
 ### main = मुख्य
 
 ### mat = चटई

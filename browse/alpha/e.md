@@ -16,11 +16,10 @@
 
 ### experience *(sample context)* = अनुभव
 
-**Sentence**: मला यात अनुभव  आहे
+- Sentence - मला यात अनुभव  आहे
 
-**Comment**: sample comment
+- Comment - sample comment
 
----
 ### expression *(on a person’s face)* = भाव
 
 ### expression = अभिव्यक्ती

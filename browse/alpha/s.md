@@ -30,9 +30,8 @@
 
 ### stress *(of the mind)* = ताण
 
-**Comment**: Colloquially also called as “tension”
+- Comment - Colloquially also called as “tension”
 
----
 ### study = अभ्यास
 
 ### subtract = वजाबाकी
@@ -43,15 +42,13 @@
 
 ### surgery = शस्त्रक्रिया
 
-**Comment**: Colloquially also called as “operation”
+- Comment - Colloquially also called as “operation”
 
----
 ### survey = सर्वेक्षण
 
 ### swiftly = पटकन
 
 ### symptom *(of a disease)* = लक्षण
 
-**Sentence**: मला कोरोनाचे लक्षण दिसत आहेत.
+- Sentence - मला कोरोनाचे लक्षण दिसत आहेत.
 
----

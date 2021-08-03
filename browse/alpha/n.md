@@ -10,9 +10,8 @@
 
 ### news paper = वृत्तपत्र
 
-**Comment**: Colloquially also called as just “paper”
+- Comment - Colloquially also called as just “paper”
 
----
 ### notebook = वही
 
 ### number = संख्या;क्रमांक

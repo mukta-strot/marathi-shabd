@@ -106,9 +106,8 @@
 
 ### contact = संपर्क
 
-**Sentence**: तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
+- Sentence - तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
 
----
 ### credible = विश्वसनीय
 
 ### criteria = निकष
@@ -139,11 +138,10 @@
 
 ### experience *(sample context)* = अनुभव
 
-**Sentence**: मला यात अनुभव  आहे
+- Sentence - मला यात अनुभव  आहे
 
-**Comment**: sample comment
+- Comment - sample comment
 
----
 ### expression *(on a person’s face)* = भाव
 
 ### expression = अभिव्यक्ती
@@ -208,9 +206,8 @@
 
 ### light = दिवा
 
-**Sentence**: स्वयंपाकघर ला दिवा बंद कर.
+- Sentence - स्वयंपाकघर ला दिवा बंद कर.
 
----
 ### line = ओळ
 
 ### lion = सिंह
@@ -251,9 +248,8 @@
 
 ### news paper = वृत्तपत्र
 
-**Comment**: Colloquially also called as just “paper”
+- Comment - Colloquially also called as just “paper”
 
----
 ### notebook = वही
 
 ### number = संख्या;क्रमांक
@@ -286,9 +282,8 @@
 
 ### pharmacy *(where you get medicine)* = दवाखाना
 
-**Comment**: a.k.a. dispensary
+- Comment - a.k.a. dispensary
 
----
 ### planet = ग्रह
 
 ### point = बिंदू
@@ -355,9 +350,8 @@
 
 ### stress *(of the mind)* = ताण
 
-**Comment**: Colloquially also called as “tension”
+- Comment - Colloquially also called as “tension”
 
----
 ### study = अभ्यास
 
 ### subtract = वजाबाकी
@@ -368,18 +362,16 @@
 
 ### surgery = शस्त्रक्रिया
 
-**Comment**: Colloquially also called as “operation”
+- Comment - Colloquially also called as “operation”
 
----
 ### survey = सर्वेक्षण
 
 ### swiftly = पटकन
 
 ### symptom *(of a disease)* = लक्षण
 
-**Sentence**: मला कोरोनाचे लक्षण दिसत आहेत.
+- Sentence - मला कोरोनाचे लक्षण दिसत आहेत.
 
----
 ### telescope = दुर्बीण
 
 ### temperature = तापमान

@@ -18,9 +18,8 @@
 
 ### pharmacy *(where you get medicine)* = दवाखाना
 
-**Comment**: a.k.a. dispensary
+- Comment - a.k.a. dispensary
 
----
 ### planet = ग्रह
 
 ### point = बिंदू
