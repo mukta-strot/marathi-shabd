@@ -17,10 +17,10 @@ class GenBlock:
                 word_block += "### " + row[0] + " = " + row[1] + "\n\n"
 
         if row[4] != "":
-            word_block += "**Sentence**: " + row[4] + "\n\n"
+            word_block += "- Sentence - " + row[4] + "\n\n"
 
         if row[5] != "":
-            word_block += "**Comment**: " + row[5] + "\n\n"
+            word_block += "- Comment - " + row[5] + "\n\n"
 
 #       Temporarily disabled as displaying the tags doesn't give any information.
 #       Can be enabled in future if the tags (topics) can be linked to their 
@@ -29,8 +29,8 @@ class GenBlock:
         #     word_block += "###### Tags: " + row[2] + "\n\n"
 
         # add seperator line if context or sentence is present
-        if row[4] != "" or row[5] != "":
-            word_block += "---\n"
+        # if row[4] != "" or row[5] != "":
+        #     word_block += "---\n"
 
         return word_block
 
