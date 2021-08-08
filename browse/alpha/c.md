@@ -26,6 +26,8 @@
 
 ### clinic = चिकित्सालय
 
+### coating = लेप
+
 ### cold = थंड
 
 ### colour = रंग
@@ -48,13 +50,23 @@
 
 ### connect *(a cable to a port)* = जोड
 
+### constant = स्थिर
+
 ### contact = संपर्क
 
 - Sentence - तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
+
+### continuous = सतत
 
 ### credible = विश्वसनीय
 
 ### criteria = निकष
 
+### critic = टीकाकार
+
 ### critical = गंभीर
+
+### criticise = टीका करणे
+
+### criticism = टीका
 

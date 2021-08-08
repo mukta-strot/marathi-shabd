@@ -22,6 +22,10 @@
 
 ### tower = मनोरा
 
+### transition *(of a planet infront of the sun, when viewed from the Earth)* = अतिक्रमण
+
+- Sentence - आज दुपारी बुद्धाचं सूर्यावरचं अतिक्रमण पाहायला मिळेल.
+
 ### travel = प्रवास
 
 ### triangle = त्रिकोण

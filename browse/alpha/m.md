@@ -6,9 +6,9 @@
 
 ### manpower = मनुष्यबळ
 
-### marks *(in an exam)* = गुण
-
 ### marks *(on a body)* = वण
+
+### marks *(in an exam)* = गुण
 
 ### mat = चटई
 
@@ -16,7 +16,13 @@
 
 ### midpoint = मध्यबिंदू
 
+### minus *(prefix to a negative number)* = उने
+
+- Sentence - तिथे तापमान उणे १० अंश सेल्सिअस आहे. 
+
 ### moon = चंद्र
+
+### moon phase = चंद्रकला
 
 ### moonlight = चांदणे
 

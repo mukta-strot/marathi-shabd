@@ -4,7 +4,11 @@
 
 ### impossible = अशक्य
 
+### inconvenience = गैरसोय
+
 ### informal = अनौपचारिक
+
+### inner planets = अंतर ग्रह
 
 ### insurance = विमा
 

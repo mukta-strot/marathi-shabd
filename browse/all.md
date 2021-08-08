@@ -12,6 +12,10 @@
 
 ### admit *(something that was kept hidden)* = कबूल करणे
 
+### advantage = लाभ,फायदा
+
+### advantageous = लाभदायक
+
 ### agile = चपळ
 
 ### airplane = विमान
@@ -20,9 +24,9 @@
 
 ### angle = कोन
 
-### area *(like a place)* = क्षेत्र
-
 ### area *(of a closed surface)* = क्षेत्रफळ
+
+### area *(like a place)* = क्षेत्र
 
 ### assurance = खात्री
 
@@ -49,6 +53,8 @@
 ### boundary = सीमा
 
 ### box = पेटी
+
+### bribe = लाच
 
 ### building = इमारत
 
@@ -82,6 +88,8 @@
 
 ### clinic = चिकित्सालय
 
+### coating = लेप
+
 ### cold = थंड
 
 ### colour = रंग
@@ -104,23 +112,45 @@
 
 ### connect *(a cable to a port)* = जोड
 
+### constant = स्थिर
+
 ### contact = संपर्क
 
 - Sentence - तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
+
+### continuous = सतत
 
 ### credible = विश्वसनीय
 
 ### criteria = निकष
 
+### critic = टीकाकार
+
 ### critical = गंभीर
+
+### criticise = टीका करणे
+
+### criticism = टीका
 
 ### decision = निर्णय
 
 ### decisive = निर्णायक
 
+### degree *(used in temperature unit deg.C.)* = अंश
+
+- Sentence - तिथे तापमान उणे १० अंश सेल्सिअस आहे. 
+
+### devoted/loyal = एकनिष्ठ
+
 ### dialect = बोलीभाषा
 
 ### dilema = कोंडी
+
+### disadvantage = नुकसान
+
+### discouragement = उत्साहभंग
+
+### distribution = वितरण
 
 ### efficiency = कार्यक्षमता
 
@@ -130,11 +160,21 @@
 
 ### emotional = भावनिक
 
+### encouragement = प्रोत्साहन
+
 ### energy = ऊर्जा
 
 ### entry = प्रवेश
 
+### error = त्रुटी,चूक
+
 ### exchange = विनिमय
+
+### excited = उत्साहित
+
+### exhaust fan = वायुवीजन पंखा
+
+- Comment - not sure, but seems correct from definition of ventilation
 
 ### experience *(sample context)* = अनुभव
 
@@ -142,9 +182,9 @@
 
 - Comment - sample comment
 
-### expression *(on a person’s face)* = भाव
-
 ### expression = अभिव्यक्ती
+
+### expression *(on a person’s face)* = भाव
 
 ### extreme = अत्यंत
 
@@ -170,9 +210,9 @@
 
 ### gravity = गुरुत्व
 
-### hall *(for a gathering or event)* = सभागृह
-
 ### hall *(inside a house)* = दिवाणखाना
+
+### hall *(for a gathering or event)* = सभागृह
 
 ### heat = उष्णता
 
@@ -182,9 +222,13 @@
 
 ### impossible = अशक्य
 
+### inconvenience = गैरसोय
+
 ### India = भारत
 
 ### informal = अनौपचारिक
+
+### inner planets = अंतर ग्रह
 
 ### insurance = विमा
 
@@ -202,11 +246,13 @@
 
 ### law = कायदा
 
+### layer = थर
+
 ### leopard = बिबट्या
 
 ### light = दिवा
 
-- Sentence - स्वयंपाकघर ला दिवा बंद कर.
+- Sentence - स्वयंपाकघरातला दिवा बंद कर.
 
 ### line = ओळ
 
@@ -222,9 +268,9 @@
 
 ### manpower = मनुष्यबळ
 
-### marks *(in an exam)* = गुण
-
 ### marks *(on a body)* = वण
+
+### marks *(in an exam)* = गुण
 
 ### mat = चटई
 
@@ -232,11 +278,21 @@
 
 ### midpoint = मध्यबिंदू
 
+### minus *(prefix to a negative number)* = उने
+
+- Sentence - तिथे तापमान उणे १० अंश सेल्सिअस आहे. 
+
 ### moon = चंद्र
+
+### moon phase = चंद्रकला
 
 ### moonlight = चांदणे
 
 ### multiply = गुणाकार
+
+### narration = कथन
+
+### narrator = निवेदक
 
 ### natural = नैसर्गिक
 
@@ -250,9 +306,13 @@
 
 - Comment - Colloquially also called as just “paper”
 
+### normal distribution = सामान्य वितरण
+
 ### notebook = वही
 
 ### number = संख्या;क्रमांक
+
+### obtuse angle = विशाल कोन
 
 ### official = अधिकृत
 
@@ -263,6 +323,8 @@
 ### option = पर्याय
 
 ### orbit = कक्षा
+
+### outer planets = बाह्य ग्रह
 
 ### paper *(the material used to make pages)* = कागद
 
@@ -275,6 +337,8 @@
 ### patience = संयम
 
 ### patient = रुग्ण
+
+### performance = कामगिरी
 
 ### perimeter = परिमिती
 
@@ -292,11 +356,17 @@
 
 ### pressure = दाब
 
+### print *(a document)* = छाप
+
+- Sentence - ते PDF आज छाप.
+
 ### problem = समस्या
 
 ### prominent = ठळक
 
 ### proportion = प्रमाण
+
+### protective = संरक्षणात्मक
 
 ### quality = गुणवत्ता
 
@@ -318,7 +388,11 @@
 
 ### reversible = उलट करता येण्यासारखा
 
+### right angle = काटकोन
+
 ### road = रस्ता
+
+### rocky = खडकाळ
 
 ### satellite = उपग्रह
 
@@ -342,9 +416,13 @@
 
 ### spontaneous = उत्स्फूर्त
 
+### spy = हेर,गुप्तहेर
+
 ### square = चौकोन
 
 ### star = तारा
+
+### statement = विधान
 
 ### steps = पायर्‍या
 
@@ -359,6 +437,8 @@
 ### sun = सूर्य
 
 ### sunlight = सूर्यप्रकाश
+
+### surface = पृष्ठभाग
 
 ### surgery = शस्त्रक्रिया
 
@@ -394,6 +474,10 @@
 
 ### tower = मनोरा
 
+### transition *(of a planet infront of the sun, when viewed from the Earth)* = अतिक्रमण
+
+- Sentence - आज दुपारी बुद्धाचं सूर्यावरचं अतिक्रमण पाहायला मिळेल.
+
 ### travel = प्रवास
 
 ### triangle = त्रिकोण
@@ -406,13 +490,19 @@
 
 ### unofficial = अनधिकृत
 
+### ventilation = वायुवीजन
+
 ### village = गाव
 
 ### volume *(of a 3 dimensional object)* = घनफळ
 
+### warning = चेतावणी
+
 ### weather = हवामान
 
 ### weight = वजन
+
+### wireless = बिनतारी
 
 ### worrisome = चिंताजनक
 

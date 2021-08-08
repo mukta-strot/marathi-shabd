@@ -2,6 +2,10 @@
 
 ### actually = प्रत्यक्षात
 
+### advantage = लाभ,फायदा
+
+### advantageous = लाभदायक
+
 ### analysis = विश्लेषण
 
 ### assurance = खात्री
@@ -24,6 +28,8 @@
 
 - Sentence - तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
 
+### continuous = सतत
+
 ### credible = विश्वसनीय
 
 ### critical = गंभीर
@@ -31,6 +37,12 @@
 ### decision = निर्णय
 
 ### decisive = निर्णायक
+
+### discouragement = उत्साहभंग
+
+### encouragement = प्रोत्साहन
+
+### excited = उत्साहित
 
 ### experience *(sample context)* = अनुभव
 
@@ -56,7 +68,7 @@
 
 ### light = दिवा
 
-- Sentence - स्वयंपाकघर ला दिवा बंद कर.
+- Sentence - स्वयंपाकघरातला दिवा बंद कर.
 
 ### main = मुख्य
 
@@ -71,6 +83,8 @@
 ### opportunity = संधी
 
 ### option = पर्याय
+
+### paper *(the material used to make pages)* = कागद
 
 ### personal = वैयक्‍तिक
 
@@ -87,6 +101,8 @@
 ### situation = परिस्थिती
 
 ### solution = उपाय
+
+### statement = विधान
 
 ### temperature = तापमान
 

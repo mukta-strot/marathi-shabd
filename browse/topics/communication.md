@@ -6,6 +6,12 @@
 
 ### credible = विश्वसनीय
 
+### critic = टीकाकार
+
+### criticise = टीका करणे
+
+### criticism = टीका
+
 ### dialect = बोलीभाषा
 
 ### feedback = अभिप्राय
@@ -18,6 +24,10 @@
 
 ### literally = अक्षरशः
 
+### narration = कथन
+
+### narrator = निवेदक
+
 ### news = बातमी;वृत्त;समाचार
 
 ### news channel = वृत्तवाहिनी
@@ -27,6 +37,10 @@
 - Comment - Colloquially also called as just “paper”
 
 ### official = अधिकृत
+
+### print *(a document)* = छाप
+
+- Sentence - ते PDF आज छाप.
 
 ### reply = उत्तर
 

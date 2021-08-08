@@ -2,3 +2,5 @@
 
 ### computer = संगणक
 
+### wireless = बिनतारी
+

@@ -14,6 +14,8 @@
 
 ### box = पेटी
 
+### bribe = लाच
+
 ### building = इमारत
 
 ### bus stop = बस स्थानक

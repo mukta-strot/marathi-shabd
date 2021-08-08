@@ -1,8 +1,8 @@
 # h
 
-### hall *(for a gathering or event)* = सभागृह
-
 ### hall *(inside a house)* = दिवाणखाना
+
+### hall *(for a gathering or event)* = सभागृह
 
 ### heat = उष्णता
 

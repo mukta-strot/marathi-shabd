@@ -12,6 +12,10 @@
 
 ### admit *(something that was kept hidden)* = कबूल करणे
 
+### advantage = लाभ,फायदा
+
+### advantageous = लाभदायक
+
 ### agile = चपळ
 
 ### airplane = विमान
@@ -20,9 +24,9 @@
 
 ### angle = कोन
 
-### area *(like a place)* = क्षेत्र
-
 ### area *(of a closed surface)* = क्षेत्रफळ
+
+### area *(like a place)* = क्षेत्र
 
 ### assurance = खात्री
 

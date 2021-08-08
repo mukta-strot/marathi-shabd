@@ -12,6 +12,8 @@
 
 ### patient = रुग्ण
 
+### performance = कामगिरी
+
 ### perimeter = परिमिती
 
 ### personal = वैयक्‍तिक
@@ -28,9 +30,15 @@
 
 ### pressure = दाब
 
+### print *(a document)* = छाप
+
+- Sentence - ते PDF आज छाप.
+
 ### problem = समस्या
 
 ### prominent = ठळक
 
 ### proportion = प्रमाण
+
+### protective = संरक्षणात्मक
 

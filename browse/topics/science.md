@@ -6,9 +6,15 @@
 
 ### atom = अणू
 
+### coating = लेप
+
 ### cold = थंड
 
 ### complex = जटिल
+
+### degree *(used in temperature unit deg.C.)* = अंश
+
+- Sentence - तिथे तापमान उणे १० अंश सेल्सिअस आहे. 
 
 ### efficiency = कार्यक्षमता
 
@@ -24,6 +30,8 @@
 
 ### heat = उष्णता
 
+### layer = थर
+
 ### magnet = चुंबक
 
 ### moonlight = चांदणे
@@ -35,6 +43,8 @@
 ### pressure = दाब
 
 ### sunlight = सूर्यप्रकाश
+
+### surface = पृष्ठभाग
 
 ### symptom *(of a disease)* = लक्षण
 

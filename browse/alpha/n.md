@@ -1,5 +1,9 @@
 # n
 
+### narration = कथन
+
+### narrator = निवेदक
+
 ### natural = नैसर्गिक
 
 ### negative = नकारात्मक
@@ -11,6 +15,8 @@
 ### news paper = वृत्तपत्र
 
 - Comment - Colloquially also called as just “paper”
+
+### normal distribution = सामान्य वितरण
 
 ### notebook = वही
 

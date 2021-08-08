@@ -14,11 +14,15 @@
 
 ### midpoint = मध्यबिंदू
 
+### obtuse angle = विशाल कोन
+
 ### perimeter = परिमिती
 
 ### point = बिंदू
 
 ### rectangle = आयत
+
+### right angle = काटकोन
 
 ### shape = आकार
 

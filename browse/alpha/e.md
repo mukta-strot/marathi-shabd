@@ -8,11 +8,21 @@
 
 ### emotional = भावनिक
 
+### encouragement = प्रोत्साहन
+
 ### energy = ऊर्जा
 
 ### entry = प्रवेश
 
+### error = त्रुटी,चूक
+
 ### exchange = विनिमय
+
+### excited = उत्साहित
+
+### exhaust fan = वायुवीजन पंखा
+
+- Comment - not sure, but seems correct from definition of ventilation
 
 ### experience *(sample context)* = अनुभव
 
@@ -20,9 +30,9 @@
 
 - Comment - sample comment
 
-### expression *(on a person’s face)* = भाव
-
 ### expression = अभिव्यक्ती
+
+### expression *(on a person’s face)* = भाव
 
 ### extreme = अत्यंत
 
