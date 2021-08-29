@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="description" content="Ad-free Marathi Thesaurus">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Marathi Shabd</title>
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/sindresorhus/github-markdown-css/main/github-markdown.css">
+    <link rel="stylesheet" href="./style.css" type="text/css" media="all">
+    <!-- defer is used so the page wil load first and script will execute after -->
+    <script src="./script.js" charset="utf-8" defer></script>
+  </head>
+  <body>
+    <div class="app markdown-body">
+      <div class="search-box">
+        <h1>Marathi Shabd</h1>
+        <hr>
+        <h2>Enter english word to Translate</h2>
+        <h3>Missing a word?<a href="/addword.html" target="_blank">Add new word</a></h3>
+        <input type="text" name="en-query" id="query_english"/>
+        <input type="button" name="en-search" id="en-search" value="Search" onclick="searchHandler()">
+      </div>
+      <hr>
+      <div class="results-box">
+        Results:
+        <div class="results-data" id="results-data">
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>

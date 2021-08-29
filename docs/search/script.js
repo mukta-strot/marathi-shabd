@@ -1,3 +1,4 @@
+const HOST = "https://mr-shabd-backend.herokuapp.com"
 const csvData = []
 
 // Fetching the HTML DOM elements
@@ -5,7 +6,7 @@ const results = document.querySelector('#results-data')
 const wordInput = document.querySelector('#query_english')
 
 // Handler function for search button
-function searchHandler() {
+async function searchHandler() {
   let searchKeyword = wordInput.value
 
   // Convert to lower so as to match lower case word in db.csv
@@ -14,37 +15,39 @@ function searchHandler() {
   // Remove leading and trailing whitespaces 
   searchKeyword = searchKeyword.trim()
   
-  // Search for the keyword from the array
-  let matchedResults = csvData.filter(row => {
-    return row.en == searchKeyword
-  })
-
-  if(matchedResults.length === 0) {
+  // // Search for the keyword from the array
+  // let matchedResults = csvData.filter(row => {
+  //   return row.en == searchKeyword
+  // })
+  const response = await fetch(`${HOST}/word/${searchKeyword}`)
+  const data = await response.json()
+  
+  if(data.hasOwnProperty('err')) {
     results.innerHTML = "The word is currently not in the Thesaurus"
     return
   }
 
   // Display the result in result section
   results.innerHTML = "<span>"
-  for (let matchedRow of matchedResults) {
-    results.innerHTML +=  "<b>" + matchedRow.en.toUpperCase() + "</b> : "
-    results.innerHTML +=  matchedRow.mr + "<br>"
-    if(matchedRow.en_ex) {
-      results.innerHTML += "<b>English example: </b>" + matchedRow.en_ex 
+  // for (let matchedRow of matchedResults) {
+    results.innerHTML +=  "<b>" + data.en.toUpperCase() + "</b> : "
+    results.innerHTML +=  data.mr + "<br>"
+    if(data.en_ex) {
+      results.innerHTML += "<b>English example: </b>" + data.en_ex 
     } else {
       results.innerHTML += "<b>English example currently not available for this word</b>"
     }
 
     results.innerHTML += "<br>"
 
-    if(matchedRow.mr_ex) {
-      results.innerHTML += "<b>Marathi example: </b>" + matchedRow.mr_ex
+    if(data.mr_ex) {
+      results.innerHTML += "<b>Marathi example: </b>" + data.mr_ex
     } else {
       results.innerHTML += "<b>Marathi example currently not available for this word</b>"
     }
 
-  }
-  results.innerHTML += "</span>"
+  // }
+  results.innerHTML += "</span>";
   return
 }
 

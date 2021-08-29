@@ -16,16 +16,16 @@
         <h1>Marathi Shabd</h1>
         <hr>
         <h2>Enter english word to Translate</h2>
-        <input type="text" name="en-query" id="query_english"/>
-        <input type="button" name="en-search" id="en-search" value="Search" onclick="searchHandler()">
-      </div>
-      <hr>
-      <div class="results-box">
-        Results:
-        <div class="results-data" id="results-data">
-        </div>
+        <h3>Seach word <a href="/search" target="_blank">Search word</a></h3>
+        <form action="https://mr-shabd-backend.herokuapp.com/word" method="post" accept-charset="utf-8">
+        English word: <input type="text" name="en" id="eng"/>
+        Marathi meaning: <input type="text" name="mr" id="mr"/>
+        English Example: <textarea name="en-ex" id="enex"></textarea>
+        Marathi example: <textarea name="mr-ex" id="mrex"></textarea>
+        Tags: <textarea name="tags" id="tags"></textarea>
+        <input type="button" name="en-save" id="en-save" value="Add" onclick="addHandle()">
+        </form>
       </div>
     </div>
-
   </body>
 </html>
