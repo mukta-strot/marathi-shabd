@@ -12,7 +12,13 @@
 
 ### floor = मजला
 
+### focal length = केंद्रांतर;नाभीय अंतर
+
+### force = बळ
+
 ### formal = औपचारिक
 
 ### friction = घर्षण
+
+### fry = तळणे
 

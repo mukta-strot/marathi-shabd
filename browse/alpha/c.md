@@ -8,6 +8,8 @@
 
 ### certainty = निश्चितता
 
+### certificate = प्रमाणपत्र
+
 ### chair = खुर्ची
 
 ### chance = संधी
@@ -20,9 +22,13 @@
 
 ### chill = थंडगार
 
+### chop = तुकडे करणे
+
 ### circle = वर्तुळ
 
 ### city = शहर
+
+### clearly = सुस्पष्ट
 
 ### clinic = चिकित्सालय
 
@@ -38,7 +44,11 @@
 
 ### complex = जटिल
 
+### complex = क्लिष्ट;जटिल
+
 ### computer = संगणक
+
+### concave = अंतर्वक्र
 
 ### concept = संकल्पना
 
@@ -47,6 +57,8 @@
 ### conference = परिषद
 
 ### confirm = पुष्टी
+
+### confirm = निश्चित;सुनिश्चित
 
 ### connect *(a cable to a port)* = जोड
 
@@ -57,6 +69,12 @@
 - Sentence - तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
 
 ### continuous = सतत
+
+### convex = बहिर्वक्र
+
+### cooking = स्वयंपाक
+
+### crate = खोके
 
 ### credible = विश्वसनीय
 
@@ -69,4 +87,6 @@
 ### criticise = टीका करणे
 
 ### criticism = टीका
+
+### cut = कापणे
 

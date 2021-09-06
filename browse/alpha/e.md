@@ -30,9 +30,13 @@
 
 - Comment - sample comment
 
+### explore = अन्वेषण
+
 ### expression = अभिव्यक्ती
 
 ### expression *(on a person’s face)* = भाव
 
 ### extreme = अत्यंत
+
+### eyepiece *(objective lens of an optical instrument)* = नेत्रिका
 

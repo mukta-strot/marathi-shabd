@@ -16,17 +16,25 @@
 
 ### perimeter = परिमिती
 
+### peripheral vision = परिघीय दृष्टी
+
 ### personal = वैयक्‍तिक
 
 ### pharmacy *(where you get medicine)* = दवाखाना
 
 - Comment - a.k.a. dispensary
 
+### plane *(a flat surface passing through 3 points)* = प्रतल
+
 ### planet = ग्रह
 
 ### point = बिंदू
 
 ### positive = सकारात्मक
+
+### postpone;suspend;defer *(to delay/put on hold something)* = स्थगित करणे
+
+- Sentence - त्यांनी उद्याचा कार्यक्रम स्थगित केला आहे.
 
 ### pressure = दाब
 

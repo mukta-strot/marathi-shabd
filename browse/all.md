@@ -6,6 +6,8 @@
 
 ### actually = प्रत्यक्षात
 
+### actually = प्रत्यक्षात;वास्तविक पाहता;खरे पाहता
+
 ### add = जोडा
 
 ### admission *(in a school)* = प्रवेश
@@ -20,6 +22,8 @@
 
 ### airplane = विमान
 
+### airtight = हवाबंद
+
 ### analysis = विश्लेषण
 
 ### angle = कोन
@@ -27,6 +31,14 @@
 ### area *(of a closed surface)* = क्षेत्रफळ
 
 ### area *(like a place)* = क्षेत्र
+
+### argument *(as in “They had an argument.”)* = वाद
+
+### argument *(as in “Your argument is valid.”)* = मुद्दा
+
+### assimilate = आत्मसात
+
+- Comment - also “imbibe”
 
 ### assurance = खात्री
 
@@ -42,15 +54,21 @@
 
 ### basic = मूलभूत
 
+### basket = टोपली
+
 ### bed = पलंग
 
 ### board = फळा
 
 ### boat = नाव;होडी
 
+### boil = उकळणे
+
 ### book = पुस्तक
 
 ### boundary = सीमा
+
+### box = पेटी
 
 ### box = पेटी
 
@@ -70,6 +88,8 @@
 
 ### certainty = निश्चितता
 
+### certificate = प्रमाणपत्र
+
 ### chair = खुर्ची
 
 ### chance = संधी
@@ -82,9 +102,13 @@
 
 ### chill = थंडगार
 
+### chop = तुकडे करणे
+
 ### circle = वर्तुळ
 
 ### city = शहर
+
+### clearly = सुस्पष्ट
 
 ### clinic = चिकित्सालय
 
@@ -100,7 +124,11 @@
 
 ### complex = जटिल
 
+### complex = क्लिष्ट;जटिल
+
 ### computer = संगणक
+
+### concave = अंतर्वक्र
 
 ### concept = संकल्पना
 
@@ -109,6 +137,8 @@
 ### conference = परिषद
 
 ### confirm = पुष्टी
+
+### confirm = निश्चित;सुनिश्चित
 
 ### connect *(a cable to a port)* = जोड
 
@@ -119,6 +149,12 @@
 - Sentence - तू माझ्याशी शनिवारी संपर्क साधू शकतो का?
 
 ### continuous = सतत
+
+### convex = बहिर्वक्र
+
+### cooking = स्वयंपाक
+
+### crate = खोके
 
 ### credible = विश्वसनीय
 
@@ -132,6 +168,8 @@
 
 ### criticism = टीका
 
+### cut = कापणे
+
 ### decision = निर्णय
 
 ### decisive = निर्णायक
@@ -140,17 +178,23 @@
 
 - Sentence - तिथे तापमान उणे १० अंश सेल्सिअस आहे. 
 
+### detail = सखोल;सविस्तर;तपशील
+
 ### devoted/loyal = एकनिष्ठ
 
 ### dialect = बोलीभाषा
 
 ### dilema = कोंडी
 
+### dim *(low in intensity)* = मंद
+
 ### disadvantage = नुकसान
 
 ### discouragement = उत्साहभंग
 
 ### distribution = वितरण
+
+### dwarf planet *(pluto is a dwarf planet)* = बटुग्रह
 
 ### efficiency = कार्यक्षमता
 
@@ -182,11 +226,15 @@
 
 - Comment - sample comment
 
+### explore = अन्वेषण
+
 ### expression = अभिव्यक्ती
 
 ### expression *(on a person’s face)* = भाव
 
 ### extreme = अत्यंत
+
+### eyepiece *(objective lens of an optical instrument)* = नेत्रिका
 
 ### fan = पंखा
 
@@ -200,9 +248,17 @@
 
 ### floor = मजला
 
+### focal length = केंद्रांतर;नाभीय अंतर
+
+### force = बळ
+
 ### formal = औपचारिक
 
 ### friction = घर्षण
+
+### fry = तळणे
+
+### genuinely = यथार्थपणे
 
 ### geometry = भूमिती
 
@@ -210,17 +266,35 @@
 
 ### gravity = गुरुत्व
 
+### grind = दळणे
+
+### ground reality = जमिनीवरील वास्तव
+
 ### hall *(inside a house)* = दिवाणखाना
 
 ### hall *(for a gathering or event)* = सभागृह
 
 ### heat = उष्णता
 
+### hemisphere = गोलार्ध
+
+### hole = छिद्र;विवर
+
+### horizon = क्षितिज
+
 ### hospital = रुग्णालय
+
+### hosting *(What a host of a program does)* = सूत्रसंचालन
+
+- Sentence - त्याने उत्तम सूत्रसंचालन केले.
+
+### ICU *(intensive care unit in a medical facility)* = अतिदक्षता विभाग
 
 ### ignore = दुर्लक्ष
 
 ### impossible = अशक्य
+
+### in detail = सविस्तर;विस्ताराने;तपशीलवार
 
 ### inconvenience = गैरसोय
 
@@ -256,21 +330,29 @@
 
 ### line = ओळ
 
+### link = दुवा
+
 ### lion = सिंह
 
 ### literally = अक्षरशः
 
 ### living room = दिवाणखाना
 
+### lockdown = टाळेबंदी
+
+### lucky = भाग्यशाली
+
 ### magnet = चुंबक
+
+### magnification *(of a lens/camera etc.)* = विवर्धन क्षमता
 
 ### main = मुख्य
 
 ### manpower = मनुष्यबळ
 
-### marks *(on a body)* = वण
-
 ### marks *(in an exam)* = गुण
+
+### marks *(on a body)* = वण
 
 ### mat = चटई
 
@@ -296,6 +378,8 @@
 
 ### natural = नैसर्गिक
 
+### need = आवश्यकता;गरज
+
 ### negative = नकारात्मक
 
 ### news = बातमी;वृत्त;समाचार
@@ -310,7 +394,11 @@
 
 ### notebook = वही
 
+### notice board = सूचना फलक
+
 ### number = संख्या;क्रमांक
+
+### observatory *(a building housing a telescope or scientific equipment)* = वेधशाळा
 
 ### obtuse angle = विशाल कोन
 
@@ -342,17 +430,25 @@
 
 ### perimeter = परिमिती
 
+### peripheral vision = परिघीय दृष्टी
+
 ### personal = वैयक्‍तिक
 
 ### pharmacy *(where you get medicine)* = दवाखाना
 
 - Comment - a.k.a. dispensary
 
+### plane *(a flat surface passing through 3 points)* = प्रतल
+
 ### planet = ग्रह
 
 ### point = बिंदू
 
 ### positive = सकारात्मक
+
+### postpone;suspend;defer *(to delay/put on hold something)* = स्थगित करणे
+
+- Sentence - त्यांनी उद्याचा कार्यक्रम स्थगित केला आहे.
 
 ### pressure = दाब
 
@@ -374,7 +470,13 @@
 
 ### reaction = प्रतिक्रिया
 
+### real = वास्तविक;खर
+
+- Comment - Colloquially often used as “actually” at the start of a sentence.
+
 ### rectangle = आयत
+
+### reflect *(a beam of light)* = परावर्तित करणे
 
 ### register *(as in to make a note/comment)* = नोंदणी करा
 
@@ -391,6 +493,8 @@
 ### right angle = काटकोन
 
 ### road = रस्ता
+
+### roast = भाजणे
 
 ### rocky = खडकाळ
 
@@ -410,9 +514,11 @@
 
 ### situation = परिस्थिती
 
-### size = माप
+### size = आकारमान;माप
 
 ### solution = उपाय
+
+### spectrum = वर्णपटल
 
 ### spontaneous = उत्स्फूर्त
 
@@ -432,13 +538,17 @@
 
 ### study = अभ्यास
 
+### sturdy = भक्कम
+
+### submarine = पाणबुडी
+
 ### subtract = वजाबाकी
 
 ### sun = सूर्य
 
 ### sunlight = सूर्यप्रकाश
 
-### surface = पृष्ठभाग
+### surface = पृष्ठ;पृष्ठभाग
 
 ### surgery = शस्त्रक्रिया
 
@@ -458,13 +568,15 @@
 
 ### tension *(in a wire)* = ताण
 
+### test *(of someone’s strength)* = परीक्षा
+
 ### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
 
 ### test *(a small/minor examination)* = चाचणी
 
-### test *(of someone’s strength)* = परीक्षा
-
 ### textbook = पाठ्यपुस्तक
+
+### thermometer = तापमापी
 
 ### ticket = तिकीट
 
@@ -482,11 +594,15 @@
 
 ### triangle = त्रिकोण
 
+### ultraviolet = अतिनील किरणे
+
 ### unavoidable = अटळ
 
 ### uncertainty = अनिश्चितता
 
 ### uncomfortable = अस्वस्थ
+
+### unit = एकक
 
 ### unofficial = अनधिकृत
 
@@ -503,6 +619,8 @@
 ### weight = वजन
 
 ### wireless = बिनतारी
+
+### workshop = कार्यशाळा
 
 ### worrisome = चिंताजनक
 

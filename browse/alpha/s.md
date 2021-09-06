@@ -16,9 +16,11 @@
 
 ### situation = परिस्थिती
 
-### size = माप
+### size = आकारमान;माप
 
 ### solution = उपाय
+
+### spectrum = वर्णपटल
 
 ### spontaneous = उत्स्फूर्त
 
@@ -38,13 +40,17 @@
 
 ### study = अभ्यास
 
+### sturdy = भक्कम
+
+### submarine = पाणबुडी
+
 ### subtract = वजाबाकी
 
 ### sun = सूर्य
 
 ### sunlight = सूर्यप्रकाश
 
-### surface = पृष्ठभाग
+### surface = पृष्ठ;पृष्ठभाग
 
 ### surgery = शस्त्रक्रिया
 

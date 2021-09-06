@@ -16,9 +16,15 @@
 
 ### line = ओळ
 
+### link = दुवा
+
 ### lion = सिंह
 
 ### literally = अक्षरशः
 
 ### living room = दिवाणखाना
+
+### lockdown = टाळेबंदी
+
+### lucky = भाग्यशाली
 

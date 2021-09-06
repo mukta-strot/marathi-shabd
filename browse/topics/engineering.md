@@ -4,6 +4,8 @@
 
 ### automatic = स्वयंचलित
 
+### complex = क्लिष्ट;जटिल
+
 ### concept = संकल्पना
 
 ### connect *(a cable to a port)* = जोड
@@ -11,6 +13,8 @@
 ### efficiency = कार्यक्षमता
 
 ### efficient = कार्यक्षम
+
+### force = बळ
 
 ### friction = घर्षण
 
@@ -28,5 +32,11 @@
 
 ### solution = उपाय
 
+### sturdy = भक्कम
+
 ### survey = सर्वेक्षण
+
+### thermometer = तापमापी
+
+### unit = एकक
 

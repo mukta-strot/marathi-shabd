@@ -4,6 +4,8 @@
 
 ### hospital = रुग्णालय
 
+### ICU *(intensive care unit in a medical facility)* = अतिदक्षता विभाग
+
 ### patient = रुग्ण
 
 ### pharmacy *(where you get medicine)* = दवाखाना

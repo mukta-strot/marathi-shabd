@@ -6,6 +6,8 @@
 
 ### natural = नैसर्गिक
 
+### need = आवश्यकता;गरज
+
 ### negative = नकारात्मक
 
 ### news = बातमी;वृत्त;समाचार
@@ -19,6 +21,8 @@
 ### normal distribution = सामान्य वितरण
 
 ### notebook = वही
+
+### notice board = सूचना फलक
 
 ### number = संख्या;क्रमांक
 

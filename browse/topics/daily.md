@@ -2,11 +2,21 @@
 
 ### actually = प्रत्यक्षात
 
+### actually = प्रत्यक्षात;वास्तविक पाहता;खरे पाहता
+
 ### advantage = लाभ,फायदा
 
 ### advantageous = लाभदायक
 
 ### analysis = विश्लेषण
+
+### argument *(as in “They had an argument.”)* = वाद
+
+### argument *(as in “Your argument is valid.”)* = मुद्दा
+
+### assimilate = आत्मसात
+
+- Comment - also “imbibe”
 
 ### assurance = खात्री
 
@@ -18,7 +28,11 @@
 
 ### check = पडताळा;तपासणी
 
+### clearly = सुस्पष्ट
+
 ### colour = रंग
+
+### complex = क्लिष्ट;जटिल
 
 ### confirm = पुष्टी
 
@@ -54,6 +68,8 @@
 
 ### fan = पंखा
 
+### genuinely = यथार्थपणे
+
 ### ignore = दुर्लक्ष
 
 ### impossible = अशक्य
@@ -70,11 +86,19 @@
 
 - Sentence - स्वयंपाकघरातला दिवा बंद कर.
 
+### link = दुवा
+
+### lucky = भाग्यशाली
+
 ### main = मुख्य
 
 ### mat = चटई
 
 ### natural = नैसर्गिक
+
+### need = आवश्यकता;गरज
+
+### notice board = सूचना फलक
 
 ### number = संख्या;क्रमांक
 
@@ -88,6 +112,10 @@
 
 ### personal = वैयक्‍तिक
 
+### postpone;suspend;defer *(to delay/put on hold something)* = स्थगित करणे
+
+- Sentence - त्यांनी उद्याचा कार्यक्रम स्थगित केला आहे.
+
 ### problem = समस्या
 
 ### proportion = प्रमाण
@@ -96,9 +124,17 @@
 
 ### quantity = मात्रा
 
+### real = वास्तविक;खर
+
+- Comment - Colloquially often used as “actually” at the start of a sentence.
+
 ### sequence = क्रम
 
+### shape = आकार
+
 ### situation = परिस्थिती
+
+### size = आकारमान;माप
 
 ### solution = उपाय
 
@@ -109,6 +145,8 @@
 ### time = वेळ
 
 ### weather = हवामान
+
+### weight = वजन
 
 ### worrisome = चिंताजनक
 

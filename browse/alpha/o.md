@@ -1,5 +1,7 @@
 # o
 
+### observatory *(a building housing a telescope or scientific equipment)* = वेधशाळा
+
 ### obtuse angle = विशाल कोन
 
 ### official = अधिकृत

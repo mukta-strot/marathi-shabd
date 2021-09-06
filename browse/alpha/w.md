@@ -8,5 +8,7 @@
 
 ### wireless = बिनतारी
 
+### workshop = कार्यशाळा
+
 ### worrisome = चिंताजनक
 

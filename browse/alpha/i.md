@@ -4,6 +4,8 @@
 
 ### impossible = अशक्य
 
+### in detail = सविस्तर;विस्ताराने;तपशीलवार
+
 ### inconvenience = गैरसोय
 
 ### informal = अनौपचारिक

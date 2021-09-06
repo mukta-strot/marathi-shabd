@@ -6,13 +6,15 @@
 
 ### tension *(in a wire)* = ताण
 
+### test *(of someone’s strength)* = परीक्षा
+
 ### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
 
 ### test *(a small/minor examination)* = चाचणी
 
-### test *(of someone’s strength)* = परीक्षा
-
 ### textbook = पाठ्यपुस्तक
+
+### thermometer = तापमापी
 
 ### ticket = तिकीट
 
