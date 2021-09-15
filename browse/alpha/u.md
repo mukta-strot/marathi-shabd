@@ -2,6 +2,8 @@
 
 ### ultraviolet = अतिनील किरणे
 
+### umpire = पंच
+
 ### unavoidable = अटळ
 
 ### uncertainty = अनिश्चितता

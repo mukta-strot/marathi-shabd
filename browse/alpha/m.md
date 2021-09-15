@@ -14,6 +14,10 @@
 
 ### mat = चटई
 
+### match tied = सामना अनिर्णित
+
+### medium pace = मध्यमगती
+
 ### meeting = बैठक
 
 ### midpoint = मध्यबिंदू

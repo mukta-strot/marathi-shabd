@@ -12,6 +12,8 @@
 
 ### inner planets = अंतर ग्रह
 
+### innings declared = डाव घोषित
+
 ### insurance = विमा
 
 ### interest = रस

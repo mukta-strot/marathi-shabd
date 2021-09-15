@@ -1,8 +1,12 @@
 # b
 
+### back to pavillion = तंबूत परत
+
 ### basic = मूलभूत
 
 ### basket = टोपली
+
+### batsman = फलंदाज
 
 ### bed = पलंग
 
@@ -15,6 +19,8 @@
 ### book = पुस्तक
 
 ### boundary = सीमा
+
+### bowler = गोलंदाज
 
 ### box = पेटी
 

@@ -52,9 +52,13 @@
 
 ### automatic = स्वयंचलित
 
+### back to pavillion = तंबूत परत
+
 ### basic = मूलभूत
 
 ### basket = टोपली
+
+### batsman = फलंदाज
 
 ### bed = पलंग
 
@@ -67,6 +71,8 @@
 ### book = पुस्तक
 
 ### boundary = सीमा
+
+### bowler = गोलंदाज
 
 ### box = पेटी
 
@@ -84,7 +90,15 @@
 
 ### calculator = गणकयंत्र
 
+### captain = कर्णधार
+
+### catch = झेल
+
+### caught out = झेलबाद
+
 ### center = केंद्र
+
+### century = शतक
 
 ### certainty = निश्चितता
 
@@ -107,6 +121,8 @@
 ### circle = वर्तुळ
 
 ### city = शहर
+
+### clean bowled = त्रिफळा
 
 ### clearly = सुस्पष्ट
 
@@ -194,6 +210,12 @@
 
 ### distribution = वितरण
 
+### double century = द्विशतक
+
+### drinks break = उपहरला खेळ थांबला
+
+### drinks on the ground = शीतपेय मैदानात
+
 ### dwarf planet *(pluto is a dwarf planet)* = बटुग्रह
 
 ### efficiency = कार्यक्षमता
@@ -228,9 +250,9 @@
 
 ### explore = अन्वेषण
 
-### expression = अभिव्यक्ती
-
 ### expression *(on a person’s face)* = भाव
+
+### expression = अभिव्यक्ती
 
 ### extreme = अत्यंत
 
@@ -238,9 +260,13 @@
 
 ### fan = पंखा
 
+### fast pace = जलदगती
+
 ### feedback = अभिप्राय
 
 ### feeling = भावना
+
+### fielder = क्षेत्ररक्षक
 
 ### firm *(as in rigid or sturdy)* = टणक;भक्कम
 
@@ -270,9 +296,11 @@
 
 ### ground reality = जमिनीवरील वास्तव
 
+### hall *(for a gathering or event)* = सभागृह
+
 ### hall *(inside a house)* = दिवाणखाना
 
-### hall *(for a gathering or event)* = सभागृह
+### handled the ball = चेंडू हटल्ल्याने बाद
 
 ### heat = उष्णता
 
@@ -304,6 +332,8 @@
 
 ### inner planets = अंतर ग्रह
 
+### innings declared = डाव घोषित
+
 ### insurance = विमा
 
 ### interest = रस
@@ -321,6 +351,8 @@
 ### law = कायदा
 
 ### layer = थर
+
+### LBW(leg before wicket) = पायचीत
 
 ### leopard = बिबट्या
 
@@ -355,6 +387,10 @@
 ### marks *(on a body)* = वण
 
 ### mat = चटई
+
+### match tied = सामना अनिर्णित
+
+### medium pace = मध्यमगती
 
 ### meeting = बैठक
 
@@ -425,6 +461,8 @@
 ### patience = संयम
 
 ### patient = रुग्ण
+
+### pavillion = तंबू
 
 ### performance = कामगिरी
 
@@ -498,9 +536,15 @@
 
 ### rocky = खडकाळ
 
+### run = धाव
+
+### runout = धावचीत
+
 ### satellite = उपग्रह
 
 ### school = शाळा
+
+### self wicket = स्वयमचीत
 
 ### sensitive = संवेदनशील
 
@@ -516,9 +560,13 @@
 
 ### size = आकारमान;माप
 
+### slow pace = मंदगती
+
 ### solution = उपाय
 
 ### spectrum = वर्णपटल
+
+### spin bowler = फिरकी गोलंदाज
 
 ### spontaneous = उत्स्फूर्त
 
@@ -568,11 +616,11 @@
 
 ### tension *(in a wire)* = ताण
 
+### test *(a small/minor examination)* = चाचणी
+
 ### test *(of someone’s strength)* = परीक्षा
 
 ### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
-
-### test *(a small/minor examination)* = चाचणी
 
 ### textbook = पाठ्यपुस्तक
 
@@ -596,6 +644,8 @@
 
 ### ultraviolet = अतिनील किरणे
 
+### umpire = पंच
+
 ### unavoidable = अटळ
 
 ### uncertainty = अनिश्चितता
@@ -617,6 +667,10 @@
 ### weather = हवामान
 
 ### weight = वजन
+
+### wicket = यष्टी
+
+### wicket keeper = यष्टिरक्षक
 
 ### wireless = बिनतारी
 

@@ -6,6 +6,7 @@ Click on the topic to see words under it.
 - [building](building.md)
 - [communication](communication.md)
 - [cooking](cooking.md)
+- [cricket](cricket.md)
 - [daily](daily.md)
 - [electronics](electronics.md)
 - [engineering](engineering.md)

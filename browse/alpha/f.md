@@ -2,9 +2,13 @@
 
 ### fan = पंखा
 
+### fast pace = जलदगती
+
 ### feedback = अभिप्राय
 
 ### feeling = भावना
+
+### fielder = क्षेत्ररक्षक
 
 ### firm *(as in rigid or sturdy)* = टणक;भक्कम
 

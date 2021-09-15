@@ -12,6 +12,8 @@
 
 ### patient = रुग्ण
 
+### pavillion = तंबू
+
 ### performance = कामगिरी
 
 ### perimeter = परिमिती

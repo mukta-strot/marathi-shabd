@@ -4,7 +4,15 @@
 
 ### calculator = गणकयंत्र
 
+### captain = कर्णधार
+
+### catch = झेल
+
+### caught out = झेलबाद
+
 ### center = केंद्र
+
+### century = शतक
 
 ### certainty = निश्चितता
 
@@ -27,6 +35,8 @@
 ### circle = वर्तुळ
 
 ### city = शहर
+
+### clean bowled = त्रिफळा
 
 ### clearly = सुस्पष्ट
 

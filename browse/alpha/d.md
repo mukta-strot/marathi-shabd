@@ -24,5 +24,11 @@
 
 ### distribution = वितरण
 
+### double century = द्विशतक
+
+### drinks break = उपहरला खेळ थांबला
+
+### drinks on the ground = शीतपेय मैदानात
+
 ### dwarf planet *(pluto is a dwarf planet)* = बटुग्रह
 

@@ -1,8 +1,10 @@
 # h
 
+### hall *(for a gathering or event)* = सभागृह
+
 ### hall *(inside a house)* = दिवाणखाना
 
-### hall *(for a gathering or event)* = सभागृह
+### handled the ball = चेंडू हटल्ल्याने बाद
 
 ### heat = उष्णता
 

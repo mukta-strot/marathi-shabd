@@ -4,6 +4,8 @@
 
 ### school = शाळा
 
+### self wicket = स्वयमचीत
+
 ### sensitive = संवेदनशील
 
 ### sequence = क्रम
@@ -18,9 +20,13 @@
 
 ### size = आकारमान;माप
 
+### slow pace = मंदगती
+
 ### solution = उपाय
 
 ### spectrum = वर्णपटल
+
+### spin bowler = फिरकी गोलंदाज
 
 ### spontaneous = उत्स्फूर्त
 

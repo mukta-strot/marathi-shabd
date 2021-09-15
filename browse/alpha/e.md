@@ -32,9 +32,9 @@
 
 ### explore = अन्वेषण
 
-### expression = अभिव्यक्ती
-
 ### expression *(on a person’s face)* = भाव
+
+### expression = अभिव्यक्ती
 
 ### extreme = अत्यंत
 
