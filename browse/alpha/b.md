@@ -18,7 +18,7 @@
 
 ### book = पुस्तक
 
-### boundary = सीमा
+### boundary = सीमारेषा
 
 ### bowler = गोलंदाज
 

@@ -4,8 +4,6 @@
 
 ### school = शाळा
 
-### self wicket = स्वयमचीत
-
 ### sensitive = संवेदनशील
 
 ### sequence = क्रम
@@ -17,6 +15,8 @@
 ### ship = जहाज
 
 ### situation = परिस्थिती
+
+### six = षटकार
 
 ### size = आकारमान;माप
 
@@ -45,6 +45,8 @@
 - Comment - Colloquially also called as “tension”
 
 ### study = अभ्यास
+
+### stumped out = यष्टीचीत
 
 ### sturdy = भक्कम
 

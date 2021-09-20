@@ -10,6 +10,8 @@
 
 ### hemisphere = गोलार्ध
 
+### hit wicket = स्वयमचीत
+
 ### hole = छिद्र;विवर
 
 ### horizon = क्षितिज

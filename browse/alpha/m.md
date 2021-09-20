@@ -4,6 +4,8 @@
 
 ### magnification *(of a lens/camera etc.)* = विवर्धन क्षमता
 
+### maiden over = निर्धाव षटक
+
 ### main = मुख्य
 
 ### manpower = मनुष्यबळ
@@ -14,11 +16,17 @@
 
 ### mat = चटई
 
+### match = सामना
+
+### match referee = सामनाधिकरी
+
 ### match tied = सामना अनिर्णित
 
 ### medium pace = मध्यमगती
 
 ### meeting = बैठक
+
+### middle stump gone = मधली फळी कोसळली
 
 ### midpoint = मध्यबिंदू
 

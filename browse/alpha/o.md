@@ -6,6 +6,8 @@
 
 ### official = अधिकृत
 
+### opener = सलामी खेळाडू
+
 ### operation *(of a thing)* = चालणे
 
 ### opportunity = संधी
@@ -15,4 +17,6 @@
 ### orbit = कक्षा
 
 ### outer planets = बाह्य ग्रह
+
+### over = षटक
 

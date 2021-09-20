@@ -4,6 +4,8 @@
 
 ### batsman = फलंदाज
 
+### boundary = सीमारेषा
+
 ### bowler = गोलंदाज
 
 ### captain = कर्णधार
@@ -13,6 +15,8 @@
 ### caught out = झेलबाद
 
 ### century = शतक
+
+### cheeky run = चोरटी धाव
 
 ### clean bowled = त्रिफळा
 
@@ -26,27 +30,49 @@
 
 ### fielder = क्षेत्ररक्षक
 
+### four = चौकार
+
 ### handled the ball = चेंडू हटल्ल्याने बाद
+
+### hit wicket = स्वयमचीत
 
 ### innings declared = डाव घोषित
 
 ### LBW(leg before wicket) = पायचीत
 
+### maiden over = निर्धाव षटक
+
+### match = सामना
+
+### match referee = सामनाधिकरी
+
 ### match tied = सामना अनिर्णित
 
 ### medium pace = मध्यमगती
 
+### middle stump gone = मधली फळी कोसळली
+
+### opener = सलामी खेळाडू
+
+### over = षटक
+
 ### pavillion = तंबू
+
+### player = गडी
 
 ### run = धाव
 
 ### runout = धावचीत
 
-### self wicket = स्वयमचीत
+### six = षटकार
 
 ### slow pace = मंदगती
 
 ### spin bowler = फिरकी गोलंदाज
+
+### stumped out = यष्टीचीत
+
+### tour = दौरा
 
 ### umpire = पंच
 

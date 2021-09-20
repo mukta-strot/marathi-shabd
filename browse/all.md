@@ -70,7 +70,7 @@
 
 ### book = पुस्तक
 
-### boundary = सीमा
+### boundary = सीमारेषा
 
 ### bowler = गोलंदाज
 
@@ -113,6 +113,8 @@
 ### check = पडताळा;तपासणी
 
 ### checkup = तपासणी
+
+### cheeky run = चोरटी धाव
 
 ### chill = थंडगार
 
@@ -280,6 +282,8 @@
 
 ### formal = औपचारिक
 
+### four = चौकार
+
 ### friction = घर्षण
 
 ### fry = तळणे
@@ -305,6 +309,8 @@
 ### heat = उष्णता
 
 ### hemisphere = गोलार्ध
+
+### hit wicket = स्वयमचीत
 
 ### hole = छिद्र;विवर
 
@@ -378,6 +384,8 @@
 
 ### magnification *(of a lens/camera etc.)* = विवर्धन क्षमता
 
+### maiden over = निर्धाव षटक
+
 ### main = मुख्य
 
 ### manpower = मनुष्यबळ
@@ -388,11 +396,17 @@
 
 ### mat = चटई
 
+### match = सामना
+
+### match referee = सामनाधिकरी
+
 ### match tied = सामना अनिर्णित
 
 ### medium pace = मध्यमगती
 
 ### meeting = बैठक
+
+### middle stump gone = मधली फळी कोसळली
 
 ### midpoint = मध्यबिंदू
 
@@ -440,6 +454,8 @@
 
 ### official = अधिकृत
 
+### opener = सलामी खेळाडू
+
 ### operation *(of a thing)* = चालणे
 
 ### opportunity = संधी
@@ -449,6 +465,8 @@
 ### orbit = कक्षा
 
 ### outer planets = बाह्य ग्रह
+
+### over = षटक
 
 ### paper *(the material used to make pages)* = कागद
 
@@ -479,6 +497,8 @@
 ### plane *(a flat surface passing through 3 points)* = प्रतल
 
 ### planet = ग्रह
+
+### player = गडी
 
 ### point = बिंदू
 
@@ -544,8 +564,6 @@
 
 ### school = शाळा
 
-### self wicket = स्वयमचीत
-
 ### sensitive = संवेदनशील
 
 ### sequence = क्रम
@@ -557,6 +575,8 @@
 ### ship = जहाज
 
 ### situation = परिस्थिती
+
+### six = षटकार
 
 ### size = आकारमान;माप
 
@@ -585,6 +605,8 @@
 - Comment - Colloquially also called as “tension”
 
 ### study = अभ्यास
+
+### stumped out = यष्टीचीत
 
 ### sturdy = भक्कम
 
@@ -616,11 +638,11 @@
 
 ### tension *(in a wire)* = ताण
 
+### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
+
 ### test *(a small/minor examination)* = चाचणी
 
 ### test *(of someone’s strength)* = परीक्षा
-
-### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
 
 ### textbook = पाठ्यपुस्तक
 
@@ -631,6 +653,8 @@
 ### tiger = वाघ
 
 ### time = वेळ
+
+### tour = दौरा
 
 ### tower = मनोरा
 

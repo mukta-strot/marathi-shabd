@@ -30,6 +30,8 @@
 
 ### planet = ग्रह
 
+### player = गडी
+
 ### point = बिंदू
 
 ### positive = सकारात्मक
