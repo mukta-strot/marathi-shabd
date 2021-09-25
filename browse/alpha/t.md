@@ -6,11 +6,11 @@
 
 ### tension *(in a wire)* = ताण
 
-### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
-
 ### test *(a small/minor examination)* = चाचणी
 
 ### test *(of someone’s strength)* = परीक्षा
+
+### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
 
 ### textbook = पाठ्यपुस्तक
 
@@ -21,6 +21,8 @@
 ### tiger = वाघ
 
 ### time = वेळ
+
+### toilet = संडास;प्रसाधनगृह;प्रसाधनकक्ष
 
 ### tour = दौरा
 

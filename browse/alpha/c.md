@@ -54,8 +54,6 @@
 
 ### community = समुदाय
 
-### complex = जटिल
-
 ### complex = क्लिष्ट;जटिल
 
 ### computer = संगणक
@@ -68,9 +66,7 @@
 
 ### conference = परिषद
 
-### confirm = पुष्टी
-
-### confirm = निश्चित;सुनिश्चित
+### confirm = निश्चित;सुनिश्चित;पुष्टी
 
 ### connect *(a cable to a port)* = जोड
 

@@ -22,9 +22,9 @@
 
 ### literally = अक्षरशः
 
-### living room = दिवाणखाना
-
 ### lockdown = टाळेबंदी
+
+### loft = माळा
 
 ### lucky = भाग्यशाली
 

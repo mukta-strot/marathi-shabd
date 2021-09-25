@@ -54,13 +54,25 @@
 
 ### back to pavillion = तंबूत परत
 
+### backyard = परस;मागील अंगण
+
+- Sentence - परसात जाऊन खेळा.
+
+### balcony = गच्ची;सज्जा
+
+### basement/cellar = तळघर
+
 ### basic = मूलभूत
 
 ### basket = टोपली
 
+### bathroom = मोरी;न्हाणी;न्हाणीघर
+
 ### batsman = फलंदाज
 
 ### bed = पलंग
+
+### bedroom = शयनकक्ष;झोपायची खोली
 
 ### board = फळा
 
@@ -140,8 +152,6 @@
 
 ### community = समुदाय
 
-### complex = जटिल
-
 ### complex = क्लिष्ट;जटिल
 
 ### computer = संगणक
@@ -154,9 +164,7 @@
 
 ### conference = परिषद
 
-### confirm = पुष्टी
-
-### confirm = निश्चित;सुनिश्चित
+### confirm = निश्चित;सुनिश्चित;पुष्टी
 
 ### connect *(a cable to a port)* = जोड
 
@@ -240,7 +248,7 @@
 
 ### excited = उत्साहित
 
-### exhaust fan = वायुवीजन पंखा
+### exhaust (ventilation) fan = वायुवीजन पंखा
 
 - Comment - not sure, but seems correct from definition of ventilation
 
@@ -252,9 +260,9 @@
 
 ### explore = अन्वेषण
 
-### expression *(on a person’s face)* = भाव
-
 ### expression = अभिव्यक्ती
+
+### expression *(on a person’s face)* = भाव
 
 ### extreme = अत्यंत
 
@@ -271,6 +279,8 @@
 ### fielder = क्षेत्ररक्षक
 
 ### firm *(as in rigid or sturdy)* = टणक;भक्कम
+
+### flat (apartment) = सदनिका
 
 ### flight = उड्डाण
 
@@ -300,9 +310,13 @@
 
 ### ground reality = जमिनीवरील वास्तव
 
+### guest room = अतिथीगृह;पाहुण्यांची खोली
+
 ### hall *(for a gathering or event)* = सभागृह
 
-### hall *(inside a house)* = दिवाणखाना
+### hall (living room) = बैठक;बैठकीची खोली;माजघर;दिवाण खोली
+
+- Comment - माजघरात घरच्या व्यक्ती असतात, तर बैठकीच्या खोलीत बाहेरून भेटायला येणारे. सध्या इतक्या वेगवेगळ्या खोल्या नसतात.
 
 ### handled the ball = चेंडू हटल्ल्याने बाद
 
@@ -350,6 +364,8 @@
 
 ### job = नोकरी
 
+### kitchen = स्वयंपाकघर
+
 ### language = भाषा
 
 ### latest = नवीनतम
@@ -374,9 +390,9 @@
 
 ### literally = अक्षरशः
 
-### living room = दिवाणखाना
-
 ### lockdown = टाळेबंदी
+
+### loft = माळा
 
 ### lucky = भाग्यशाली
 
@@ -476,6 +492,8 @@
 
 ### parking lot = वाहनतळ
 
+### passage = पडवी;ओसरी
+
 ### patience = संयम
 
 ### patient = रुग्ण
@@ -507,6 +525,8 @@
 ### postpone;suspend;defer *(to delay/put on hold something)* = स्थगित करणे
 
 - Sentence - त्यांनी उद्याचा कार्यक्रम स्थगित केला आहे.
+
+### prayer room = देवघर;पूजा घर
 
 ### pressure = दाब
 
@@ -606,6 +626,8 @@
 
 ### study = अभ्यास
 
+### study room = अभ्यासिका;अभ्यासाची खोली
+
 ### stumped out = यष्टीचीत
 
 ### sturdy = भक्कम
@@ -638,11 +660,11 @@
 
 ### tension *(in a wire)* = ताण
 
-### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
-
 ### test *(a small/minor examination)* = चाचणी
 
 ### test *(of someone’s strength)* = परीक्षा
+
+### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
 
 ### textbook = पाठ्यपुस्तक
 
@@ -653,6 +675,8 @@
 ### tiger = वाघ
 
 ### time = वेळ
+
+### toilet = संडास;प्रसाधनगृह;प्रसाधनकक्ष
 
 ### tour = दौरा
 

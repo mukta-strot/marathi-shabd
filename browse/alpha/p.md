@@ -8,6 +8,8 @@
 
 ### parking lot = वाहनतळ
 
+### passage = पडवी;ओसरी
+
 ### patience = संयम
 
 ### patient = रुग्ण
@@ -39,6 +41,8 @@
 ### postpone;suspend;defer *(to delay/put on hold something)* = स्थगित करणे
 
 - Sentence - त्यांनी उद्याचा कार्यक्रम स्थगित केला आहे.
+
+### prayer room = देवघर;पूजा घर
 
 ### pressure = दाब
 

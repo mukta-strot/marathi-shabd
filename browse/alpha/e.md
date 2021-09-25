@@ -20,7 +20,7 @@
 
 ### excited = उत्साहित
 
-### exhaust fan = वायुवीजन पंखा
+### exhaust (ventilation) fan = वायुवीजन पंखा
 
 - Comment - not sure, but seems correct from definition of ventilation
 
@@ -32,9 +32,9 @@
 
 ### explore = अन्वेषण
 
-### expression *(on a person’s face)* = भाव
-
 ### expression = अभिव्यक्ती
+
+### expression *(on a person’s face)* = भाव
 
 ### extreme = अत्यंत
 

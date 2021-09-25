@@ -12,6 +12,8 @@
 
 ### firm *(as in rigid or sturdy)* = टणक;भक्कम
 
+### flat (apartment) = सदनिका
+
 ### flight = उड्डाण
 
 ### floor = मजला

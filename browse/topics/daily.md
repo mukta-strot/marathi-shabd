@@ -34,8 +34,6 @@
 
 ### complex = क्लिष्ट;जटिल
 
-### confirm = पुष्टी
-
 ### connect *(a cable to a port)* = जोड
 
 ### contact = संपर्क
