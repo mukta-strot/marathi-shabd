@@ -36,3 +36,18 @@ better maintainability and re-usability of the code.
     interface.
 
 [Here](https://github.com/mukta-strot/marathi-shabd/issues/14#issuecomment-876212690) is some previous guidance regarding unix philosophy from this repo itself.
+
+## How to
+
+### Add/modify words
+
+1. Edit the [database file](database/db.csv) for the words that are to be
+   added/modified.
+  - The `readme.md` in the `database` folder explains the format of the database.
+2. Auto generate all "browse" markdown files affected due to above step.
+
+```
+> cd browse/scripts
+> python3 main.py
+```
+3. Commit your changes and submit a PR.
