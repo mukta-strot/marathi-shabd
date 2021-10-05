@@ -252,6 +252,8 @@
 
 - Comment - not sure, but seems correct from definition of ventilation
 
+### expected = अपेक्षित
+
 ### experience *(sample context)* = अनुभव
 
 - Sentence - मला यात अनुभव  आहे
@@ -260,9 +262,9 @@
 
 ### explore = अन्वेषण
 
-### expression = अभिव्यक्ती
-
 ### expression *(on a person’s face)* = भाव
+
+### expression = अभिव्यक्ती
 
 ### extreme = अत्यंत
 
@@ -406,9 +408,9 @@
 
 ### manpower = मनुष्यबळ
 
-### marks *(in an exam)* = गुण
-
 ### marks *(on a body)* = वण
+
+### marks *(in an exam)* = गुण
 
 ### mat = चटई
 
@@ -660,11 +662,11 @@
 
 ### tension *(in a wire)* = ताण
 
-### test *(a small/minor examination)* = चाचणी
-
 ### test *(of someone’s strength)* = परीक्षा
 
 ### test *(a diagnostic evaluation to determine cause of an illness)* = चाचणी
+
+### test *(a small/minor examination)* = चाचणी
 
 ### textbook = पाठ्यपुस्तक
 
