@@ -38,6 +38,8 @@
 
 ### box = पेटी
 
+### breaking news = ताजी बातमी
+
 ### bribe = लाच
 
 ### building = इमारत

@@ -10,6 +10,8 @@
 
 ### uncomfortable = अस्वस्थ
 
+### uniformity = एकरूपता
+
 ### unit = एकक
 
 ### unofficial = अनधिकृत

@@ -21,6 +21,7 @@ Click on the topic to see words under it.
 - [maths](maths.md)
 - [medical](medical.md)
 - [mental](mental.md)
+- [news](news.md)
 - [physics](physics.md)
 - [places](places.md)
 - [relationship](relationship.md)

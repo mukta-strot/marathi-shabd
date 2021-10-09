@@ -56,11 +56,9 @@
 
 ### excited = उत्साहित
 
-### experience *(sample context)* = अनुभव
+### experience = अनुभव
 
 - Sentence - मला यात अनुभव  आहे
-
-- Comment - sample comment
 
 ### expression *(on a person’s face)* = भाव
 
@@ -107,6 +105,8 @@
 ### option = पर्याय
 
 ### paper *(the material used to make pages)* = कागद
+
+### patience = संयम
 
 ### personal = वैयक्‍तिक
 

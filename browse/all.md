@@ -90,6 +90,8 @@
 
 ### box = पेटी
 
+### breaking news = ताजी बातमी
+
 ### bribe = लाच
 
 ### building = इमारत
@@ -254,17 +256,15 @@
 
 ### expected = अपेक्षित
 
-### experience *(sample context)* = अनुभव
+### experience = अनुभव
 
 - Sentence - मला यात अनुभव  आहे
 
-- Comment - sample comment
-
 ### explore = अन्वेषण
 
-### expression *(on a person’s face)* = भाव
-
 ### expression = अभिव्यक्ती
+
+### expression *(on a person’s face)* = भाव
 
 ### extreme = अत्यंत
 
@@ -408,9 +408,9 @@
 
 ### manpower = मनुष्यबळ
 
-### marks *(on a body)* = वण
-
 ### marks *(in an exam)* = गुण
+
+### marks *(on a body)* = वण
 
 ### mat = चटई
 
@@ -498,6 +498,8 @@
 
 ### patience = संयम
 
+### patience = संयम
+
 ### patient = रुग्ण
 
 ### pavillion = तंबू
@@ -547,6 +549,8 @@
 ### quality = गुणवत्ता
 
 ### quantity = मात्रा
+
+### quarantine = विलगीकरण
 
 ### reaction = प्रतिक्रिया
 
@@ -702,6 +706,8 @@
 
 ### uncomfortable = अस्वस्थ
 
+### uniformity = एकरूपता
+
 ### unit = एकक
 
 ### unofficial = अनधिकृत
@@ -717,6 +723,8 @@
 ### weather = हवामान
 
 ### weight = वजन
+
+### whistleblower = जागल्या
 
 ### wicket = यष्टी
 

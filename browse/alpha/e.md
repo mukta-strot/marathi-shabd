@@ -26,17 +26,15 @@
 
 ### expected = अपेक्षित
 
-### experience *(sample context)* = अनुभव
+### experience = अनुभव
 
 - Sentence - मला यात अनुभव  आहे
 
-- Comment - sample comment
-
 ### explore = अन्वेषण
 
-### expression *(on a person’s face)* = भाव
-
 ### expression = अभिव्यक्ती
+
+### expression *(on a person’s face)* = भाव
 
 ### extreme = अत्यंत
 

@@ -12,6 +12,8 @@
 
 ### patience = संयम
 
+### patience = संयम
+
 ### patient = रुग्ण
 
 ### pavillion = तंबू

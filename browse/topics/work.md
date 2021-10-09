@@ -16,11 +16,9 @@
 
 ### decisive = निर्णायक
 
-### experience *(sample context)* = अनुभव
+### experience = अनुभव
 
 - Sentence - मला यात अनुभव  आहे
-
-- Comment - sample comment
 
 ### formal = औपचारिक
 

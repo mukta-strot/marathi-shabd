@@ -6,6 +6,8 @@
 
 ### weight = वजन
 
+### whistleblower = जागल्या
+
 ### wicket = यष्टी
 
 ### wicket keeper = यष्टिरक्षक

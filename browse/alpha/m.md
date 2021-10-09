@@ -10,9 +10,9 @@
 
 ### manpower = मनुष्यबळ
 
-### marks *(on a body)* = वण
-
 ### marks *(in an exam)* = गुण
+
+### marks *(on a body)* = वण
 
 ### mat = चटई
 

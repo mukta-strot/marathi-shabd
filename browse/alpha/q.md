@@ -4,3 +4,5 @@
 
 ### quantity = मात्रा
 
+### quarantine = विलगीकरण
+

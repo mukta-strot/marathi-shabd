@@ -4,3 +4,5 @@
 
 ### lockdown = टाळेबंदी
 
+### quarantine = विलगीकरण
+
