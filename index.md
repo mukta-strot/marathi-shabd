@@ -51,6 +51,11 @@ own topics pages, which in turn contain word-blocks for all words in that topic.
 <!--add an input text box here where user can input an english word and click a
 button to search its Marathi word-->
 
+## Suggest/Add/Correct
+
+- [Suggest missing/incorrect words.](https://forms.zohopublic.in/muktastrot/form/test1/formperma/L_E2CSY8UnY5oBLOcBT2YLSwgzCj8p1VgKakIfBLgBM)
+- [Generic suggestions regarding incorrect usage of Hindi/English influenced words/grammar etc. in Marathi.](https://forms.zohopublic.in/muktastrot/form/Untitled/formperma/KuYiJf3sNM_uaDI7hhUaR1Zn5UF0GXhUvgjVXTleZY4)
+
 ## About
 
 This is a simple **English to Marathi thesaurus**.
